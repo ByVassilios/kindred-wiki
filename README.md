@@ -51,6 +51,7 @@ ritual, Path, item and relic, each tab and menu, the events, and the settings.
 | [Relics and lore](Relics-and-Lore.md) | Artifacts, clan relics, lore texts, torpor crypts, traders |
 | [Items and buildings](Items-and-Buildings.md) | Items, weapons, buildings, recipes and summoned creatures |
 | [The tavern](Tavern.md) | The counter, prices, guests, guest beds, and guests as vessels |
+| [Werewolves](Werewolves.md) | The Garou, with The Rim by Night: Garou loaded: what they smell, the Embrace, fighting them |
 
 **Reference**
 
