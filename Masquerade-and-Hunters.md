@@ -41,7 +41,7 @@ One number from 0 to 100, in the Kindred main tab. It fades slowly while nothing
 | Rumours | 20-39 | Visitors are warier. Your sect sends a warning |
 | Suspected | 40-59 | Hunters start looking. No traders at night. Camarilla standing drops |
 | Exposed | 60-79 | Hunter raids by day with fire and stakes. The Camarilla wants it fixed, or calls a blood hunt |
-| Shattered | 80-100 | The Mendicant Order: organised daylight assaults with True Faith and fire |
+| Shattered | 80-100 | The hunting order: organised daylight assaults with True Faith and fire |
 
 You can turn the whole system off, or scale how fast breaches count and fade, in the mod
 settings.
@@ -53,7 +53,7 @@ until they see a vampire at work or spot fang marks. Then they turn hostile, or 
 back with friends. They carry stakes and fire, and some have True Faith. They show up more often
 once the Masquerade is suspected.
 
-**Hunter raids** come by day from Exposed. **The Mendicant Order** comes when the Masquerade is
+**Hunter raids** come by day from Exposed. **The hunting order** comes when the Masquerade is
 shattered.
 
 A dead hunter may leave a notebook naming the breach that brought them.

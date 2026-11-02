@@ -25,7 +25,7 @@ loaded so does **Remove Kindred from this game**.
 | Soften clan weaknesses | Each clan's weakness still applies, in a milder form. |
 | Blood heals mortal scars | Off, a vampire keeps the scars it had when it was Embraced, and blood heals only the ones since. On, blood heals those old scars as well. |
 | **The Masquerade** | |
-| Breaches have consequences | Outsiders who see a vampire at work carry the story away, and the world reacts: warier visitors, then hunters, then the Mendicant Order. Turn off to play without any of it. |
+| Breaches have consequences | Outsiders who see a vampire at work carry the story away, and the world reacts: warier visitors, then hunters, then the hunting order. Turn off to play without any of it. |
 | How much a breach counts | How much each sighting adds to the colony's Masquerade breach score. |
 | How fast breaches fade | How quickly the world forgets what it saw. Higher numbers bring the breach score down sooner. |
 | **Effects** | |

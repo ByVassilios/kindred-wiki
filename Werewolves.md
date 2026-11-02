@@ -46,7 +46,7 @@ Rage, and may frenzy.
 
 A colony can keep both, and it's tense. The Garou resent every vampire in it, more for one that
 smells of the Wyrm, and roll for frenzy when a vampire of the colony feeds in sight. Vampires near
-the colony's Garou are uneasy. The septs of the Free Rangers think less of the colony each day it
+the colony's Garou are uneasy. The septs think less of the colony each day it
 keeps both. Friendship between a vampire and a Garou can still grow, slowly.
 
 ## Events

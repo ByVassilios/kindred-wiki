@@ -14,7 +14,7 @@ Setting: **Hunters**. Driven by the Masquerade breach score, see
 | Travellers | Visitors who are really hunters or investigators. Investigators ask around about what was seen, and once they have a name they pack up to pass it on. Stop them before they leave the map |
 | The hunters have a name | An investigator got away. A group of hunters comes within a few days, straight for the vampire they named |
 | Hunters in daylight | From the Exposed breach level: an armed band arrives while the sun is up, with fire and stakes |
-| The Mendicant Order | At Shattered: the Inquisition's heirs, in force and by day |
+| The hunting order | At Shattered: the Inquisition's heirs, in force and by day |
 
 ## Sect politics
 
