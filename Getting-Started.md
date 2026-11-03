@@ -25,6 +25,8 @@ There are three ways to get one.
 | **Independent clan crew** | Two Kindred of one of the Independent clans, sent out by their elders on clan business, with three mortals to do the work by day. The clan already has a haven on this world, and it is expecting you. |
 | **The stowaway** | The three of you wake to sirens and tearing metal and barely make the escape pods. One of you was never really asleep. They boarded the ship hidden in a cryptosleep casket, and the others are about to find out what they are. |
 
+Each colonist in these scenarios starts with one random weapon in hand, picked from the scenario's own list. Some scenarios add a steel helmet, a robe or both. Stowaway keeps Crashlanded's gear.
+
 You can also add the "starting Kindred" part to any scenario in the vanilla scenario editor. It
 sets how many starting colonists are Kindred, their generation range, and whether the others
 know.
