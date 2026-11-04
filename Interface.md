@@ -135,7 +135,7 @@ A vampire's buttons, besides vanilla's.
 | Draw from the hilt | The Sword of Dracula's stored blood |
 | Dispel | On an illusion, to make it go |
 | Feed false news | On a colonist caught reporting to a court |
-| Unleash | On a drafted colonist, beside Fire at will. It goes after the nearest enemy anywhere on the map and fights as an enemy of its kind would: powers first, closing in unseen, pulling back to heal when badly hurt. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it |
+| Unleash | On a drafted colonist, beside Fire at will. It goes after the nearest enemy anywhere on the map and fights as an enemy of its kind would: powers first, closing in unseen, pulling back to heal when badly hurt. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it. While it's on, a **Pick target** button chooses the enemy it goes after. Once that enemy is down or gone it picks the nearest one again, and clicking the button clears the target early. A power aimed out of range or out of sight walks the pawn closer, then casts. |
 
 **Power menus.** Some powers ask what to do once they've been paid for: which Attribute the blood
 buff raises, which order Dominate gives, what Fleshcraft makes. The menu stays open until you pick

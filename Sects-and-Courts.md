@@ -40,7 +40,8 @@ Breaking one only costs you if someone finds out.
 
 A court is a group of Kindred hiding in a settlement. The mortals there don't know. A world has a
 few of them, and you only see one on the map once you've learned about it: from an envoy, a
-captured vampire, a sleeper, a lore text, or gossip.
+captured vampire, a sleeper, a lore text, or gossip about a court near you. Your vampires also learn of a
+court by meeting one of its members, or by a court you know vouching for it.
 
 Courts change while you play, and the Chronicle in the Kindred overview reports it. A city can fall
 to a Sabbat siege or an Anarch revolt, and the Camarilla can take it back. A siege always comes
@@ -184,14 +185,15 @@ its hounds by night, at most every six days. The letter gives three answers:
 
 ## The Red List
 
-The Camarilla's list of the Kindred it most wants destroyed. Once the colony has Kindred, five
-Anathema roam the world map, each a 6th-generation vampire with every Discipline it has at its
-limit, harder to hurt and quicker than any elder, guilty of some great crime. A name struck off is
-replaced a quadrum after the last one went on.
+The Camarilla's list of the Kindred it most wants destroyed. Five Anathema roam the world map,
+whether the colony has Kindred or not, each a 6th-generation vampire with every Discipline it has
+at its limit, harder to hurt and quicker than any elder, guilty of some great crime. A name struck
+off is replaced a quadrum after the last one went on. Only a colony in the Camarilla knows the list:
+anyone else gets no letters, sees no marks and hears no rumours, and meets an Anathema as a stranger.
 
 - **The mark.** Each Anathema is a mark on the world map, 10 to 40 tiles from home, moving a few
-  tiles every three days or so. It shows only while it's within 25 tiles of a home or a colony
-  caravan, or on a map.
+  tiles every three days or so, and about one move in four it stops in a town. It shows only while
+  it's within 25 tiles of a home or a colony caravan, or on a map.
 - **The Red List window**, from the Overview tab of the Kindred window or from the mark's button,
   shows only what the colony knows. The name is always known. Clan, generation, crime, retinue and
   each Discipline are rolled when the name goes on the list, and every few days a rumour adds one
@@ -200,6 +202,8 @@ replaced a quadrum after the last one went on.
 - **The hunt.** A caravan sent to the mark always finds it, and fights it with up to 3 ghouls on a
   map of its own. By night it fights at once. By day it's already sheltered, in a haven one of its
   powers makes or dug into the earth, with its ghouls on guard. Opened before dusk, it's in the sun.
+- **In a town.** A caravan that walks into the town by night finds it among the townsfolk with its
+  retinue, keeping to one spot. By day it's out of sight. It passes for a stranger as on a visit.
 - **A visit.** One within 12 tiles may cross the colony's land by night with its retinue. If it has
   never fought the colony, it doesn't know who lives there and walks on through. Hurt it or anyone
   with it, or use a power on any of them, and they all attack. One that has fought the colony before

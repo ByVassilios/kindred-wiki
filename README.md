@@ -64,7 +64,7 @@ ritual, Path, item and relic, each tab and menu, the events, and the settings.
 
 ## Requirements
 
-- RimWorld 1.6
+- RimWorld 1.6 or 1.7
 - [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077)
 - No DLC. Royalty, Ideology, Biotech, Anomaly and Odyssey all work alongside it.
 

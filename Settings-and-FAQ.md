@@ -107,6 +107,11 @@ projectiles hit in CE's units, and the hunters' guns are CE guns that need no am
 Courts deal only with homes on the ground. A colony that is all in orbit gets no offers, envoys
 or court services until it lands.
 
+**Will a town I visit again have the same people?**
+
+Yes. Every town the colony walks into keeps its people between visits, unless they died or left. A friendly town
+stays friendly while you're there: its people only turn on you if the faction does.
+
 **Where do I look something up in game?**
 The [grimoire](Interface.md#the-grimoire), the book button in the bottom-right corner. Type a
 question into its search.
@@ -117,6 +122,7 @@ With dev mode on, the debug actions menu has a "Vampires" category. **Make vampi
 colonist into a Kindred with rolled defaults, and **Open making menu** lets you choose instead.
 The full list:
 
+- A sect hears of your hunters
 - Make vampire
 - Hunting trip letter
 - Sire demand letter
