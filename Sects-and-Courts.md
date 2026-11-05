@@ -52,8 +52,10 @@ instead. While the world has fewer courts than it started with, Kindred from els
 one about once a year. With Garou loaded, werewolf septs raid courts near them, and with Imbued,
 hunter cells hunt them.
 
-**Visiting.** Send a caravan with at least one Kindred. The court window opens on arrival:
-present yourself, take missions, pay for services with boons, and see who holds which seat.
+**Visiting.** Send a caravan with at least one Kindred and pick **Visit the court at X**. It
+walks into the town as guests, and every vampire in it is presented on arrival. While your
+Kindred are there, in the town or in a caravan on its tile, the court's window (from the Courts
+page of the Kindred tab) opens in person: Elysium, rumours, gifts, teaching and hand-overs.
 
 **Attacking.** A court's city is open ground with the court's house on it, built in its sect's
 style. Its Kindred defend it, with a guard of three to six ghoul retainers in old-world gear.
@@ -214,9 +216,8 @@ boon, and the court page gets a Your domain section.
 - **Tribute:** 100 silver and 25 for each member, by drop pod each season.
 - **The Prince's word:** your own vampires get leave to Embrace, a pardon and a blood hunt lifted
   there for nothing.
-- **Call a blood hunt** on any member. It is just when the member's coterie is hostile to you, it
-  is on your grudge list, or it refused or put off a boon it owes you. Otherwise your sect thinks 5
-  less of you.
+- **Call a blood hunt** on any member. It is just when the member's coterie is hostile to you or it
+  is on your grudge list. Otherwise your sect thinks 5 less of you.
 
 Rivals plot against your coterie as against any Prince. Lose a showdown and your vampires there go
 back to acknowledged, leave their coteries, and the court shuts its doors to you for a year: no
@@ -291,9 +292,6 @@ and a debtor nobody can find is greyed with a "?".
   ritual, Ventrue money, Lasombra shadows round a caravan, Tzimisce fleshcraft, an Assamite
   contract, a Setite vice, a Giovanni ghost's tale, a Ravnos decoy, Salubri healing, a song from a
   Daughter of Cacophony, a Kiasyd lore text, a Gargoyle guard.
-- An elder (7th generation or lower, or one with a seat) who outranks the vampire calling it in may
-  put you off for 5 to 10 days, and now and then refuses outright. A refusal is a scandal at its
-  court: its coterie loses 1 power and the court thinks 5 better of you. Either way the boon stands.
 
 New ways to earn one: carry a downed friendly vampire to safety (minor) or wake one from torpor
 with colony blood (major), keep quiet about a visitor you saw break the Masquerade (or report it
