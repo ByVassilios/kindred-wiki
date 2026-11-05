@@ -43,7 +43,7 @@ The words Kindred use, as the mod uses them.
 | Archon | An enforcer of the Camarilla |
 | The Masquerade | Hiding what vampires are from the mortal world |
 | Breach | Something outsiders saw that they shouldn't have |
-| Coterie | A group of Kindred who stand together. Your colony's vampires |
+| Coterie | A group of Kindred who stand together: your colony's vampires, or one of the factions inside a court (see [Coteries](Sects-and-Courts.md#coteries)) |
 | Vaulderie | The Sabbat rite that binds a pack with mixed blood |
 
 [← Contents](README.md)

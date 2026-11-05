@@ -45,6 +45,7 @@ loaded so does **Remove Kindred from this game**.
 | Sect politics | Archons, Sabbat packs and Anarch gangs sent against the colony, infiltrators, thralls of outside Kindred, Anarch unrest, Assamite contracts, Setite corruption and Tremere hit teams. |
 | Kindred attacks | Rogue bands, elder raids, and the angry dead coming back to haunt the colony. |
 | Kindred visitors | Kindred at the door, Path mentors, the occult trader, the ghoul black market, the anonymous benefactor and revenants asking to join. |
+| A stranger at the door | A colony with no vampire gets a pale stranger at its door by night, some time between day 15 and day 40, and again every 30 to 60 days until one is taken in. Off, the stranger only comes by chance. |
 
 ## FAQ
 
@@ -193,6 +194,16 @@ The full list:
 - Dam blood
 - Block blood healing
 - Drink Garou blood
+- Court: add power
+- Court: start a plot
+- Court: run the showdown
+- Court: offer a mission
+- Court: reroll coteries
+- Court: member here as prisoner
+- Court: member and a witness here
+- Court: held members 10 days on
+
+The "Rim by Night: dice pools" category, from Core, has **Show pools** (logs every power's pool on the pawn you click), **Roll every power** (rolls each pool into the roll log, no effects) and **Check every formula** (every power's formula names traits without numbers, and each pool's parts add up to its total).
 
 ## Reporting a bug
 

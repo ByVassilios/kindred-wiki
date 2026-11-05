@@ -186,7 +186,7 @@ The **Kindred** button on the bottom bar. Six pages.
 | Courts | Every court you know of and its opinion of you. Click one to find it on the world map; **Write to the court** opens its window by letter |
 | Boons | Favours owed to your coterie and favours you owe, each with why it is owed and at which court. **Call it in** lets you pick what to ask for, up to the boon's size |
 | Strings | Mortals in other settlements who work for you, and who holds each. Each can be pulled once a week |
-| Chronicle | News from the Kindred world: coups, cities changing hands, blood hunts |
+| Chronicle | News from the Kindred world: plots and showdowns, cities changing hands, blood hunts |
 | Our story | Your colony's own history: Embraces, torpor, diablerie, offices won |
 
 ## The court window
@@ -195,16 +195,19 @@ Opened by a caravan with a vampire at a court's settlement, or by letter from th
 By letter you can take missions, deal in boons and cast rituals for the court; everything else
 needs your Kindred there in person.
 
-A line at the top counts the boons owed to you and the ones you owe. Below it are three pages.
+A line at the top counts the boons owed to you and the ones you owe. Below it are three pages,
+four at a court with rival coteries.
 
 | Page | Section | What you can do |
 |---|---|---|
 | Court | Standing | The court's opinion of you, and your sect standing. Hover for exactly what raises and lowers it |
-| Court | Who holds court | The Prince and the other seats, highest first |
+| Court | Who holds court | The Prince and the other seats, highest first, each with its coterie |
+| Coteries | The cards | A card for each coterie: temperament, how it stands with the Prince's, members, power in ten cells, and "Plotting" on the plotters. Click one to pick it |
+| Coteries | The picked coterie | What it wants and pays, its members (leader marked), its missions with **Take**, your record with it, and during a plot the odds and **Back the Prince**, **Back the plotters**, **Stay out** |
 | Court | Your Kindred here | **Present yourself** (each vampire, before missions). Rank and missions done. **Claim the clan's seat** when your opinion is high enough |
 | Court | Elysium | **Attend Elysium** on the nights it's held. Each acknowledged guest raises the opinion |
-| Missions | Offers | Offers with their reward and standing. **Take** one; it becomes a quest |
-| Missions | Under way | Your missions for this court or ending here. A caravan there hands over a vessel, a sealed casket or a runaway childe, or stands guard at Elysium |
+| Missions | Offers | Offers with their reward and standing, and which coterie offers each. **Take** one; it becomes a quest |
+| Missions | Under way | Your missions for this court or ending here. A caravan there hands over a vessel, a sealed casket or a runaway childe, stands guard at Elysium, or does a coterie's errand |
 | Boons | The ledger | Every boon owed to you and by you, why, and where. A debt to this court can be settled with a boon you hold that's as big or bigger |
 | Boons | What the court can do for you | Services priced in boons; hover one for what it does. **Pay** with a boon owed to you (you pick which), or buy **on credit** |
 
@@ -220,8 +223,16 @@ jump to it. See [Embrace, bonds and ghouls](Embrace-Bonds-and-Ghouls.md#lineage)
 ## The roll log
 
 The last 50 rolls the colony's Kindred made: who, what for, the dice and difficulty, and how it
-came out. Runs of the same roll are folded into one line ("3 of 5 passed"). Click a line to jump
-to the vampire. Colony rolls and big events also show in vanilla's Log tab.
+came out. Runs of the same roll are folded into one line ("3 of 5 passed"). Under each line a
+grey line says what the pool was made of and what set the difficulty ("Manipulation 3 + Social 2 +
+aura read 2, difficulty 7 (Mara's Willpower)"). Click a line to jump to the vampire. Colony rolls
+and big events also show in vanilla's Log tab.
+
+**Dice pools.** Hover a power on a vampire's Discipline tile to see the roll it makes: each part with
+its dice, the total and the difficulty. Before the power is aimed, a difficulty set by the target
+reads as a rule ("against the target's Willpower"). While a mental power is aimed, the odds under
+the cursor list the same parts. A power's grimoire page has the formula in a box at the top
+("Manipulation + Social", then the difficulty).
 
 ## Letters with choices
 

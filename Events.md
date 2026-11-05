@@ -66,7 +66,7 @@ Setting: **Kindred visitors**.
 |---|---|---|
 | A sire's demand | Sire calls | A sire out in the world writes now and then, as its temperament takes it: a demand for vitae, a gift, a letter of teaching, an introduction to a court. A possessive sire refused too often comes in person to take its childe home |
 | The wight returns | Wights come back | A vampire lost to the Beast who escaped comes back in the dark, hungrier |
-| The world in the background | Background world | Courts change while you play: coups, rival schemes, blood hunts, cities going over to another sect |
+| The world in the background | Background world | Courts change while you play: coteries rising and falling, plots and showdowns, rival schemes, blood hunts, cities going over to another sect |
 
 ## From the courts
 

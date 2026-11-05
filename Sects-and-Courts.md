@@ -43,7 +43,8 @@ few of them, and you only see one on the map once you've learned about it: from 
 captured vampire, a sleeper, a lore text, or gossip about a court near you. Your vampires also learn of a
 court by meeting one of its members, or by a court you know vouching for it.
 
-Courts change while you play, and the Chronicle in the Kindred overview reports it. A city can fall
+Courts change while you play, and the Chronicle in the Kindred overview reports it. A Prince falls
+only to a plot inside the court (see [Coteries](#coteries)). A city can fall
 to a Sabbat siege or an Anarch revolt, and the Camarilla can take it back. A siege always comes
 from a court of another faction: courts in the same faction are allies and never fight each other.
 A court only attacks one it can match, and a court no rival can reach may face its own Anarchs
@@ -110,6 +111,143 @@ dice more with Auspex 2. Two leads reveal where the quarry is. A botch warns it,
 comes three days sooner. A runaway childe can be captured, or right-clicked and talked round with
 Charisma + Social, then handed over at the court.
 
+### Coteries
+
+A Camarilla or Anarch court is split into coteries: the Prince's own, made of the Prince and the
+officers, and up to three rivals, each led by its eldest and never fewer than two. A rival
+left with one member takes in a plain member from a bigger coterie, or breaks up. A Sabbat pack or an Independent haven is
+one coterie, and nobody there plots. A court from an older save gets its coteries the first time
+it's checked. They show on the court window's **Coteries** page, which is hidden when a court has
+only one.
+
+**Temperament.** Each coterie takes its temperament from its leader, and it changes when a new
+leader takes over. It decides what the coterie asks for and what it pays.
+
+| Temperament | Wants | Pays, on top of the boon | Its missions |
+|---|---|---|---|
+| Tyrant | Control of rivals' herds, ghouls and havens | Silver | Raid a rival's herd, seize a rival's ghoul, storm a rival's haven, collect tribute |
+| Scholar | Texts, relics, rituals | A lore text | Steal a text from a Keeper, recover a relic from a ruin, escort a scholar, bring back a ritual |
+| Trickster | The court shaken up | Any of the others | Ruin a rival's Elysium, spread a rumour, free a rival's prisoner, swap a sealed item |
+| Traditionalist | The Traditions kept | Standing, sometimes leave to Embrace | Destroy an unsanctioned childe, bring a breaker to court, clean up a breach, judge a dispute |
+| Schemer | Boons and secrets | A boon a size bigger | Plant forged evidence, steal a boon, gather a secret, broker a deal |
+| Zealot | War on the enemy sect and hunters | A weapon | Raid an enemy sect's site, hunt a hunter cell, burn a ghoul farm, send fighters to a sect war |
+
+Each coterie keeps up to two offers on top of the court's own, and the court still has at most
+three at a time. The missions play out three ways:
+
+- **A site** a few days out (herd, haven, ruin, prisoner, enemy site, ghoul farm): clear it.
+- **A quarry** that comes through your lands within a few nights (ghoul, courier, childe, breaker,
+  hunters): bring it down. The ghoul and the breaker have to end up as your prisoners.
+- **An errand** at a court: take a caravan there with the vampire who took it and press
+  **Do the errand** under Missions, Under way. It's one roll, shown in the mission's tooltip, and a
+  failed roll fails the mission. Some need more: bringing back a ritual needs Thaumaturgy or
+  Necromancy, gathering a secret Auspex or Obfuscate, judging a dispute a Primogen seat, ruining an
+  Elysium the gathering itself, and sending fighters three colonists in the caravan who can fight
+  (some come back hurt).
+
+**Power.** Each coterie's power runs from 0 to 20, drawn as ten cells. The Prince's starts at 10 to
+14, a rival at 4 to 10. A mission done for a coterie adds 1, or 2 for a major one. A mission aimed at
+a coterie takes 1 away, and so does each member it loses. Every few days one coterie may gain or lose
+a point on its own. A vacant seat is likeliest to go to a member of the strongest coterie. Do five
+missions for a coterie and it clears one scandal against your Kindred there each season.
+
+**Working against the Prince.** An offer that hurts another coterie says which one under its name,
+in orange when it's the Prince's own. A mission aimed at the Prince's coterie rolls to see if you were
+found out: Manipulation + Social against 6, a die easier with Obfuscate. If you're caught, the court
+thinks 5 to 10 less of you and the vampire gets a scandal.
+
+**Plots.** When a rival stays within 3 power of the Prince's coterie for 30 days, it starts to plot.
+A Kindred of yours with rank there gets a letter; otherwise the news reaches the Chronicle later.
+The showdown comes 20 to 40 days on. Until then each side offers one **deciding mission**, which
+counts 2 power for its side at the showdown and puts you on that side. You can also pick a side on
+the Coteries page: **Back the Prince**, **Back the plotters** or **Stay out**. At the showdown each
+side's chance is its share of the two scores. The losers' leader is destroyed or flees, and each of
+its members is destroyed, flees, or goes over to the winners. After a showdown, win or lose, that
+court has no new plot for a year, so it changes Prince once a year at most.
+
+| Your side | What happens |
+|---|---|
+| Backed the winners | The new Prince honours the old one's boons to you and raises the biggest a size. Your ranked Kindred there go up a step, to Primogen at most. A drop pod brings the spoils of the losers' havens, by their temperament: lore from Scholars, silver and a weapon from Tyrants and Zealots, a boon from Schemers, blood vials from Traditionalists, any of it from Tricksters. One time in three a loser who fled comes too, staked and in torpor, as your prisoner |
+| Backed the losers | The old Prince's boons stay if the Prince fled and are lost if the Prince was destroyed. The winners answer by temperament. A Tyrant names your busiest vampire and sends enforcers after them. A Scholar shuts its teachers, rituals and lore texts to you for a year. A Trickster forgives you for a minor boon. A Traditionalist puts your Kindred back to acknowledged. A Schemer wants a minor boon and gives each of your Kindred there a scandal. A Zealot costs you 10 to 20 standing |
+| Stayed out | The old Prince's boons shrink a size (a trivial one stays trivial), and are lost if the old Prince was destroyed |
+
+The plot section on the Coteries page shows both scores and the plotters' chance. Hover it for the
+rule.
+
+### Your place in a coterie
+
+Each coterie has a regard for the colony, from -10 to 10, drawn as a thin bar under its power:
+warm at 4 or more, hostile at -4 or less, cool in between. It drifts a step back toward 0 each
+season. A hostile coterie offers you no work.
+
+| Regard | Change |
+|---|---|
+| A mission done for it | +1 |
+| Backing it in a plot it wins | +2 |
+| A mission done against it | -2 |
+| Backing the other side in its plot | -2 |
+| Each of its members the court knows you harmed | -3 |
+| Each season one of your vampires sits in a coterie it plots against | -1 |
+| Leaving it | -2, and 1 of its power |
+
+The detail pane lists each step with a tick or a cross for each thing it needs, and the button
+under it.
+
+- **Join.** A vampire Established at the court or higher, five missions done for the coterie by
+  anyone in the colony, and its regard at 0 or more. Each vampire is in one coterie per court at
+  most. While one of yours is in it, a mission done for it adds 1 more power, and each of your
+  members there counts the power it gave. A rival can still offer work aimed at your coterie: the
+  offer says so in orange, and taking it gives your vampire there a scandal.
+- **Take the lead.** Once the power your missions gave it since joining is half its power or more.
+  With two of yours in it, the one who gave more (then the one who joined first) leads. You pick its
+  temperament once, for good. A coterie you lead offers you no work, and it keeps you as leader
+  until your vampire dies, leaves the court's ranks or leaves the coterie.
+- **Move against the Prince.** As leader, within 3 power of the Prince's coterie, after the year's
+  wait, at a court of your sect (an Anarch colony can take a Camarilla court, which becomes Anarch).
+  The plot starts at once and the showdown comes 20 to 40 days later.
+
+In a plot your vampires stand with their own coteries, and the Back buttons are hidden. One on the
+losing side leaves its coterie. Win as plotters and your leader becomes Prince: your other Kindred
+in the coterie take the seats the losers held, every member there owes the new Prince a trivial
+boon, and the court page gets a Your domain section.
+
+- **Tribute:** 100 silver and 25 for each member, by drop pod each season.
+- **The Prince's word:** your own vampires get leave to Embrace, a pardon and a blood hunt lifted
+  there for nothing.
+- **Call a blood hunt** on any member. It is just when the member's coterie is hostile to you, it
+  is on your grudge list, or it refused or put off a boon it owes you. Otherwise your sect thinks 5
+  less of you.
+
+Rivals plot against your coterie as against any Prince. Lose a showdown and your vampires there go
+back to acknowledged, leave their coteries, and the court shuts its doors to you for a year: no
+missions, services or joining.
+
+### Taken and slain unseen
+
+A court only knows the colony took or destroyed one of its vampires if someone who knew the victim
+saw it and lived to tell. That means the court's own people, its other Kindred, the victim's kin and
+friends, and its ghouls. Strangers, traders and other factions only saw a fight. A witness has to be
+awake and within 20 cells with a clear line of sight. They show on the witness alert, and the court
+hears once one of them leaves the map: kill them, take them too, or keep them as prisoners and the
+secret holds. A prisoner who is let go or escapes tells their court who held them. So does a captive
+you release.
+
+| The court learns you | Cost |
+|---|---|
+| Took one of its vampires | 5 court standing, 15 for the Prince |
+| Destroyed one | 10 court standing; the Prince 30, and 30 with its sect too |
+
+A vampire the colony holds, awake or in torpor, fades from its court whether the court knows or not.
+The court only knows it's gone.
+
+- At once its coterie loses 1 power, and 1 more every 10 days, 3 at most. The Chronicle says it
+  vanished.
+- After 15 days it loses its office, which passes on as if it had been destroyed.
+- After a year (60 days) the court strikes it off. If it ever comes back, it rejoins as a plain
+  member.
+
+The court window marks your captives "(your prisoner)" in the members list.
+
 ## Boons
 
 Kindred trade favours. The boon ledger in the Kindred main tab shows who owes whom and how much:
@@ -132,11 +270,37 @@ The Prince's artifact is picked from the collection that court actually keeps, s
 none can't sell one.
 
 A court takes one favour a season (a gift, a ritual or teaching), through **Offer a favour** in the
-court window. A boon owed by someone with no court, such as a sleeper or a vampire you released,
-can't be spent at a court. Instead, **Call it in** from the ledger and pick what to ask for, up to
-the boon's size: blood vials (trivial), a willing vessel (minor), the debtor and two ghouls
-fighting for a night (major), or the debtor joining the colony for good (life). A debtor with a
-court seat sends its childe instead.
+court window.
+
+A boon is owed by one vampire, not by its court. If it is destroyed the boon is gone; if it flees
+or moves, the boon goes with it. The ledger is a table of debtor, seat, where it is now and size,
+and a debtor nobody can find is greyed with a "?".
+
+- **Paying for a service** only takes a boon from a debtor at that court who can grant it: the
+  Prince for leave to Embrace, a pardon, a lifted hunt or an artifact; the Seneschal for a step up
+  or feeding rights; the Sheriff or a Hound for the hunters or fighters; the Harpy for a scandal;
+  the Keeper for lore and rituals; any member with the dots for a teacher. The pay window shows why
+  each other boon won't do.
+- **Credit** is owed to the vampire who gave the service, and ends if that vampire is destroyed.
+- **Call it in** from the Kindred tab once you know where the debtor is. You pick one thing up to
+  the boon's size: blood, a vessel, a word at its court, an introduction to another court, finding
+  someone you lost track of, shelter from a blood hunt, a ghoul for a season, an errand run for
+  you, a vote in a coming showdown, the debtor and its ghouls in a fight (more ghouls the older it
+  is, four with a seat), or the debtor for good. Each clan has a favour of its own on top: Brujah
+  rabble, a Gangrel guide, a Malkavian prophecy, a Nosferatu secret, Toreador art, a Tremere
+  ritual, Ventrue money, Lasombra shadows round a caravan, Tzimisce fleshcraft, an Assamite
+  contract, a Setite vice, a Giovanni ghost's tale, a Ravnos decoy, Salubri healing, a song from a
+  Daughter of Cacophony, a Kiasyd lore text, a Gargoyle guard.
+- An elder (7th generation or lower, or one with a seat) who outranks the vampire calling it in may
+  put you off for 5 to 10 days, and now and then refuses outright. A refusal is a scandal at its
+  court: its coterie loses 1 power and the court thinks 5 better of you. Either way the boon stands.
+
+New ways to earn one: carry a downed friendly vampire to safety (minor) or wake one from torpor
+with colony blood (major), keep quiet about a visitor you saw break the Masquerade (or report it
+to its Prince for 5 standing), or buy a trivial favour from a member with 5 blood vials or 200
+silver from a caravan, once a season per court. A boon offered this way comes as a letter where
+you pick the boon, standing at its court (3, 6, 10 or 15 by size), silver (50, 150, 400 or 1000),
+or nothing.
 
 When a court calls in what the colony owes, it asks for a task of the same size: a vessel, a
 scouting run, a diablerist destroyed, or a far stronger lair for a life boon. A refused debt is a
