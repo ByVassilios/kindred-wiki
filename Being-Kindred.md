@@ -23,7 +23,8 @@ Discipline powers.
 - **Upkeep.** One point each time the vampire wakes. With an empty pool it can't wake and falls
   into torpor.
 - **Hunger.** Above 70% the vampire is sated. Below 40% it's hungry, and below 15% it's starving
-  and may frenzy at the sight of a vessel.
+  and may frenzy at the sight of a vessel. A colony vampire hunts back up to the target set on its
+  Vitae bar, 40% unless you move it (see [Feeding](Feeding.md)).
 - **Spend rate.** Generation limits how much blood a vampire can spend in a short burst. A big
   power is paid partly now and the rest as the limit refills.
 

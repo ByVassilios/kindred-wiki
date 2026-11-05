@@ -43,7 +43,7 @@ Click a Discipline, morality, merit or derangement to read its page in the
 |---|---|
 | Blood healing | **Never**. **When safe**: waits until nobody has hit the vampire or been hit by it for a few seconds, and stops before it gets hungry. **Always**: heals in the middle of a fight, keeping a couple of points back |
 | Willpower | **Never spend**. **To resist frenzy**, the default: saved for holding the Beast back. **Spend freely**: also buys a sure success on important rolls |
-| Feeding | **Vials and vessels**: blood vials and prisoners kept as vessels only. **Also animals and the willing**: adds the colony's animals and colonists who crave the Kiss. **Anyone** |
+| Feeding | **Vials and vessels**: blood vials and prisoners kept as vessels only. **Also animals and the willing**: adds the colony's animals, colonists who crave the Kiss and colonists devoted to the Kindred. **Anyone** |
 | Powers | **Only when ordered**. **In a fight**: Disciplines against enemies nearby, but only when the vampire is set to attack or has just been hurt. **Whenever useful**: also outside fights |
 
 ### Attributes

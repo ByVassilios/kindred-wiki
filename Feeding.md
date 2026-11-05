@@ -3,6 +3,12 @@
 A hungry vampire finds blood by itself, the way a colonist finds food. You can also right-click a
 vessel and pick "Feed". This page covers where the blood comes from and what it costs.
 
+A colony vampire has a **Vitae** bar on its command bar. It shows the pool in blood points, and the
+mark on it is the feeding target: the vampire goes hunting when its blood drops below the mark and
+keeps feeding until it is back there. It starts at 40% of the pool. Drag it up before a raid to have
+blood for powers, or down when vessels are scarce. It can't go below the starving line (15%), and a
+starving vampire feeds whatever the mark says.
+
 ## Sources
 
 | Source | Blood | Notes |
