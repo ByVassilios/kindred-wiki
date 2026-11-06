@@ -4,10 +4,18 @@
 
 Options → Mod settings → The Rim by Night: Kindred.
 
-Four pages: Rules, Display, World and events, and Event chances, where each Kindred event has its
-own slider from never to three times as often. The search box at the bottom finds a setting on any
-page by its name or description. **Reset to defaults** sits at the bottom too, and with a game
+Five pages: Rules, Learning, Display, World and events, and Event chances, where each Kindred event
+has its own slider from never to three times as often. The search box at the bottom finds a setting
+on any page by its name or description. **Reset to defaults** sits at the bottom too, and with a game
 loaded so does **Remove Kindred from this game**.
+
+A setting you have changed shows its name tinted with a reset arrow before it, each tab counts its
+changed settings, and **Changed only** by the search box lists just those. Under a setting that
+departs from the rulebook, a grey line says what the book does.
+
+Learning holds the house rules for who may learn what: Koldunic Sorcery for any clan, Sanguinus for
+any clan, the Gargoyle rite for any clan, ghouls learning guarded Disciplines, and whether the
+Pyramid and the Prince's leave apply.
 
 | Setting | What it does |
 |---|---|
@@ -21,15 +29,30 @@ loaded so does **Remove Kindred from this game**.
 | Conscience rolls | Added to the difficulty of the Conscience roll after a sin. Above zero, vampires lose Humanity more often; below zero, less. |
 | Humanity | Off, sins never cost Humanity or a Path's rating, and every vampire counts as at Humanity 7: no dice cap by day, no inhuman looks, no beast dreams, no fall to the Beast at 0. |
 | Frenzy and Rötschreck | Off, the Beast never takes over. Vampires and ghouls don't frenzy or flee in fear, and fire nearby doesn't drive them back. A power used on purpose can still send someone into a frenzy. |
+| Hunger frenzy lasts until fed | A vampire in a hunger frenzy only comes back to itself once it has fed enough or its time runs out. Off, it may pass early, like any other frenzy. |
 | Clan weaknesses | Off, no clan or bloodline has a weakness, and ghouls take no taint from their domitor's clan. Turning it back on brings them back. |
 | Soften clan weaknesses | Each clan's weakness still applies, in a milder form. |
 | Blood heals mortal scars | Off, a vampire keeps the scars it had when it was Embraced, and blood heals only the ones since. On, blood heals those old scars as well. |
+| Draft vampires freely by day | A vampire can be drafted by day with no roll and no blood spent. Off, it has to stir first: a roll with a threat on the map, or a blood point. |
+| Resonance | The vessel's mood colours the blood a vampire drinks, giving a few bonus dice to the Disciplines that match it. Taken from the fifth edition; V20 has no such rule. Off, blood is only blood. |
+| Hemogen runs on vitae | A vampire with Biotech's hemogen genes pays for hemogen powers from its vitae pool, and anything that gives hemogen fills the pool instead. Off, the hemogen bar is its own, filled and drained the vanilla way. |
+| **Disciplines and rituals** | |
+| Koldunic Sorcery for any clan | Any vampire can learn the Ways of Koldunic Sorcery from a teacher, at the out-of-clan price. Off, only the Tzimisce and their bloodlines can. |
+| Sanguinus for any clan | A Discipline that only its clan can learn (Sanguinus, the Blood Brothers' shared flesh) can be taught to anyone. Its powers that work through a circle of brothers do nothing for a vampire without one. |
+| Gargoyle rite for any clan | Any vampire who knows rituals can learn the rite that makes a gargoyle. Off, it stays a Tremere secret. |
+| Ghouls learn guarded Disciplines | A ghoul can learn Protean, Thaumaturgy and a Discipline only one clan has from any domitor who knows it. Off, only from a domitor of that clan. |
+| Caitiff learn their sire's Disciplines easily | A Caitiff learns only its sire's Disciplines at the in-clan price, and one with no known sire takes the three of a random clan. Off, a Caitiff counts every Discipline as its own. |
+| New powers start off the bar | A colony vampire's new powers stay off the command bar until you turn them on in the Kindred tab. Off, each new power gets its button at once. |
+| **Clans and sects** | |
+| The Pyramid guards Thaumaturgy | The colony's Tremere owe the Pyramid a yearly tithe, and a vampire of another clan seen casting Thaumaturgy by a Tremere or the Camarilla brings a Tremere hit team. Off, neither happens. |
+| A childe needs the Prince's leave | In a sect that keeps the Traditions, a colony vampire who holds no office needs a permit to Embrace, and a childe made without one costs standing when the court meets it. Off, no permit is needed. |
 | **The Masquerade** | |
 | Breaches have consequences | Outsiders who see a vampire at work carry the story away, and the world reacts: warier visitors, then hunters, then the hunting order. Turn off to play without any of it. |
 | How much a breach counts | How much each sighting adds to the colony's Masquerade breach score. |
 | How fast breaches fade | How quickly the world forgets what it saw. Higher numbers bring the breach score down sooner. |
 | **Effects** | |
 | Bared fangs | Show fangs on a vampire's face when drafted, fighting, feeding or in frenzy. |
+| Move as a cloud | A drafted vampire on the move, or a hostile one closing in, travels as a faint cloud of its strongest Discipline, and faster. Off, vampires walk like anyone else. Needs fighting motion on. |
 | Pale skin | Show a vampire's skin drained to an ashen grey. It looks like any living person's again while it looks alive or wears the Mask of a Thousand Faces. Cappadocians are paler still. Only the look changes; hunters spot the pallor either way. |
 | How pale | How far a vampire's skin is drained toward ashen grey. |
 | **Interface** | |
@@ -41,6 +64,7 @@ loaded so does **Remove Kindred from this game**.
 | Sire calls | A sire out in the world calling on its childe with demands. |
 | Wights come back | A vampire lost to the Beast who escapes the map returns now and then as a night threat. |
 | The Red List | Five Anathema the Camarilla wants destroyed roam the world map, each with a bounty. They roam either way, but only a colony in the Camarilla is told of them, sees them on the map or is paid for one. Turned off, they leave the world map; turned back on, a new list arrives in one letter. |
+| Hunters among tavern guests | How often a guest at the colony's tavern is a hunter, against the mod's chance, which rises as the Masquerade weakens. At 0% none come this way. |
 | **Events** | |
 | Sect politics | Archons, Sabbat packs and Anarch gangs sent against the colony, infiltrators, thralls of outside Kindred, Anarch unrest, Assamite contracts, Setite corruption and Tremere hit teams. |
 | Kindred attacks | Rogue bands, elder raids, and the angry dead coming back to haunt the colony. |
