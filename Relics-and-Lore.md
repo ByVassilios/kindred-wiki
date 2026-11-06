@@ -16,8 +16,9 @@ so.
   court's city and the collection is somewhere in its house.
 - **Mortal settlements.** An artifact kept there lies somewhere in the settlement's map,
   unidentified.
-- **Torpor crypts.** World sites where an old vampire sleeps in a stone vault, with a relic
-  beside it. The tomb is sometimes warded against Kindred. The ward is written into the floor, so
+- **Torpor crypts.** World sites where an old vampire sleeps in a sealed stone vault, with a relic
+  beside it. One door opens on a gallery of bone-filled niches, and the tomb is at its far end, where
+  the elder's ghouls sleep in coffins on either side of it. The tomb is sometimes warded against Kindred. The ward is written into the floor, so
   taking the floor up breaks it. Lore texts, court gossip and missions reveal crypts.
 - **Missions** at court, elder raiders, gifts for big boons, and the anonymous benefactor.
 - **The occult trader.** A caravan that only visits colonies with Kindred, selling lore texts and
