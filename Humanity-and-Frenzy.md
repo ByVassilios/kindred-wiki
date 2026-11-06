@@ -61,6 +61,9 @@ Conviction in place of Conscience, Instinct in place of Self-Control.
 | **Path of Paradox** | Kindred have slipped out of the great cycle and must send others back into it. Followers kill only for need and guard their own bloodline. |
 | **Path of Power and the Inner Voice** | Power is the only thing worth having. Followers own their acts, reward the useful, help no one for free and never accept defeat. |
 | **Path of Typhon** | Every vice is a tool for raising a sleeping god. Followers corrupt others, help their own and show no one any mercy. |
+| **Path of Entelechy** | A Brujah's stoic discipline, older than Carthage. The Beast is an enemy to be mastered by reason, the mind and body are there to be perfected, and mortals are not to be used for more than a meal. |
+| **Path of Ecstasy** | Pleasure taken past every mortal limit tears a hole in the world's lies. Followers of this Setite Path spread rapture, break taboos and treat holding back as the one real sin. |
+| **Path of the Warrior** | Set is a god of war and storms, and his chosen are weapons. Followers of this Setite Path train and hurt themselves until the Beast fears them, and every kill is a prayer. |
 
 Each Path's Virtues and full list of sins are on [Humanity and the Paths](Paths-of-Enlightenment.md).
 

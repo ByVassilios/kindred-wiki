@@ -20,6 +20,7 @@ texts, which have [their own page](Relics-and-Lore.md).
 | <img src="img/icons/Things_VTM_Item_NativeSoil.png" width="32" height="32"> | **Sack of earth** | A sack of earth dug from this place. To a Tzimisce Embraced here it is home, and it has to be close by when they sleep. |
 | <img src="img/icons/Things_VTM_Item_SealedCasket.png" width="32" height="32"> | **Sealed casket** | A small lacquered box, sealed with wax and a Prince's mark. Whatever is inside is none of your business. |
 |  | **Tavern counter** | A counter for selling drinks, drugs and meals. Every few evenings guests come by, buy from the counter and any shelf in the tavern if they like your prices, leave the silver on the counter, and stay to sit and talk. The tavern is the tavern area if you mark one, or else the room the counter stands in. Prices are set here or from any shelf in the tavern, and the tavern can be closed for the night. Beds marked for tavern guests are rented out for the night. Guests asleep or drunk make easy vessels, if nobody sees. |
+|  | **Haunted ground** | A place that a vampire has made wrong. |
 | <img src="img/icons/Things_VTM_Item_UnknownRelic.png" width="32" height="32"> | **Unidentified relic** | Something old, wrapped in rotten cloth, that feels wrong to hold. Nobody here knows what it is. It can be examined at a ritual circle or ossuary altar, or picked up and used blind, which is a risk. |
 | <img src="img/icons/Things_VTM_Item_HolySymbol.png" width="32" height="32"> | **Holy symbol** | A carved symbol of faith, small enough to carry. In most hands it's only a keepsake. Carried by someone of strong True Faith, it burns the Kindred they strike with wounds that heal like fire. |
 | <img src="img/icons/Things_VTM_Item_PersonalTalisman.png" width="32" height="32"> | **Personal talisman** | An object bound to one sorcerer by Thaumaturgy. Worn by its maker once it has settled, it strengthens their blood magic and holds a little of their blood. To anyone else it's a trinket. |
@@ -68,6 +69,7 @@ feeding on them are on [the tavern's own page](Tavern.md).
 | <img src="img/icons/Things_VTM_Building_WaterWall.png" width="32" height="32"> | **Wall of water** | Water standing straight up out of nowhere, as solid as a wall. It will fall at dawn. |
 | <img src="img/icons/Things_VTM_Building_WateryHaven.png" width="32" height="32"> | **Shape under the water** | Something lies still just under the surface. From some angles it looks like a sleeper. |
 | <img src="img/icons/Things_VTM_Building_Magma.png" width="32" height="32"> | **Molten rock** | Glowing rock welling out of the ground. Anything that touches it burns. |
+|  | **Scorpion's Curse** | A blood ward on the ground. The first enemy to touch it takes the Assamites' poison. |
 | <img src="img/icons/Things_VTM_Building_HeartVessel.png" width="32" height="32"> | **Heart vessel** | A sealed jar of thick glass in a metal cage, made to hold a vampire's heart once Serpentis has taken it out. A heart kept in it can't be burned, cut or shot while the vessel stands. Hunters and enemy Kindred who know what is inside will try to break it open. |
 
 ## Recipes and surgeries

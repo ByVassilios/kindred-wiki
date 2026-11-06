@@ -37,6 +37,7 @@ the vampire's gizmo bar, and some Disciplines also give an always-on bonus that 
 
 | | Power | Cost | Reach | Cooldown | What it does |
 |---|---|---|---|---|---|
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Bagman's Shelter** | 1 blood, 1 Willpower | Self | 1 day | Shadow thickens around the sleeper. For a day sunlight does half its damage. Costs 1 blood and 1 Willpower. |
 | <img src="img/icons/UI_VTM_Abilities_BloodBuff.png" width="32" height="32"> | **Blood Buff** | 1 blood | Self |  | Push a point of blood into the body for an extra dot of Strength, Dexterity or Stamina for four hours. Cast it again to stack, up to the most this generation allows. |
 | <img src="img/icons/UI_VTM_Abilities_SteelTheWill.png" width="32" height="32"> | **Steel the Will** | 1 Willpower | Self | 8 h | Spend a point of Willpower to shut the pain out for four hours. Wounds still slow the body down, but they no longer hurt or knock the vampire down from the pain. |
 | <img src="img/icons/UI_VTM_Abilities_LookAlive.png" width="32" height="32"> | **Look Alive** |  | Self | 1 h | Push blood into the skin and lungs to pass as a living person until dawn: warm to the touch, breathing, with colour in the face. Hunters don't see the pallor and low Humanity stops showing. Free at Humanity 8 or more; below that it costs a blood point for every step under 8. A vampire on a Path can't do it. |
@@ -52,6 +53,74 @@ or a relic someone is wearing or holding.
 
 | | Power | Comes with | Cost | Reach | Cooldown | What it does |
 |---|---|---|---|---|---|---|
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Eyes of Alamut** | Eyes of Alamut | 1 Willpower | 500 cells | 20 s | Read the aura of anyone on the map, in sight or not. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Blur.png" width="32" height="32"> | **Eyes of Blades** | Eyes of Blades | 2 blood, 1 Willpower | Self | 10 s | For a few moments every blow can be seen and turned aside. Costs 2 blood and 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Blur.png" width="32" height="32"> | **Forced March** | Forced March | 1 blood | Self | 3 h | Cover ground for hours at a pace nothing mortal could hold, for a fraction of Celerity's price. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **Honeyed Words** | Honeyed Words |  | Self | 1 h | Hear what a listener wants and say it, and everyone is easier to talk round for the rest of the scene. |
+| <img src="img/icons/UI_VTM_Abilities_Blur.png" width="32" height="32"> | **Shadow Feint** | Shadow Feint | 1 blood | Self | 10 s | Slip half out of the eye for a moment, so attacks land where the assassin no longer is. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Blur.png" width="32" height="32"> | **Burning Wrath** | Burning Wrath | 1 blood | Self | 1 h | Bare hands burn with Rage for the fight, and what they tear doesn't mend the easy way. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Entrancement.png" width="32" height="32"> | **Command the Wary Beast** | Command the Wary Beast | 1 Willpower | 24.9 cells | 20 s | One look, and the hostile animals around the target break and run. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Surge.png" width="32" height="32"> | **Esprit de Corps** | Esprit de Corps | 1 Willpower | Self | 2 h | Everyone of the vampire's own nearby stands firmer against fear and breaks far less easily. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Blur.png" width="32" height="32"> | **Leaps and Bounds** | Leaps and Bounds |  | 12 cells | 1 h | Clear walls and gaps in one bound, up to twelve cells. |
+| <img src="img/icons/UI_VTM_Abilities_HeightenedSenses.png" width="32" height="32"> | **Pulse of Undeath** | Pulse of Undeath |  | 24.9 cells | 20 s | Size up a stranger: how much Celerity, Potence and Fortitude they carry. |
+| <img src="img/icons/UI_VTM_Abilities_ForgetfulMind.png" width="32" height="32"> | **Reluctant Performance Artist** | Reluctant Performance Artist | 1 Willpower | 24.9 cells | 20 s | A mortal stops whatever it was doing and stands there, helpless, for all to see. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Summon.png" width="32" height="32"> | **Scourge of Alecto** | Scourge of Alecto | 1 Willpower | 24.9 cells | 20 s | Chain the Beast and set it loose inside someone else. It hurts them from within, and a vampire must fight off frenzy. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **True Love's Face** | True Love's Face |  | 24.9 cells | 20 s | The target sees someone they love and won't raise a hand against them. |
+| <img src="img/icons/UI_VTM_Abilities_FormOfTheCobra.png" width="32" height="32"> | **Typhonic Beast** | Typhonic Beast | 3 blood | Self | 2 h | Take the shape of Set's own beast: stronger, tougher and faster, with claws to match. Costs 3 blood. |
+| <img src="img/icons/UI_VTM_Abilities_HeartOfDarkness.png" width="32" height="32"> | **Weigh the Heart** | Weigh the Heart |  | 24.9 cells | 20 s | Lay bare what someone lives by: a vampire's Path and Virtues, a mortal's state of mind. |
+| <img src="img/icons/UI_VTM_Abilities_FeralClaws.png" width="32" height="32"> | **Blood Thorns** | Blood Thorns | 1 blood | 8 cells | 10 s | Spit a hardened spine of blood at someone within eight cells. The wound is aggravated. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Claw Immunity** | Claw Immunity | 2 blood | Self | 1 h | The hide turns teeth and claws for the rest of the scene. Costs 2 blood. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **Flesh Wound** | Flesh Wound | 1 blood | Self | 1 h | Injuries stop showing, and the vampire goes on as if they had never landed. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_ShapeOfTheWolf.png" width="32" height="32"> | **See the Reflected Form** | See the Reflected Form |  | 24.9 cells | 20 s | See what a pawn really is, whatever shape it wears. |
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Shatterproof** | Shatterproof | 1 Willpower | Self | 10 s | Body and stubbornness soak together for a few moments, against anything. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_FeralClaws.png" width="32" height="32"> | **Spirit Tracking** | Spirit Tracking |  | Self | 20 s | Catch the scent of the undead: names every vampire on the map. |
+| <img src="img/icons/UI_VTM_Abilities_CompelSoul.png" width="32" height="32"> | **Eyes of a Thousand Shades** | Eyes of a Thousand Shades | 1 blood | Self | 1 h | Ghosts crowd close around the necromancer for an hour. Necromancy rolls gain two dice. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Possession.png" width="32" height="32"> | **Sharing the Master's Vigor** | Sharing the Master's Vigor | 1 blood | 24.9 cells | 20 s | Lend one of the colony's own, living or dead, some of the master's strength. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_ArmsOfTheAbyss.png" width="32" height="32"> | **Armor of the Abyss** | Armor of the Abyss | 1 blood | Self | 1 h | Shadow closes around the body and hardens, without weighing it down. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_ForgetfulMind.png" width="32" height="32"> | **Empower Minion** | Empower Minion | 1 blood | 24.9 cells | 20 s | Lend Potence to a thrall of the colony. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_DreadGaze.png" width="32" height="32"> | **Fear of the Dark** | Fear of the Dark | 1 blood | 24.9 cells | 20 s | Shadows move at the edge of sight, and the target and those around them run. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Mesmerize.png" width="32" height="32"> | **Mind Strike** | Mind Strike | 1 Willpower | 24.9 cells | 20 s | Meet someone's gaze and hit them from the inside. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Shadowstep.png" width="32" height="32"> | **Shadow Mark** | Shadow Mark | 1 blood | 500 cells | 1 h | Step through the Abyss to any of the colony's own, anywhere on the map. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **Shroud of Absence** | Shroud of Absence | 1 blood | Self | 20.8333 s | A pocket of nothing closes around everyone of the vampire's own within three cells. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **Creepy Clown Coat** | Creepy Clown Coat |  | 24.9 cells | 20 s | Wear whatever the target fears the most, and watch them go. |
+| <img src="img/icons/UI_VTM_Abilities_EyesOfChaos.png" width="32" height="32"> | **Days of Passions Past** | Days of Passions Past |  | 24.9 cells | 20 s | Read an aura for what it has been feeling, not only what it feels. |
+| <img src="img/icons/UI_VTM_Abilities_VoiceOfMadness.png" width="32" height="32"> | **Do As I Say, Not As I Say** | Do As I Say, Not As I Say |  | 24.9 cells | 20 s | A muddled order sends the target wandering off with no idea what it is doing. |
+| <img src="img/icons/UI_VTM_Abilities_Conditioning.png" width="32" height="32"> | **Ignore Me** | Ignore Me |  | 24.9 cells | 20 s | The target loses all interest in the vampire and in the fight. |
+| <img src="img/icons/UI_VTM_Abilities_TheHaunting.png" width="32" height="32"> | **Malkav's Pavlovian Response** | Malkav's Pavlovian Response |  | 24.9 cells | 20 s | Plant a feeling in a word. For a day, the target's nerves are never quite steady. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **Rando** | Rando |  | 24.9 cells | 20 s | The target keeps seeing someone else: a face it trusts, whoever is standing there. |
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Screams Made Real** | Screams Made Real | 1 blood | 24.9 cells | 20 s | Pull the worst thing out of someone's head and show it to them. A mind can stay broken after that. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_VoiceOfMadness.png" width="32" height="32"> | **Ze Monkey's Paw** | Ze Monkey's Paw | 1 Willpower | 24.9 cells | 20 s | A cursed gift: the target's luck turns into bruises and broken bones. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_QuellTheBeast.png" width="32" height="32"> | **Bestial Presence** | Bestial Presence | 1 blood | 24.9 cells | 1 h | Something huge broods behind the vampire. Every outsider nearby feels it. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_CloakTheGathering.png" width="32" height="32"> | **Forbidden Zone** | Forbidden Zone | 1 blood | 24.9 cells | 1 h | Mark out a place. For hours, outsiders who enter are slowed by dread. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_CloakTheGathering.png" width="32" height="32"> | **Haunted Place** | Haunted Place | 5 blood | 24.9 cells | 1 h | Five blood soaked into the ground leaves a place wrong for fifteen days. Outsiders hate every moment there. Costs 5 blood. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **I Know** | I Know |  | 24.9 cells | 20 s | A look that says the vampire knows. The target loses its nerve for the fight. |
+| <img src="img/icons/UI_VTM_Abilities_QuellTheBeast.png" width="32" height="32"> | **Power Animal** | Power Animal | 1 blood | 24.9 cells | 20 s | Lend Potence to a colony animal. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_QuellTheBeast.png" width="32" height="32"> | **Wolf in Sheep's Clothing** | Wolf in Sheep's Clothing | 1 blood | 24.9 cells | 20 s | Hide a colony animal from every eye. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Carriage Horses** | Carriage Horses | 1 blood | 4.9 cells | 20 s | Three of the vampire's wounds pass to a colony animal, which takes them instead. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Heart's Desire** | Heart's Desire | 1 blood, 1 Willpower | 24.9 cells | 20 s | Show someone what they want the most, and they will stand and stare. Costs 1 blood and 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Sympathetic Agony** | Sympathetic Agony |  | 24.9 cells | 20 s | Every hurt the target takes for the next hour feels far worse. |
+| <img src="img/icons/UI_VTM_Abilities_IgnisFatuus.png" width="32" height="32"> | **Waking Dream** | Waking Dream |  | 8 cells | 1 day | Believe in an illusory bridge or rope long enough to cross it. Once a day. |
+| <img src="img/icons/UI_VTM_Abilities_Entrancement.png" width="32" height="32"> | **Bliss** | Bliss |  | Self | 6 h | Fall into a trance before beauty and come back steadied, with the world a little easier to bear. |
+| <img src="img/icons/UI_VTM_Abilities_Fleshcraft.png" width="32" height="32"> | **Devil's Mark** | Devil's Mark |  | 24.9 cells | 20 s | Mark a colonist's skin with Presence, so that all who see them are swayed. |
+| <img src="img/icons/UI_VTM_Abilities_TheHaunting.png" width="32" height="32"> | **Haunting Seduction** | Haunting Seduction | 1 blood | 24.9 cells | 20 s | Whisper something, and the victim sees the vampire everywhere and can think of nothing else. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Awe.png" width="32" height="32"> | **Scalpel Tongue** | Scalpel Tongue |  | 24.9 cells | 20 s | One barbed remark and the target has nothing to say for a while. |
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Soul Painting** | Soul Painting |  | 24.9 cells | 20 s | Paint what someone is. A vampire's Path and Virtues, a mortal's state of mind. |
+| <img src="img/icons/UI_VTM_Abilities_SpiritsTouch.png" width="32" height="32"> | **Under the Skin** | Under the Skin |  | 24.9 cells | 20 s | Read a target's aura for a day's advantage, the way Aura Perception does. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **Blood Sight** | Blood Sight |  | 24.9 cells | 20 s | Taste what a pawn's blood is, and whose. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **Chain of Slavery** | Chain of Slavery |  | 24.9 cells | 20 s | Follow someone's blood bonds to whoever holds them. |
+| <img src="img/icons/UI_VTM_Abilities_TheftOfVitae.png" width="32" height="32"> | **Theft of Will** | Theft of Will | 1 Willpower | 24.9 cells | 20 s | Pull a running Discipline effect off a target and take it for the rest of its time. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **Thaumaturgical Sight** | Thaumaturgical Sight |  | 24.9 cells | 20 s | See the magic worked on a pawn, as Aura Perception sees a mood. |
+| <img src="img/icons/UI_VTM_Abilities_DrawingOut.png" width="32" height="32"> | **Birth the Vozhd** | Birth the Vozhd | 20 blood | 24.9 cells | 20 s | Twenty blood remakes one of the colony's own into a war-beast for good. Costs 20 blood. |
+| <img src="img/icons/UI_VTM_Abilities_EarthMeld.png" width="32" height="32"> | **Body Armory** | Body Armory | 2 blood | Self | 1 h | Grow blades out of bone and flesh. Costs 2 blood. |
+| <img src="img/icons/UI_VTM_Abilities_HeightenedSenses.png" width="32" height="32"> | **Ears of the Bat** | Ears of the Bat | 1 blood | Self | 1 h | Great ears for a while. Hearing is everything, and strangers are put off. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Surge.png" width="32" height="32"> | **Flaying Touch** | Flaying Touch | 1 blood | Touch | 10 s | A touch strips the skin away. Aggravated, at arm's length. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_MaskOfAThousandFaces.png" width="32" height="32"> | **Soul Decoration** | Soul Decoration | 3 Willpower | 24.9 cells | 20 s | Three Willpower, and a colonist's aura is remade. Nobody can read it for a week. Costs 3 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Endure.png" width="32" height="32"> | **Wound Sculpting** | Wound Sculpting | 1 blood | 4.9 cells | 20 s | Mould three wounds shut with bare hands, on any of the colony's own. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Command from Afar** | Command from Afar | 1 Willpower | 500 cells | 20 s | A word in the mind of anyone of the colony's, anywhere on the map, keeps them steady. Costs 1 Willpower. |
+| <img src="img/icons/UI_VTM_Abilities_Entrancement.png" width="32" height="32"> | **Divine Aura** | Divine Aura | 1 blood | Self | 1 h | Until dawn, whoever tries to read this vampire's aura may fall entranced. Costs 1 blood. |
+| <img src="img/icons/UI_VTM_Abilities_AuraPerception.png" width="32" height="32"> | **Impeccable Manners** | Impeccable Manners |  | Self | 1 h | Never a wrong word: talk and trade go easier for a while. |
+| <img src="img/icons/UI_VTM_Abilities_Telepathy.png" width="32" height="32"> | **Telepathic Command** | Telepathic Command |  | 500 cells | 20 s | An order given in the mind, with no word spoken and no eyes to meet. |
+| <img src="img/icons/UI_VTM_Abilities_Entrancement.png" width="32" height="32"> | **Beneath Contempt** | Beneath Contempt | 1 Willpower | Self | 20.8333 s | Nobody thinks the vampire worth noticing, for as long as it takes to walk away. Costs 1 Willpower. |
 | <img src="img/icons/UI_VTM_Abilities_RiddenGo.png" width="32" height="32"> | **Go There** | Subsume the Spirit |  | 500 cells |  | Send the animal to a spot. |
 | <img src="img/icons/UI_VTM_Abilities_RiddenAttack.png" width="32" height="32"> | **Attack** | Subsume the Spirit |  | 500 cells |  | Set the animal on someone. |
 | <img src="img/icons/UI_VTM_Abilities_RiddenLetGo.png" width="32" height="32"> | **Let Go** | Subsume the Spirit |  | Self |  | Leave the animal and wake in the vampire's own body. |
@@ -341,10 +410,17 @@ The assassin's art, the Assamite's gift: silence, poisoned blood, burst veins an
 |---|---|---|---|---|---|---|
 | <img src="img/icons/UI_VTM_Abilities_SilenceOfDeath.png" width="32" height="32"> | 1 | **Silence of Death** | 1 blood | Self | 4 h | Swallow all sound within six cells of the vampire for a few minutes. The first blow on anyone inside who isn't already fighting does double damage and leaves them reeling for two seconds. |
 | <img src="img/icons/UI_VTM_Abilities_ScorpionsTouch.png" width="32" height="32"> | 2 | **Scorpion's Touch** | 1 blood | 8 cells | 40 s | Turn blood into a weakening poison on the hand or blade. The next melee hit within four hours leaves the target slow, clumsy and short of breath for a day, and so does drinking from the vampire meanwhile. Aimed at someone within eight cells instead, the vampire spits the poison straight at them. |
+| <img src="img/icons/UI_VTM_Abilities_ScorpionsTouch.png" width="32" height="32"> | 2 | **Scorpion's Curse** | 1 blood | 3 cells | 40 s | Lay Scorpion's Touch on the ground as a hidden ward. The first enemy to step on it within five days takes the poison, weak, slow and short of breath for a day. |
+| <img src="img/icons/UI_VTM_Abilities_ScorpionsTouch.png" width="32" height="32"> | 2 | **Ishtar's Touch** | 2 blood | Self | 40 s | Turn blood into a narcotic on the hand or blade. The next melee hit within four hours rolls the vizier's Willpower against the target's Stamina + Fortitude. Each net success lasts longer, from moments to a year, and while it lasts the vizier's mind powers are 2 easier on that target. |
 | <img src="img/icons/UI_VTM_Abilities_DagonsCall.png" width="32" height="32"> | 3 | **Dagon's Call** | 1 Willpower | 30 cells | 30 s | Burst the blood vessels of someone this vampire has struck in melee within the last day, from as far as it can see them: one pulse of internal damage a second for each success. Stamina and Quietus against the victim's Stamina plus 3. |
+| <img src="img/icons/UI_VTM_Abilities_DagonsCall.png" width="32" height="32"> | 3 | **Dagon's Call** | 1 Willpower | 30 cells | 30 s | Harrow the mind of someone this vampire has struck in melee within the last day, from as far as it can see them. Manipulation + Intellectual against their Willpower: each success strips a point of Willpower, for a day. |
 | <img src="img/icons/UI_VTM_Abilities_BaalsCaress.png" width="32" height="32"> | 4 | **Baal's Caress** | 1 blood | Self | 40 s | Coat a blade in blood turned to aggravated venom for four hours. Every cutting or stabbing hit adds half its damage again as venom. |
+| <img src="img/icons/UI_VTM_Abilities_BaalsCaress.png" width="32" height="32"> | 4 | **Baal's Caress** | 1 blood | Self | 40 s | Smear blood across the eyes and over a blade for four hours. The sorcerer's version of the venom: it only works on spirits and the demon-touched, and every cutting or stabbing hit on them adds half its damage again. |
+| <img src="img/icons/UI_VTM_Abilities_BaalsCaress.png" width="32" height="32"> | 4 | **Baal's Caress** | 1 blood | Self | 40 s | Coat a blade in vitae for four hours. Every cutting or stabbing hit strips a point of Willpower for a day, and a target stripped bare is charmed by the vizier for a while, as good as bound. The book's blow does no damage, but here the cut still lands. |
 | <img src="img/icons/UI_VTM_Abilities_EnvenomBlade.png" width="32" height="32"> | 4 | **Envenom Blade** | 1 blood | Touch | 1 h | Work blood venom into a knife's steel so it keeps it. The knife becomes a Quietus blade: anyone who wields it, mortal or not, adds Baal's Caress's venom to their next five hits. |
 | <img src="img/icons/UI_VTM_Abilities_TasteOfDeath.png" width="32" height="32"> | 5 | **Taste of Death** | 1 blood | 10 cells | 5 s | Spit a gout of the Assamites' poisoned blood at someone within ten cells. It eats flesh like acid and keeps burning for a few seconds after it lands, and its wounds are aggravated. |
+| <img src="img/icons/UI_VTM_Abilities_TasteOfDeath.png" width="32" height="32"> | 5 | **Taste of Death** | 1 blood | 10 cells | 5 s | Spit the Assamites' poisoned blood at a spirit or a demon-touched target within ten cells. It works on nothing else. |
+| <img src="img/icons/UI_VTM_Abilities_TasteOfDeath.png" width="32" height="32"> | 5 | **Taste of Bliss** | 2 blood | 10 cells | 5 s | Breathe a fine red mist at someone within ten cells. Four dice against their Willpower: each success strips a point of Willpower for a day, and any success counts as a drink of the vizier's blood. A target stripped bare is charmed by the vizier for a while. |
 | <img src="img/icons/UI_VTM_Abilities_BloodSweat.png" width="32" height="32"> | 6 | **Blood Sweat** | 1 Willpower | 24.9 cells | 20 s | Wring guilt out of someone in sight until it runs from their skin as blood: a point of a vampire's pool per net success, or a mortal's blood as if fed on. Manipulation and Social against their Willpower. |
 | <img src="img/icons/UI_VTM_Abilities_BaalsBloodyTalons.png" width="32" height="32"> | 7 | **Baal's Bloody Talons** | 2 blood | Self | 4 h | Coat the blade in venomous blood for four hours: every melee hit with it is aggravated and does half again as much, and each one eats a little of the weapon away. |
 
@@ -454,6 +530,96 @@ The Gargoyles' kinship with stone: skin that takes the colour of the walls, a se
 | <img src="img/icons/UI_VTM_Abilities_ScryTheHearthstone.png" width="32" height="32"> | 2 | **Scry the Hearthstone** | 1 Willpower | Self | 1 h | Feel through the stone for everyone nearby until dawn. Hidden Kindred within twelve cells are found as if by Auspex one dot below the Gargoyle's Visceratika. |
 | <img src="img/icons/UI_VTM_Abilities_BondWithTheMountain.png" width="32" height="32"> | 3 | **Bond with the Mountain** | 2 blood | Self | 10 s | Sink into the rock or a stone wall alongside, out of the sun, until the next dusk or until told to come out. The vampire shows against the stone as a figure in a gargoyle's grey skin, and it can be struck, but it takes a lot to break. |
 | <img src="img/icons/UI_VTM_Abilities_FlowWithinTheMountain.png" width="32" height="32"> | 5 | **Flow Within the Mountain** | 1 blood | 6 cells | 5 s | Melt into a wall of rock or stone and come out on the other side, up to six cells away. |
+
+
+## Combination powers
+
+Some powers need dots in two Disciplines at once. Open **Combination powers** on the Disciplines page of the vampire's sheet to see what it can buy, what is one dot away and what it knows. Once bought, a power stays for good and goes on its own tile on the bar, or simply works if it's an always-on one.
+
+| Power | Needs | XP | What it does |
+|---|---|---|---|
+| **Armor of the Abyss** | Obtenebration 3, Fortitude 3 | 18 | Shadow closes around the body and hardens, without weighing it down. Costs 1 blood. |
+| **Baal's Sight** | Auspex 2, Quietus 4 | 18 | The sorcerer's eyes stay open to what walks without a body. The sorcerer caste's own: it sharpens sight for good. |
+| **Bagman's Shelter** | Obtenebration 2, Fortitude 3 | 15 | Shadow thickens around the sleeper. For a day sunlight does half its damage. Costs 1 blood and 1 Willpower. |
+| **Beneath Contempt** | Obfuscate 2, Presence 3 | 15 | Nobody thinks the vampire worth noticing, for as long as it takes to walk away. Costs 1 Willpower. |
+| **Bestial Presence** | Animalism 3, Obfuscate 3 | 18 | Something huge broods behind the vampire. Every outsider nearby feels it. Costs 1 blood. |
+| **Birth the Vozhd** | Animalism 6, Vicissitude 6 | 36 | Twenty blood remakes one of the colony's own into a war-beast for good. Costs 20 blood. |
+| **Bliss** | Dominate 2, Presence 3 | 15 | Fall into a trance before beauty and come back steadied, with the world a little easier to bear. |
+| **Blood Sight** | Auspex 2, Path of Blood 1 | 9 | Taste what a pawn's blood is, and whose. |
+| **Blood Thorns** | Protean 2, Potence 2 | 12 | Spit a hardened spine of blood at someone within eight cells. The wound is aggravated. Costs 1 blood. |
+| **Body Armory** | Protean 3, Vicissitude 3 | 18 | Grow blades out of bone and flesh. Costs 2 blood. |
+| **Burning Wrath** | Celerity 3, Potence 3 | 18 | Bare hands burn with Rage for the fight, and what they tear doesn't mend the easy way. Costs 1 blood. |
+| **Carriage Horses** | Animalism 2, Fortitude 3 | 15 | Three of the vampire's wounds pass to a colony animal, which takes them instead. Costs 1 blood. |
+| **Chain of Slavery** | Auspex 2, Dominate 2 | 12 | Follow someone's blood bonds to whoever holds them. |
+| **Chaining the Beast** | Animalism 3, Dominate 1 | 16 | Always on: mental powers can reach a vampire in frenzy or Rotschreck. |
+| **Claw Immunity** | Animalism 2, Fortitude 4 | 18 | The hide turns teeth and claws for the rest of the scene. Costs 2 blood. |
+| **Cloak the Beast** | Animalism 5, Obfuscate 3 | 24 | Always on: aura reading finds nothing to read. |
+| **Command from Afar** | Auspex 4, Presence 4 | 24 | A word in the mind of anyone of the colony's, anywhere on the map, keeps them steady. Costs 1 Willpower. |
+| **Command the Wary Beast** | Animalism 2, Presence 3 | 15 | One look, and the hostile animals around the target break and run. Costs 1 Willpower. |
+| **Creepy Clown Coat** | Dementation 1, Obfuscate 3 | 12 | Wear whatever the target fears the most, and watch them go. |
+| **Days of Passions Past** | Dementation 3, Auspex 2 | 15 | Read an aura for what it has been feeling, not only what it feels. |
+| **Denial of Aphrodite's Kiss** | Dominate 3, Presence 3 | 18 | Always on: the first three dots of Presence fail against it from any vampire of higher Generation. |
+| **Devil's Mark** | Presence 1, Vicissitude 2 | 9 | Mark a colonist's skin with Presence, so that all who see them are swayed. |
+| **Divine Aura** | Auspex 2, Presence 3 | 15 | Until dawn, whoever tries to read this vampire's aura may fall entranced. Costs 1 blood. |
+| **Do As I Say, Not As I Say** | Dominate 1, Dementation 4 | 15 | A muddled order sends the target wandering off with no idea what it is doing. |
+| **Doubletalk** | Auspex 2, Celerity 1, Obfuscate 1 | 12 | Always on: speaks a second meaning under the first, which makes every negotiation go better. |
+| **Draught of the Soul** | Auspex 4, Quietus 5 | 27 | At diablerie, three Willpower and a Willpower roll drink down what the victim knew, for a quarter of its experience on top of the usual. |
+| **Ears of the Bat** | Auspex 1, Vicissitude 1 | 6 | Great ears for a while. Hearing is everything, and strangers are put off. Costs 1 blood. |
+| **Empower Minion** | Dominate 3, Potence 3 | 18 | Lend Potence to a thrall of the colony. Costs 1 blood. |
+| **Esprit de Corps** | Potence 4, Presence 4 | 24 | Everyone of the vampire's own nearby stands firmer against fear and breaks far less easily. Costs 1 Willpower. |
+| **Eventide Strength** | Chimerstry 3, Fortitude 1 | 12 | Always on: illusions last three times as long. |
+| **Eyes of Alamut** | Auspex 4, Quietus 3 | 21 | Read the aura of anyone on the map, in sight or not. Costs 1 Willpower. |
+| **Eyes of Blades** | Auspex 2, Celerity 3 | 15 | For a few moments every blow can be seen and turned aside. Costs 2 blood and 1 Willpower. |
+| **Eyes of a Thousand Shades** | Auspex 1, Necromancy (any path) 3 | 12 | Ghosts crowd close around the necromancer for an hour. Necromancy rolls gain two dice. Costs 1 blood. |
+| **Fear of the Dark** | Presence 2, Obtenebration 2 | 12 | Shadows move at the edge of sight, and the target and those around them run. Costs 1 blood. |
+| **Flaying Touch** | Potence 2, Vicissitude 2 | 12 | A touch strips the skin away. Aggravated, at arm's length. Costs 1 blood. |
+| **Flesh Wound** | Fortitude 2, Obfuscate 3 | 15 | Injuries stop showing, and the vampire goes on as if they had never landed. Costs 1 blood. |
+| **Forbidden Zone** | Obfuscate 5, Potence 3 | 24 | Mark out a place. For hours, outsiders who enter are slowed by dread. Costs 1 blood. |
+| **Forced March** | Celerity 2, Fortitude 2 | 12 | Cover ground for hours at a pace nothing mortal could hold, for a fraction of Celerity's price. Costs 1 blood. |
+| **Haunted Place** | Presence 2, Obfuscate 5 | 21 | Five blood soaked into the ground leaves a place wrong for fifteen days. Outsiders hate every moment there. Costs 5 blood. |
+| **Haunting Seduction** | Dementation 2, Presence 1 | 9 | Whisper something, and the victim sees the vampire everywhere and can think of nothing else. Costs 1 blood. |
+| **Heart's Desire** | Auspex 4, Chimerstry 2 | 18 | Show someone what they want the most, and they will stand and stare. Costs 1 blood and 1 Willpower. |
+| **Honeyed Words** | Auspex 2, Presence 1 | 9 | Hear what a listener wants and say it, and everyone is easier to talk round for the rest of the scene. |
+| **I Know** | Auspex 2, Obfuscate 2 | 12 | A look that says the vampire knows. The target loses its nerve for the fight. |
+| **Ignore Me** | Dominate 4, Obfuscate 2 | 18 | The target loses all interest in the vampire and in the fight. |
+| **Impeccable Manners** | Auspex 2, Presence 1 | 9 | Never a wrong word: talk and trade go easier for a while. |
+| **Iron Heart** | Potence 3, Presence 3 | 18 | Always on: powers that work on the mind find the vampire two Willpower harder to move, and pain matters less. |
+| **King of the Beasts** | Fortitude 2, Animalism 4 | 18 | Animals called with Beckoning arrive tougher than they left. Always on. |
+| **Leaps and Bounds** | Celerity 2, Potence 2 | 12 | Clear walls and gaps in one bound, up to twelve cells. |
+| **Malkav's Pavlovian Response** | Dementation 2, Dominate 2 | 12 | Plant a feeling in a word. For a day, the target's nerves are never quite steady. |
+| **Mind Strike** | Dominate 2, Potence 2 | 12 | Meet someone's gaze and hit them from the inside. Costs 1 Willpower. |
+| **Mover and Shaker** | Auspex 2, Presence 3 | 15 | Always on: the vampire knows everybody, and everybody thinks it's a friend. |
+| **Power Animal** | Animalism 3, Potence 1 | 12 | Lend Potence to a colony animal. Costs 1 blood. |
+| **Pulse of Undeath** | Auspex 1, Potence 1 | 6 | Size up a stranger: how much Celerity, Potence and Fortitude they carry. |
+| **Rando** | Obfuscate 3, Dementation 3 | 18 | The target keeps seeing someone else: a face it trusts, whoever is standing there. |
+| **Reluctant Performance Artist** | Dominate 3, Presence 3 | 18 | A mortal stops whatever it was doing and stands there, helpless, for all to see. Costs 1 Willpower. |
+| **Rescue Beacon** | Fortitude 1, Presence 4 | 15 | Always on: when the vampire falls into torpor, the colony hears it at once and knows where. |
+| **Retaliatory Terror** | Fortitude 1, Presence 2 | 9 | Always on: a blood point when struck in melee, and the attacker may flee. |
+| **Scalpel Tongue** | Presence 1, Celerity 1 | 6 | One barbed remark and the target has nothing to say for a while. |
+| **Scourge of Alecto** | Celerity 2, Presence 4 | 18 | Chain the Beast and set it loose inside someone else. It hurts them from within, and a vampire must fight off frenzy. Costs 1 Willpower. |
+| **Screams Made Real** | Auspex 4, Dementation 4 | 24 | Pull the worst thing out of someone's head and show it to them. A mind can stay broken after that. Costs 1 blood. |
+| **See the Reflected Form** | Auspex 2, Protean 4 | 18 | See what a pawn really is, whatever shape it wears. |
+| **Shadow Feint** | Celerity 2, Obfuscate 2 | 12 | Slip half out of the eye for a moment, so attacks land where the assassin no longer is. Costs 1 blood. |
+| **Shadow Mark** | Dominate 3, Obtenebration 6 | 27 | Step through the Abyss to any of the colony's own, anywhere on the map. Costs 1 blood. |
+| **Sharing the Master's Vigor** | Dominate 5, Necromancy (any path) 3 | 24 | Lend one of the colony's own, living or dead, some of the master's strength. Costs 1 blood. |
+| **Shatterproof** | Protean 3, Fortitude 4 | 21 | Body and stubbornness soak together for a few moments, against anything. Costs 1 Willpower. |
+| **Shroud of Absence** | Obfuscate 3, Obtenebration 3 | 18 | A pocket of nothing closes around everyone of the vampire's own within three cells. Costs 1 blood. |
+| **Soul Decoration** | Auspex 2, Obfuscate 3 | 21 | Three Willpower, and a colonist's aura is remade. Nobody can read it for a week. Costs 3 Willpower. |
+| **Soul Painting** | Auspex 4, Presence 2 | 18 | Paint what someone is. A vampire's Path and Virtues, a mortal's state of mind. |
+| **Spirit Tracking** | Protean 2, Animalism 2 | 12 | Catch the scent of the undead: names every vampire on the map. |
+| **Sympathetic Agony** | Chimerstry 2, Fortitude 4 | 18 | Every hurt the target takes for the next hour feels far worse. |
+| **Telepathic Command** | Auspex 4, Dominate 1 | 15 | An order given in the mind, with no word spoken and no eyes to meet. |
+| **Thaumaturgical Sight** | Auspex 2, Thaumaturgy (any path) 1 | 6 | See the magic worked on a pawn, as Aura Perception sees a mood. |
+| **The False Drink** | Auspex 1, Vicissitude 5 | 18 | Always on: a good chance to hold blood in the throat and never let the bond take hold. |
+| **Theft of Will** | Dominate 3, Thaumaturgy (any path) 4 | 21 | Pull a running Discipline effect off a target and take it for the rest of its time. Costs 1 Willpower. |
+| **True Love's Face** | Obfuscate 3, Presence 3 | 18 | The target sees someone they love and won't raise a hand against them. |
+| **Typhonic Beast** | Potence 3, Serpentis 4 | 21 | Take the shape of Set's own beast: stronger, tougher and faster, with claws to match. Costs 3 blood. |
+| **Under the Skin** | Auspex 3, Presence 3 | 18 | Read a target's aura for a day's advantage, the way Aura Perception does. |
+| **Waking Dream** | Chimerstry 1, Fortitude 1 | 6 | Believe in an illusory bridge or rope long enough to cross it. Once a day. |
+| **Weigh the Heart** | Auspex 3, Serpentis 5 | 24 | Lay bare what someone lives by: a vampire's Path and Virtues, a mortal's state of mind. |
+| **Wolf in Sheep's Clothing** | Animalism 3, Obfuscate 2 | 15 | Hide a colony animal from every eye. Costs 1 blood. |
+| **Wound Sculpting** | Fortitude 3, Vicissitude 2 | 15 | Mould three wounds shut with bare hands, on any of the colony's own. Costs 1 blood. |
+| **Ze Monkey's Paw** | Auspex 3, Dementation 4 | 21 | A cursed gift: the target's luck turns into bruises and broken bones. Costs 1 Willpower. |
 
 [← Contents](README.md)
 

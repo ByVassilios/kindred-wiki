@@ -205,6 +205,43 @@ Every vice is a tool for raising a sleeping god. Followers corrupt others, help 
 | 3 | Destroyed a vampire of its own clan |
 | 2 | Tended someone else's wounds |
 
+### Path of Entelechy
+
+A Brujah's stoic discipline, older than Carthage. The Beast is an enemy to be mastered by reason, the mind and body are there to be perfected, and mortals are not to be used for more than a meal.
+
+*Virtues:* Conviction, Self-Control, Courage. *Most often followed by:* Brujah.
+
+| Rating | Sin |
+|---|---|
+| 5 | Fed on someone against their will |
+| 5 | Hurt someone who meant no harm |
+| 3 | Lost control to a frenzy |
+| 1 | Killed someone who meant no harm |
+
+### Path of Ecstasy
+
+Pleasure taken past every mortal limit tears a hole in the world's lies. Followers of this Setite Path spread rapture, break taboos and treat holding back as the one real sin.
+
+*Virtues:* Conscience, Self-Control, Courage. *Most often followed by:* Followers of Set.
+
+| Rating | Sin |
+|---|---|
+| 9 | Gone hungry when it could have fed |
+| 3 | Held back a frenzy |
+
+### Path of the Warrior
+
+Set is a god of war and storms, and his chosen are weapons. Followers of this Setite Path train and hurt themselves until the Beast fears them, and every kill is a prayer.
+
+*Virtues:* Conviction, Self-Control, Courage. *Most often followed by:* Followers of Set.
+
+| Rating | Sin |
+|---|---|
+| 5 | Executed a prisoner |
+| 3 | Lost control to a frenzy |
+| 3 | Fled in terror from fire or sunlight |
+| 2 | Taken someone captive instead of killing them |
+
 [← Contents](README.md)
 
 ---

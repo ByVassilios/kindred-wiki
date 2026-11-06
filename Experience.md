@@ -95,6 +95,9 @@ night. A deed another morality would reward pays nothing.
 | Path of Paradox | Given a vampire Final Death |
 | Path of Power and the Inner Voice | Bent a mind with Dominate; Given a servant an order |
 | Path of Typhon | Left a mortal craving the Kiss |
+| Path of Entelechy | Held back the Beast; Finished a lore text |
+| Path of Ecstasy | Drunk a high from a vessel's blood; Charmed a mortal; Left a mortal craving the Kiss |
+| Path of the Warrior | Given a vampire Final Death; Grown in a Discipline; Held back the Beast |
 
 ## Firsts
 

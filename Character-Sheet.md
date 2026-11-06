@@ -87,6 +87,98 @@ bought later. A Flaw that repeats the clan's weakness is never rolled.
 | **Blush of Health** | Still has the colour of the living. However low its Humanity falls, it never looks like a corpse. |
 | **Calm Heart** | Slow to anger. Two more dice to resist frenzy. |
 | **Eat Food** | Can sit down to a meal like a mortal without forcing it down. It still has to come back up later. |
+| **Acute Sense** | One sense is unusually sharp. A little better at shooting and spotting. |
+| **Ambidextrous** | Uses either hand as well as the other. Hits a little more often in melee. |
+| **Bruiser** | Looks like trouble. Better at getting prisoners and mortals to do as they're told. |
+| **Catlike Balance** | Sure on its feet. Dodges a little more often. |
+| **Friendly Face** | Has the kind of face people trust. Slightly better with people. |
+| **Enchanting Voice** | A voice people want to keep listening to. |
+| **Daredevil** | Takes wild chances and gets away with them. Hits harder and dodges more, though a rough fight hurts more too. |
+| **Huge Size** | Very large. Tougher and stronger, and easy to spot. |
+| **Coldly Logical** | Weighs things without feeling. Harder to shake. |
+| **Common Sense** | Knows a bad idea when it hears one. |
+| **Concentration** | Isn't distracted when it matters. Aims a little faster and works a little steadier. |
+| **Introspection** | Understands its own mind better than most. |
+| **Time Sense** | Always knows the hour, to the minute. |
+| **Useful Knowledge** | Knows something worth knowing, and learns faster for it. |
+| **Code of Honor** | A personal code that holds up under pressure. |
+| **Eidetic Memory** | Remembers everything it sees and hears. |
+| **Precocious** | Learns fast. |
+| **Natural Leader** | People follow it. |
+| **Harmless** | Nobody thinks it worth worrying about. |
+| **Former Ghoul** | Served a vampire before the Embrace and knows the world it joined. |
+| **Bullyboy** | Known as muscle, and used to it. |
+| **Scholar of Others** | Has studied a kind of creature that isn't Kindred. |
+| **Deceptive Aura** | Its aura is bright and healthy, like a mortal's. |
+| **Healing Touch** | Its bite closes without a trace, and its hands are gentle. |
+| **Inoffensive to Animals** | Animals don't mind it. |
+| **Medium** | Hears the dead when they speak. |
+| **Magic Resistance** | Magic slides off it, friendly or not. |
+| **Lucky** | Things go its way more often than they should. |
+| **Oracular Ability** | Sees signs in everything. |
+| **Spirit Mentor** | A ghostly teacher looks out for it. |
+| **True Love** | Someone mortal loves it, and that holds it together. |
+| **Nine Lives** | Keeps surviving what should kill it. |
+| **Thousand Meter Killer** | A sniper of the Assassin's Club. Shoots more accurately at long range. |
+| **Dynamic Personality** | Mortals are drawn to it like groupies to a rock star. |
+| **Drug Resistance** | Years of vices have built a tolerance. |
+| **Addictive Blood** | Its blood is the perfect drug. |
+| **Setite Initiate** | Joined the Followers of Set from another clan, with the cult's contacts behind it. |
+| **Hive-Minded** | Its Animalism reaches insects too. |
+| **Skald** | Remembers oral histories word for word. |
+| **Lesser Mark of the Beast** | Keeps some say over how the Beast marks it. |
+| **Totemic Change** | Its animal shapes are flexible, and all of them fit it well. |
+| **Cannibal** | Human meat brings it joy, for what that's worth. |
+| **Mortuario** | Died and came back through the Ferryman's Recall. Two more dice on Necromancy rolls. |
+| **Sanguine Incongruity** | Doesn't carry the Giovanni's painful Kiss. |
+| **Court Favorite** | Knows how to tip a Court of Blood. |
+| **Eyes of Shadow** | Meeting its eyes is like staring into the Abyss. |
+| **Bigger Boys Came** | Knows whose name to drop when someone leans on it. |
+| **Call of the Sea** | At home with the tides. A little steadier. |
+| **Controllable Night Sight** | Sees through the deepest shadow. |
+| **Aura of Command** | Born to give orders. |
+| **King or Queen of Shadow** | Draws strength from what it still feels for the kine. |
+| **Long-Term Planning** | Every action is part of a plan. |
+| **Instrument of God** | Believes the Lord works through it, and acts like it. |
+| **Distracting Aura** | Its aura is close to unreadable. |
+| **Prophetic Dreams** | Remembers its day dreams, and some come true. |
+| **Cold Read** | Learns more than it should from a first meeting. |
+| **Foul Blood** | Its blood is so vile that even drinking it is a struggle. |
+| **Lizard Limbs** | Can shed a limb to escape and grow it back. |
+| **Long Fingers** | Long, graceful fingers, good at fine work. |
+| **Monstrous Maw** | A huge mouth of sharp teeth. |
+| **Piscine** | Comfortable in water, even sewage. |
+| **Slimy** | Secretes a slippery ooze. Hard to hold. |
+| **Tunnel Rat** | Knows every way under the ground. |
+| **Sleep Unseen** | Keeps Obfuscate up while it sleeps. |
+| **Tough Hide** | Skin like a rhino's. |
+| **False Reflection** | Its Obfuscate fools cameras too. |
+| **Patagia** | Leathery flaps let it glide. |
+| **Rugged Bad Looks** | Hideous, but might pass for human in the right light. |
+| **Antitoxin Blood** | Immune to most drugs and poisons. |
+| **Brahmin** | A priest or teacher among the Ravnos. |
+| **Kshatriya** | A warrior or ruler among the Ravnos. |
+| **Legerdemain** | Quick hands and card tricks. |
+| **Mute Devotion** | The beasts it has spoken with stay loyal. |
+| **Vaishya** | A trader by birth. |
+| **Critters** | Animals want to be its friend. |
+| **Heart of Needles** | Too jaded by its own illusions to be moved. |
+| **Indelible** | Tattoos and piercings stay after the Embrace. |
+| **Impressive Restraint** | Hunger barely moves it near mortals. |
+| **Master of the Masquerade** | Remembers to breathe, blink and fidget. |
+| **Slowed Degeneration** | Humanity comes hard to lose. |
+| **Embraced without the Cup** | The elders' blood had no hold on it. |
+| **Keys to the Library** | A chantry librarian with the run of its lore. |
+| **Outside Haven** | Trusted to sleep outside the chantry. |
+| **Quartermaster** | Runs a chantry's stores. |
+| **Bioluminescence** | Can make its flesh glow. |
+| **Pain Tolerance** | Shuts off its nerves. |
+| **Dracon's Temperament** | A whirlwind of moods that keeps it on its feet. |
+| **Promethean Clay** | Its flesh changes almost before it asks. |
+| **Connoisseur** | Reads character in a vessel's blood. |
+| **Personal Masquerade** | Has other vampires believing it has a clan. |
+| **Unbondable** | No blood bond will ever take hold of it. |
+| **Consanguineous Resistance** | No one of its own Giovanni blood can bind it. |
 
 | Flaw | What it is |
 |---|---|
@@ -97,6 +189,101 @@ bought later. A Flaw that repeats the clan's weakness is never rolled.
 | **Slow Healing** | Wounds close grudgingly. Healing with blood costs twice as much. |
 | **Smell of the Grave** | Smells of damp earth, always. People keep their distance. |
 | **Infertile Vitae** | Something went wrong at the Embrace. Anyone it tries to Embrace simply dies. Its blood works for everything else. |
+| **Hard of Hearing** | Doesn't hear well. |
+| **Bad Sight** | Sees poorly, near or far. |
+| **Disfigured** | A disfigurement that nobody forgets. |
+| **Dulled Bite** | Weak fangs. Feeding tears at the vessel more than it should, and the bite does less in a fight. |
+| **Infectious Bite** | Bites fester. The vampire's own wounds and its vessels are harder to keep clean. |
+| **One Eye** | Has only one working eye. |
+| **Open Wound** | A wound that never closes, leaking blood. |
+| **Addiction** | Needs a drug it can only get through its vessels' blood. On edge most of the time. |
+| **Deformity** | A misshapen body that slows it and turns heads. |
+| **Glowing Eyes** | Eyes that shine in the dark, for anyone to see. |
+| **Lame** | A bad leg. Walks slowly and fights badly on its feet. |
+| **Lazy** | Does as little as it can get away with. |
+| **Monstrous** | Plainly not human. |
+| **Permanent Fangs** | The fangs never go back in. |
+| **Permanent Wound** | Rises each night with the same wound, and carries it all night. |
+| **Disease Carrier** | Carries sickness in its blood, and the people around it pay for it. |
+| **Deaf** | Can't hear anything. |
+| **Mute** | Can't speak. |
+| **Flesh of the Corpse** | Dead flesh that stays dead. It takes damage like any corpse and looks like one. |
+| **Blind** | Can't see. |
+| **Impatient** | Hates waiting. |
+| **Nightmares** | Bad dreams every day. It wakes tired of itself. |
+| **Shy** | Hates being looked at. |
+| **Soft-Hearted** | Can't stand to see suffering. |
+| **Speech Impediment** | Trouble getting words out. |
+| **Lunacy** | The moon pulls at its mind. |
+| **Phobia** | Terrified of one thing, and never far from it in thought. |
+| **Territorial** | Can't stand strangers in its space. |
+| **Thirst for Innocence** | Innocent blood calls to it. On edge around the blameless. |
+| **Vengeful** | Can't let a wrong go. |
+| **Weak-Willed** | Gives in easily. |
+| **Guilt-Wracked** | Everything it has done weighs on it. |
+| **Laughingstock** | Nobody takes it seriously, or ever will. |
+| **Cold Breeze** | A chill follows it from room to room. |
+| **Touch of Frost** | Plants wilt and frost forms where it touches. |
+| **Repulsed by Garlic** | The smell turns its stomach. Harder to keep its nerve. |
+| **Beacon of the Unholy** | Everyone devout can tell what it is. |
+| **Deathsight** | Sees rot and death in everything. |
+| **Eerie Presence** | Mortals feel something wrong about it. |
+| **Lord of the Flies** | Flies follow it everywhere. |
+| **Haunted** | A ghost won't leave it alone. |
+| **Repelled by Crosses** | Holy symbols hurt to look at. |
+| **Grip of the Damned** | Its embrace is cold and terrible. Nobody wants it near. |
+| **Dark Fate** | It knows it will end badly, and soon. |
+| **Light-Sensitive** | Even a lamp hurts. It sees poorly and burns easily. |
+| **Outcast** | Rejected by its caste, and worse with people for it. |
+| **Broken Antitribu** | An Assamite who still bears the Tremere curse and has pledged to the Sabbat anyway. |
+| **Multiple Curses** | Carries a second Assamite curse. |
+| **Obvious Predator** | The rage shows, and mortals fear it on sight. |
+| **Scales** | Set marked it with a patch of scales. |
+| **Venomous Bite** | Venom glands in the mouth. Its bite in a fight is deadlier, and feeding is dangerous for mortals. |
+| **Forked Tongue** | A forked, flickering tongue, hard to hide. |
+| **Heartless** | Its heart lies somewhere else, out of its hands. |
+| **Aura of the Typhon** | Something coils in its essence that draws Lupines. |
+| **Member of the Pack** | Only one kind of beast will listen to it. |
+| **Rat in a Cage** | Being penned in brings on real panic. |
+| **Inbred** | Generations of cousins marrying left their mark. |
+| **Shadow Walker** | Half in the Shadowlands. It struggles to touch the living world. |
+| **Uncontrollable Night Sight** | Sees into shadow, but any light is close to blinding. |
+| **Insubordinate** | Does the opposite of what it's told, on principle. |
+| **Unproven** | Has yet to prove itself worthy of the name. |
+| **Paper Trail** | Asylum or prison records that won't go away. |
+| **Stigmata** | Phantom wounds that seep blood. |
+| **Infectious** | Madness passes in its bite. |
+| **Overstimulated** | Notices everything, and is easily distracted. |
+| **Dead Inside** | Feels nothing but pain and numbness. |
+| **Stench** | Stinks so badly even Nosferatu keep away. |
+| **Anosmia** | Has no smell or taste left. |
+| **Parasitic Infestation** | Crawling with ticks and leeches. |
+| **Bestial** | Closer to the animals than to people. |
+| **Enemy Brood** | Another brood of Nosferatu hunts it from one sanctuary to the next. |
+| **Putrescent** | Slowly rotting and fragile. |
+| **Contagious** | Full of noxious spores that sicken mortals near it. |
+| **Incoherent** | Can't speak so anyone understands. |
+| **Chandala** | Of the lowest jati, and treated that way. |
+| **Flawed Reality** | Its illusions always have a tell. |
+| **Oathbreaker** | Broke its word, and other Ravnos know. |
+| **Lost Svadharma** | Failed its destiny, and it won't come again. |
+| **Tortured Artist** | Nothing it makes is ever good enough. |
+| **Private Life** | Keeps a whole second life, and the secret wears on it. |
+| **Arcane Curse** | A magical curse, from its studies or someone else's. |
+| **Cloistered** | Has seen little outside the chantry. |
+| **Betrayer's Mark** | Loyal, but branded with the antitribu mark. |
+| **Bound to the Clan** | Fully blood bound to Clan Tremere. |
+| **Unblinking** | Its eyes never close. |
+| **Ancestral Soil Dependence** | Sleeps badly without soil from a homeland it has never seen. |
+| **Faceless** | Wakes with a new face every night. |
+| **Privacy Obsession** | Can barely make itself cross a threshold uninvited. |
+| **Consumption** | Something inside is eating it. |
+| **Uncommon Vitae Preference** | Its taste is rare even for a Ventrue. |
+| **Fangless** | Never grew fangs. |
+| **Ignorance** | Its sire left it knowing nothing. |
+| **Mage Blood** | Blood tied so closely to magic that it can learn no Discipline but Thaumaturgy. |
+| **Thaumaturgically Inept** | Magic won't work for it. It can never learn Thaumaturgy. |
+| **Bulimia** | Blood makes it sick, and it needs blood. |
 
 ## Age
 

@@ -79,6 +79,12 @@ the colony.
 | **Obertus** | Auspex, Obfuscate, Vicissitude | Reclusive scholars of the strange, bred for intellect. Most of them can't rest until everything is just so. |
 | **Oprichniki** | Animalism, Obfuscate, Vicissitude | Descended from a tsar's butchers, now henchmen to the Russian Tzimisce. The dead of an old massacre follow every one of them. |
 | **Zantosa** | Auspex, Presence, Vicissitude | Faded aristocrats who live for the next sensation. Whatever pleases a Zantosa once, it wants again. |
+| **D'Habi** | Daimoinon, Obfuscate, Presence | Warrior-priests of a Baali lord who betrayed him, then spent centuries as the slaves of what was left of his line. Their spirits never recovered, and they give way to a strong will. |
+| **Enrathi** | Dominate, Obfuscate, Potence | Slavers and kidnappers for anyone who pays, Kindred and mortal alike. Nothing they do bothers them, and it shows. |
+| **Kairouan Brotherhood** | Auspex, Celerity, Obfuscate | The Assamites' only revenants, spies and scholars bred by the sorcerers from captured Tzimisce stock. The breeding left their bodies slow to mend. |
+| **Rafastio** | Animalism, Auspex, Path of Blood | A proud matriarchal line of witches who sell their magic to whoever suits them. Their Disciplines fade with the moon, and the Embrace has never taken on one of them. |
+| **Rossellini** | Dominate, Fortitude, Sepulchre Path | Necromancers kept as vassals by the Giovanni, who call them little brothers. They see death and decay in everything, and sit badly in company. |
+| **Servants of Anushin-Rawan** | Auspex, Obfuscate, Presence | Polished attendants raised on a Ventrue elder's island, and mistaken by most Kindred for ghouls. Generations of breeding have made them pliable to Ventrue commands. |
 
 ## Diablerie
 

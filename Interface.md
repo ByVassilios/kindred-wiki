@@ -253,14 +253,17 @@ days) and survivors of a fallen home asking to join (two days).
 
 ## The grimoire
 
-The book button in the bottom-right corner, beside vanilla's play settings, opens the grimoire:
-every clan, Discipline, power, ritual, merit, item and creature the mod adds, made from the game's
-own data, with this guide at the front of the Kindred chapter. The setting "Grimoire", under The Rim by Night: Core in the mod settings, hides it.
+The book button in the bottom-right corner, beside vanilla's play settings, opens the grimoire: a
+panel on the right edge that leaves the game running. It covers the alerts and letters while it's
+open, and its X closes it. It holds every clan, Discipline, power, ritual, merit, item and creature the mod adds, made from the game's own data, with this guide in the Kindred chapter. The setting "Grimoire", under The Rim by Night: Core in the mod settings, hides it.
 
-- Each bookmark along the top is a chapter, one per Rim by Night mod. The left page is the index.
-- **Search** across every chapter. A question works ("how do I heal"): pages with the most of its
-  words come first, and the words are marked in gold on the page you open.
-- Red, underlined words open their own page. **Back** returns to the page before.
+- **Selected** shows what to do about whoever or whatever you have selected, and links to read
+  more. It changes as you select something else. A vampire or Garou hiding among your prisoners
+  shows nothing of what it is.
+- **Ask** looks through every chapter. A question works ("how do I heal"): each answer shows the sentence it
+  found, and clicking one opens that part of the page.
+- **Browse** lists every chapter, with a "what to do" section at the top of each mod's.
+- Gold, underlined words open their own page. **Back** returns to the page before.
 - The info button beside a page's title opens the game's own card, with every stat.
 - From the game: click a row on the Kindred tab, right-click a power's icon, or press the **?**
   beside a tab heading.

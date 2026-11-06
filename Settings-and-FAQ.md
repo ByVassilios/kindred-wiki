@@ -63,6 +63,7 @@ Pyramid and the Prince's leave apply.
 | Sire calls | A sire out in the world calling on its childe with demands. |
 | Wights come back | A vampire lost to the Beast who escapes the map returns now and then as a night threat. |
 | The Red List | Five Anathema the Camarilla wants destroyed roam the world map, each with a bounty. They roam either way, but only a colony in the Camarilla is told of them, sees them on the map or is paid for one. Turned off, they leave the world map; turned back on, a new list arrives in one letter. |
+| Scourges | Camarilla courts seat a Scourge, who comes after colony vampires of the 14th generation and higher, and a colony with its own domain can name one. Off, nobody is sent and the office is gone from the domain page. |
 | Hunters among tavern guests | The chance that a guest at the colony's tavern is a hunter, from a strong Masquerade to a broken one. The mod's chances run from 5% to 40%. At 0% none come this way. |
 | **Events** | |
 | Sect politics | Archons, Sabbat packs and Anarch gangs sent against the colony, infiltrators, thralls of outside Kindred, Anarch unrest, Assamite contracts, Setite corruption and Tremere hit teams. |
@@ -138,7 +139,7 @@ stays friendly while you're there: its people only turn on you if the faction do
 
 **Where do I look something up in game?**
 The [grimoire](Interface.md#the-grimoire), the book button in the bottom-right corner. Type a
-question into its search.
+question on its Ask tab.
 
 ## Dev mode
 
@@ -147,6 +148,8 @@ colonist into a Kindred with rolled defaults, and **Open making menu** lets you 
 The full list:
 
 - A sect hears of your hunters
+- Send the Scourge
+- Offer a thin-blood hunt
 - Make vampire
 - Hunting trip letter
 - Sire demand letter
@@ -212,6 +215,9 @@ The full list:
 - Give vitae from selected
 - Ghoul: skip 14 days
 - Make revenant
+- Make revenant of family...
+- Learn Combination power...
+- Learn every Combination power
 - Diablerie by selected
 - Ask for the Embrace
 - Dam blood

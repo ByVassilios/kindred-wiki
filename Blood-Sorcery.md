@@ -342,6 +342,10 @@ The koldun's command of fire and molten rock. The first dot takes the fear off f
 | <img src="img/icons/UI_VTM_Abilities_HeatWave.png" width="32" height="32"> | 4 | **Heat Wave** | 1 blood | 22 cells | 30 s | Breathe a blast of dry heat over someone in sight. It parches them like the desert, a heavy wound, and a vampire loses five blood besides. |
 | <img src="img/icons/UI_VTM_Abilities_VolcanicBlast.png" width="32" height="32"> | 5 | **Volcanic Blast** | 1 blood, 1 Willpower | 30 cells | 12 h | Lava bursts from the ground at a spot in sight and spreads two cells round, for nine seconds a success, then cools. Anything in it burns. Costs a Willpower point too. |
 
+### Abyss Mysticism
+
+The Lasombra's study of the darkness beyond shadow. It has no paths, only rituals, each rated up to the lower of Obtenebration and Occult, and each leaves a mark on the caster that never fades. Worked anywhere, on Wits + Occult. Only Lasombra can learn it.
+
 
 ## Rituals
 
@@ -370,12 +374,15 @@ Rituals are longer castings: minutes to hours of work, often with ingredients an
 | <img src="img/icons/UI_VTM_Rituals_WardVersusGhouls.png" width="32" height="32"> | 2 | **Ward versus Ghouls** | Mark a door or other building with the caster's blood. Any ghoul from outside the colony that stands on or in it is burned. |
 | <img src="img/icons/UI_VTM_Rituals_PrincipalFocusOfVitaeInfusion.png" width="32" height="32"> | 2 | **Principal Focus of Vitae Infusion** | Seal a point of blood into a small gold bead. Any vampire who crushes it later drinks the point back. |
 | <img src="img/icons/UI_VTM_Rituals_DonningTheMaskOfShadows.png" width="32" height="32"> | 2 | **Donning the Mask of Shadows** | Someone turns translucent and hard to notice for the night. Mortals see what they do from only half as far. |
+|  | 2 | **Ascension of the Blood** | The caster purifies its blood in a chalice. For a day, nobody who drinks from it takes a step toward a blood bond. |
 | <img src="img/icons/UI_VTM_Rituals_ShaftOfBelatedQuiescence.png" width="32" height="32"> | 3 | **Shaft of Belated Quiescence** | Carve a stake whose tip breaks off in a vampire it wounds and works its way to the heart over a few hours. The stake crumbles once it has struck. |
 | <img src="img/icons/UI_VTM_Rituals_PavisOfFoulPresence.png" width="32" height="32"> | 3 | **Pavis of Foul Presence** | For a day, Presence and Passion used on the caster turn back on whoever used them. |
 | <img src="img/icons/UI_VTM_Rituals_IncorporealPassage.png" width="32" height="32"> | 3 | **Incorporeal Passage** | For four hours per success, the caster can step through up to four cells of wall or anything else solid. |
 | <img src="img/icons/UI_VTM_Rituals_SanguineAssistant.png" width="32" height="32"> | 3 | **Sanguine Assistant** | Shape a small servant from the caster's blood. It hauls and cleans for a day per success, then runs back into a puddle. |
 | <img src="img/icons/UI_VTM_Rituals_FleshOfFieryTouch.png" width="32" height="32"> | 3 | **Flesh of Fiery Touch** | For a day the caster's skin burns to the touch. Anyone who strikes it in melee is burned. |
 | <img src="img/icons/UI_VTM_Rituals_WardVersusLupines.png" width="32" height="32"> | 3 | **Ward versus Lupines** | Mark a door or other building with the caster's blood and silver dust. Any werewolf from outside the colony that stands on or in it is burned. |
+|  | 3 | **Brotherhood of the Cup** | Four other Tremere on the map have to put their blood in the cup with the caster's. Whoever drinks is bound for an hour per success to the clan and its goals, and is hard to break. It counts as no drink from any of them. |
+|  | 3 | **Sanguine Trail** | A red thread runs from the target to everyone it shares a blood bond with, one bond per success. At five successes the caster also sees who is bound to whom. |
 | <img src="img/icons/UI_VTM_Rituals_WardVersusKindred.png" width="32" height="32"> | 4 | **Ward versus Kindred** | Mark a door or other building with the caster's blood. Any vampire from outside the colony that stands on or in it is burned. |
 | <img src="img/icons/UI_VTM_Rituals_HeartOfStone.png" width="32" height="32"> | 4 | **Heart of Stone** | The caster's heart turns to stone for a day per success. No stake can pierce it and Presence can't move it, but the caster has almost no Conscience left to resist sin with, and no warmth to charm anyone. |
 | <img src="img/icons/UI_VTM_Rituals_BoneOfLies.png" width="32" height="32"> | 4 | **Bone of Lies** | Hold an enchanted token to someone and their secrets come out: a thrall serving an outside vampire, or a hunter in disguise. |
@@ -384,17 +391,30 @@ Rituals are longer castings: minutes to hours of work, often with ingredients an
 | <img src="img/icons/UI_VTM_Rituals_BloodContract.png" width="32" height="32"> | 5 | **Blood Contract** | The caster and someone of its own faction, or a prisoner, sign in blood. A prisoner who signs joins the colony. Whoever leaves the faction it was signed in, or strikes the other signer, dies. |
 | <img src="img/icons/UI_VTM_Rituals_EscapeToATrueFriend.png" width="32" height="32"> | 5 | **Escape to a True Friend** | In a few moments the caster steps out of the world and appears beside the colonist it likes best, on any of the colony's maps. Worked anywhere, no circle needed. |
 | <img src="img/icons/UI_VTM_Rituals_GargoyleRite.png" width="32" height="32"> | 5 | **The Gargoyle Rite** | A night of butchery and blood magic that remakes a helpless Gangrel, Nosferatu or Tzimisce as a Gargoyle, with the vitae of a vampire of one of the other two clans close by. It keeps its generation, gains wings, loses its passions and is wholly bound to the caster. Only the Tremere teach it. |
+|  | 5 | **From Marduk's Throat** | A Dur-An-Ki potion of Kindred blood that lets an Assamite lower its Generation despite the Tremere curse. The drinker rolls Willpower at 9 to keep it down, then again each hour until it has fifteen successes. Each failed roll tears at it for lethal damage. |
 
 ### Necromancy rituals
 
 | | Level | Ritual | What it does |
 |---|---|---|---|
 | <img src="img/icons/UI_VTM_Rituals_CallOfTheHungryDead.png" width="32" height="32"> | 1 | **Call of the Hungry Dead** | A mortal starts hearing the whispers of the dead. For hours they can't concentrate and can't shake the dread. |
+|  | 1 | **Death's Communion** | A Black Mass in the Giovanni manner, dedicating its subject to the Endless Night. The subject has two more dice on Necromancy rolls for a day per success. |
 | <img src="img/icons/UI_VTM_Rituals_EyesOfTheGrave.png" width="32" height="32"> | 2 | **Eyes of the Grave** | A mortal sees visions of their own death. For the next few days, terror seizes them now and then and sends them wandering. |
 | <img src="img/icons/UI_VTM_Rituals_TheHandOfGlory.png" width="32" height="32"> | 2 | **The Hand of Glory** | Take a hand from a corpse and make it into a candle. Lit, it keeps every sleeping outsider within a dozen cells asleep for hours, for burglary or quiet feeding. |
 | <img src="img/icons/UI_VTM_Rituals_RitualOfTheUnearthedFetter.png" width="32" height="32"> | 3 | **Ritual of the Unearthed Fetter** | Find what anchors a ghost to this world. While its fetter lasts the ghost can always be called; destroy it and the ghost fades in time. |
 | <img src="img/icons/UI_VTM_Rituals_CadaversTouch.png" width="32" height="32"> | 4 | **Cadaver's Touch** | For a day, a mortal goes cold and grey and smells of the grave. They move slowly, and anyone who sees them would swear they were dead. |
 | <img src="img/icons/UI_VTM_Rituals_GraspTheGhostly.png" width="32" height="32"> | 5 | **Grasp the Ghostly** | The caster reaches into the lands of the dead and pulls something back. Usually a ledger of the dead or a hand of glory; once in a long while an artifact of necromancy. Each extra success improves the odds. |
+|  | 5 | **The Ferryman's Recall** | Brings a dead Ghoul back across the river and Embraces it at the ritual's climax, long after the Embrace would normally fail. How long the corpse can have lain depends on the caster's Generation: twelve hours at the 13th, a day at the 12th, up to two weeks at the 6th. |
+
+### Abyss Mysticism rituals
+
+| | Level | Ritual | What it does |
+|---|---|---|---|
+|  | 1 | **Light within Shadow** | The caster stares into a ball of shadow until its eyes change. A second roll, Perception + Occult at 8: on a success, Sight improves for good and the eyes turn to black pits. A failure can be tried again. A botch hurts the eyes for good. Unlike the book's Merit, the change is always on. |
+|  | 2 | **Comforting Darkness** | The darkness closes the caster's wounds, for a point of Willpower and a roll of Stamina + Occult at 8. Each success spends a point of blood, whatever the Generation's limit, and heals as two points' worth. The dark then takes twice that blood from everything the caster drinks, and the ritual can't be worked until it's paid. The blood stays nearly black ever after. A botch burns the caster. |
+|  | 3 | **Claiming the Dark** | The caster cuts itself open and draws the shadows in, a roll of Manipulation + Occult at 8. On a success its skin darkens and it hits harder and moves faster, for as long as it likes. Each day the change costs a point of blood per dot of Obtenebration, or it ends. The sun does triple damage, and the caster is uglier for it. Work the ritual again to let the shadows go. A botch costs a point of blood for each 1 rolled. |
+|  | 4 | **Vision of Shadow** | A ball of shadow shows the caster every enemy on the map, wherever it hides, and clears the fog around it. For a day after, Sight is reduced by what the caster stared at. |
+|  | 5 | **Commune with the Abyss** | The caster asks the Abyss one question and falls into a sleep nothing can break. A nightly roll of Intelligence + Occult at 9 adds up to the question's rating, and a night with no success stretches the wait to a week between rolls. The answer is true and complete. Each communion leaves the caster stranger to others for good. |
 
 [← Contents](README.md)
 

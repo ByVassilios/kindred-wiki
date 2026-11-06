@@ -358,6 +358,17 @@ scandal. A refused life boon brings a blood hunt.
 Sometimes gifts arrive with no name on them: blood vials, then something rare, then a hint. Weeks
 later the sender is named and the bill comes due.
 
+## Finding a recruit
+
+**Find a recruit** on a court's window asks that court to find you a vampire, in person or by letter. Only courts that trade in boons will look.
+
+- The filters are clan, Discipline, Path, sect and generation. The list shows who the court can reach, with no names until they arrive.
+- The price is a boon, paid from one you hold or on credit. Each filter you narrow, a rarer clan and older blood all raise it, and the wait with it.
+- Your best rank at that court caps the blood: Acknowledged reaches the 11th, Established the 9th, Officer the 7th.
+- If nobody fits, **Ask further** finds someone who does, at a higher price and twice the wait.
+- Extinct lines can be asked for by Ask further, for a life boon. You get a torpor crypt on the world map with one of them asleep inside, not a willing recruit.
+- If the court falls or the person is lost during the wait, the price comes back. If you let the offer run out, it doesn't.
+
 ## Your colony as a domain
 
 With high Camarilla standing, three Kindred, enough wealth and a friendly court, you can petition
