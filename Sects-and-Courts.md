@@ -279,8 +279,9 @@ In a town, each person answers one question, then wants three days before the ne
 You can ask:
 
 - **What's the news?** Word of the world's courts, septs and cells, or the court's own gossip.
-- **Where is...** A court's own may name a crypt. Kindred speaking to Kindred get the nearest
-  court you don't know yet.
+- **Where is...** Pick a place from what they could know of: another court you don't know yet
+  (Kindred speaking to Kindred), or a torpor crypt (a court's own Kindred, and most of them
+  don't know of one). The question only shows up when there's somewhere to ask about.
 - **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
 - **What troubles you?** The court has work: a new offer on its missions.
 
