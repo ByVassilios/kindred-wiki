@@ -184,7 +184,8 @@ The **Kindred** button on the bottom bar. Six pages.
 |---|---|
 | Overview | The Masquerade score. Your sect and your standing with each sect (-100 to 100), permissions to Embrace, anyone blood hunted. Buttons to declare for a sect, leave it or defect. Once you're a domain, its offices and the gathering you can host. A Sabbat colony's pack offices and the Vaulderie. **Read the Red List** opens the [Red List](Sects-and-Courts.md#the-red-list) window |
 | Courts | Every court you know of and its opinion of you. Click one to find it on the world map; **Open the court** opens its window: in person while your Kindred are there, else by letter |
-| Boons | Favours owed to your coterie and favours you owe, each with why it is owed and at which court. **Call it in** lets you pick what to ask for, up to the boon's size: a favour from the debtor, or a service of the court it sits at. Anything it can't do is greyed, with the reason |
+| Boons | Favours owed to your coterie and favours you owe, each with why it is owed and at which court. **Call it in** lets you pick a favour from the debtor, up to the boon's size. Anything it can't do is greyed, with the reason |
+| Boons: court help | What the courts you know can do for you now, one tab per price (trivial, minor, major, life), under Teaching, The Prince's word, Protection and Reputation. Each row names the vampire who would do it: a Tremere teaches the rituals it knows, an ancilla or elder teaches a Discipline it has, the Prince grants permits and pardons, the Sheriff deals with hunters. Pay **With a boon** that vampire owes you, or one someone else owes you if it is the price or bigger (no change comes back), take it **On credit**, or **Free** from your own Prince. Hover a row for what it does |
 | Strings | Mortals in other settlements who work for you, and who holds each. Each can be pulled once a week |
 | Chronicle | News from the Kindred world: plots and showdowns, cities changing hands, blood hunts |
 | Our story | Your colony's own history: Embraces, torpor, diablerie, offices won |
@@ -208,7 +209,6 @@ The boons you are owed and owe are on the Kindred tab.
 | Court | Elysium | **Attend Elysium** on the nights it's held. Each acknowledged guest raises the opinion |
 | Missions | Offers | Offers with their reward and standing, and which coterie offers each. **Take** one; it becomes a quest |
 | Missions | Under way | Your missions for this court or ending here. A caravan there hands over a vessel, a sealed casket or a runaway childe, stands guard at Elysium, or does a coterie's errand |
-| Services | What the court can do for you | Services priced in boons; hover one for what it does. Buy **on credit**, or take it **free** where your vampire is Prince. To pay with a boon, call it in from the Kindred tab |
 
 The buttons along the bottom: **Listen for rumours** (once a night: Golconda, another court, or where an old one sleeps). **Offer a favour** (once a season: a gift, a ritual, a Discipline taught). **Sell a secret** (Nosferatu). **Give your art** (Toreador).
 

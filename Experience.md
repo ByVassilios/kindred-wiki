@@ -172,6 +172,15 @@ or hunter two, an elder three, and a letter says when the captive has nothing le
 | Ghoul | Its domitor, on the lineage tree; a court |
 | Hunter | The next hunter raid put back; the way into a hideout holding a stolen heart (three more days); the cell for a mission |
 
+You can also question a captive yourself. Select a vampire, right-click the captive and pick
+**Question ...**. The talk window opens with three questions: where it comes from, what it knows,
+and what it is. "What do you know?" draws on the same secrets as the warden. It shares the warden's
+limit too, so a vampire who got a secret out of a captive by hand doesn't get another that night.
+The window has no pain: a threat (Strength + Social at 7) hurts the captive's mood and makes it
+harder to recruit, but leaves no wounds. Dominate 2 or Presence adds its own button, rolled against
+the captive's Willpower. See [Talking to people](Sects-and-Courts.md#talking-to-people) for how
+the window works.
+
 ## Hunting trips
 
 After a [hunting trip](Feeding.md#hunting-trips), one time in four a letter asks what to do

@@ -27,7 +27,18 @@ A witness stops counting if, before they leave the map, they:
 - die or are captured;
 - have the memory taken (Dominate 3);
 - are bound or discredited (a full blood bond, some rituals);
-- are Embraced or ghouled.
+- are Embraced or ghouled;
+- are talked out of it.
+
+To talk a witness out of it, select any colonist, right-click the witness and pick **Talk ...
+out of what they saw**. You get two tries a day:
+
+| Way | Roll | What happens |
+|---|---|---|
+| Explain it away | Manipulation + Social at 7 | On a success they believe it was nothing |
+| Bribe | 40 silver | They always take it. Seven in ten keep quiet; the rest talk anyway, and you aren't told |
+| Threaten | Strength + Social at 7 | On a success they swear to keep quiet. On a failure they run, and a witness who runs off the map counts |
+| Dominate | Manipulation + Social against their Willpower | Needs the Forgetful Mind (Dominate 3). On a success they forget |
 
 A witness who leaves alive adds to the **breach score**.
 

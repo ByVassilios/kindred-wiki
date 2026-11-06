@@ -52,13 +52,19 @@ instead. While the world has fewer courts than it started with, Kindred from els
 one about once a year. With Garou loaded, werewolf septs raid courts near them, and with Imbued,
 hunter cells hunt them.
 
-**Visiting.** Send a caravan with at least one Kindred and pick **Visit the court at X**. It
-walks into the town as guests, and every vampire in it is presented on arrival. While your
+**Visiting.** Send a caravan and pick **Visit the court at X**. It walks into the town as
+guests, and every vampire in it is presented on arrival. A caravan with no Kindred gets in too,
+but only as visitors to an ordinary town. A court vampire who sees a Garou of yours change shape
+or use a Gift there turns the whole city on you. While your
 Kindred are there, in the town or in a caravan on its tile, the court's window (from the Courts
 page of the Kindred tab) opens in person: Elysium, rumours, gifts, teaching and hand-overs.
 
-**Attacking.** A court's city is open ground with the court's house on it, built in its sect's
-style. Its Kindred defend it, with a guard of three to six ghoul retainers in old-world gear.
+**Talking.** In a court's town you can talk to anyone of the court's faction. See
+[Talking to people](#talking-to-people).
+
+**Attacking.** A court's city is streets and houses around the court's hall in the middle,
+built in its sect's style: Elysium's gallery and cells, the Sabbat's chapel and fight pit, the
+Anarchs' rant hall and garage. Every vampire of the court has a coffin by rank. Its Kindred defend it, with a guard of three to six ghoul retainers in old-world gear.
 
 ### When a court falls
 
@@ -249,6 +255,43 @@ The court only knows it's gone.
 
 The court window marks your captives "(your prisoner)" in the members list.
 
+## Talking to people
+
+Select a colonist and right-click someone to talk to them: a prisoner (**Question ...**), a witness
+(see [Witnesses](Masquerade-and-Hunters.md#silencing-a-witness)), or someone in a court's, sept's
+or hunter cell's town (**Talk to ...**). Your colonist walks over and the talk window opens.
+Pick what to ask about, then how to put it. Each way shows its roll under the button.
+
+| Way | Roll |
+|---|---|
+| Kindly | Charisma + Social at 6 |
+| Firmly | Manipulation + Social at 6 |
+| Threaten | Strength + Social at 7. It hurts their mood |
+| Bribe | 40 silver, always answers. One of the court's own costs double and its leader triple |
+| Dominate | Manipulation + Social against their Willpower, from Dominate 2. Never on a vampire of lower generation |
+| Presence | Charisma + Social against their Willpower, for a vampire with Presence but too little Dominate |
+| Owe a boon | At a court, to one of its Kindred: the colony owes them a minor boon instead of paying silver |
+
+Each roll is a point harder against anything supernatural. Nobody lies, so a poor roll just gets
+nothing.
+
+In a town, each person answers one question, then wants three days before the next (a setting).
+You can ask:
+
+- **What's the news?** Word of the world's courts, septs and cells, or the court's own gossip.
+- **Where is...** A court's own may name a crypt. Kindred speaking to Kindred get the nearest
+  court you don't know yet.
+- **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
+- **What troubles you?** The court has work: a new offer on its missions.
+
+A threat costs the town 3 goodwill whatever the roll. Using Dominate or Presence on one of the
+court's own in its town breaks Elysium if the court notices, which it does four times in ten. Your
+standing there falls by 10 and the court thinks less of the colony.
+
+A vampire talking in a sept's or a cell's town passes for an ordinary visitor. Asking kindly and
+bribing are safe. A threat gives it away one time in five, a Discipline about one in three, a failed
+roll one in ten and a botch one in two. Found out, the town turns on the colony.
+
 ## Boons
 
 Kindred trade favours. The boon ledger in the Kindred main tab shows who owes whom and how much:
@@ -277,11 +320,14 @@ A boon is owed by one vampire, not by its court. If it is destroyed the boon is 
 or moves, the boon goes with it. The ledger is a table of debtor, seat, where it is now and size,
 and a debtor nobody can find is greyed with a "?".
 
-- **Paying for a service** only takes a boon from a debtor at that court who can grant it: the
-  Prince for leave to Embrace, a pardon, a lifted hunt or an artifact; the Seneschal for a step up
-  or feeding rights; the Sheriff or a Hound for the hunters or fighters; the Harpy for a scandal;
-  the Keeper for lore and rituals; any member with the dots for a teacher. The pay window shows why
-  each other boon won't do.
+- **Court help**, on the Boons page of the Kindred tab, lists what each court you know can do
+  for you now, by who would do it: the Prince for leave to Embrace, a pardon, a lifted hunt or an
+  artifact; the Seneschal for a step up or feeding rights; the Sheriff or a Hound for the hunters or
+  fighters; the Harpy for a scandal; the Keeper for a lore text; a sorcerer for a ritual it knows;
+  an ancilla or elder with the dots for a Discipline (neonates don't teach). It has a tab for each
+  price, trivial to life. A boon owed by the one who does it is called in; otherwise you can hand
+  over a boon someone else owes you, as long as it is the price or bigger. No change comes back:
+  a major boon spent on a minor service is gone.
 - **Credit** is owed to the vampire who gave the service, and ends if that vampire is destroyed.
 - **Call it in** from the Kindred tab once you know where the debtor is. You pick one thing up to
   the boon's size: blood, a vessel, a word at its court, an introduction to another court, finding
