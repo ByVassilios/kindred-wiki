@@ -243,10 +243,13 @@ Some events ask you to decide.
 | A sire's demand | Pay what the sire asks, or refuse. Refusing too often brings the sire in person |
 | The Pyramid's tithe | Tremere only: pay silver or blood, or refuse |
 | Inquiry | The Sheriff wants a vampire who caused too much breach: hand them over, lie for them, owe a boon, or refuse |
-| A follower of the Path | Take the teaching, or send the mentor away |
 | Dissent in the domain | Give the Anarchs a say, or put it down |
 | The sleeper | Talk to the old thing from the casket, let it go, or fight |
 | A debt called in | Do what the creditor asks before the deadline, or refuse and take the scandal |
+
+Some offers go to the Quests tab instead, where you accept them or let them run out: someone at the
+door (two days), a follower of a Path offering to teach (five days), an empty domain to claim (ten
+days) and survivors of a fallen home asking to join (two days).
 
 ## The grimoire
 

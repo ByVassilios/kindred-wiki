@@ -135,8 +135,10 @@ hunters where your haven is.
 ## Someone at the door
 
 Now and then, at night, someone asks to be let in: a vampire fleeing a blood hunt, an abandoned
-fledgling, a runaway ghoul, a survivor of a fallen court, or your own sire. The letter may not say everything, and
-Auspex can read what they hide.
+fledgling, a runaway ghoul, a survivor of a fallen court, or your own sire. They come as an offer in the
+Quests tab, open for two days: accept it to let them in, or let it run out to turn them away. A fugitive
+from a blood hunt still comes as a letter, because you can also hand them to a court. The offer may not
+say everything, and Auspex can read what they hide.
 
 ## The black market
 

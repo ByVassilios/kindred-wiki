@@ -81,10 +81,12 @@ nowhere to go. The same happens when the court's town is razed, by you or by ano
 - **Letters.** A court you know falling gets a letter: who did it, if anyone knows, a few of the dead
   by name, who is missing. Taking a court's town yourself says so. Rumors fill in the rest later, and
   the missing turn up again weeks or seasons on.
-- **Refugees.** Survivors who like the colony and are within reach may ask to join.
+- **Refugees.** Survivors who like the colony and are within reach may ask to join, as an offer in
+  the Quests tab open for two days.
 - **Your rank** moves to the court most of the survivors went to, one step lower.
 - **An empty domain.** When a court near you falls and you have a Kindred in good standing with its
-  sect, a letter offers you the city, with your eldest Kindred of that sect as Prince.
+  sect, an offer in the Quests tab gives you the city, with your eldest Kindred of that sect as
+  Prince. It stays open for ten days.
 - **Ties.** Your vampires take a mood hit when their sire's or childer's court falls.
 
 Core's settings, under The world of darkness, have a switch for all of this (off: a fallen home's people just vanish), a bloodiness slider for falls with no battle, and a world pace slider.

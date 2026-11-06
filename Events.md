@@ -54,7 +54,7 @@ Setting: **Kindred visitors**.
 | Event | What happens |
 |---|---|
 | Someone at the door | A Kindred asking for shelter: a fugitive with a blood hunt on them, an abandoned fledgling, a survivor of a fallen court, a hunted sire, or a pale stranger for a colony with no Kindred yet. Auspex can read what they hide |
-| A Path's mentor | A follower of a Path offers to teach a vampire who has fallen far enough |
+| A Path's mentor | A follower of a Path offers to teach a vampire who has fallen far enough. The offer waits five days in the Quests tab |
 | Occult trader | A caravan with unidentified relics, lore texts, stakes, holy symbols and blood vials. Only colonies with Kindred see it |
 | Ghoul dealers | The black market: blood vials, blood wine, vials of Kindred vitae, and vessels hooked on the Kiss |
 | Anonymous benefactor | Unsigned gifts arrive by drop pod. Later the sender names a price |
