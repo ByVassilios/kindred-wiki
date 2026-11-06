@@ -10,8 +10,7 @@ on any page by its name or description. **Reset to defaults** sits at the bottom
 loaded so does **Remove Kindred from this game**.
 
 A setting you have changed shows its name tinted with a reset arrow before it, each tab counts its
-changed settings, and **Changed only** by the search box lists just those. Under a setting that
-departs from the rulebook, a grey line says what the book does.
+changed settings, and **Changed only** by the search box lists just those.
 
 Learning holds the house rules for who may learn what: Koldunic Sorcery for any clan, Sanguinus for
 any clan, the Gargoyle rite for any clan, ghouls learning guarded Disciplines, and whether the
@@ -64,7 +63,7 @@ Pyramid and the Prince's leave apply.
 | Sire calls | A sire out in the world calling on its childe with demands. |
 | Wights come back | A vampire lost to the Beast who escapes the map returns now and then as a night threat. |
 | The Red List | Five Anathema the Camarilla wants destroyed roam the world map, each with a bounty. They roam either way, but only a colony in the Camarilla is told of them, sees them on the map or is paid for one. Turned off, they leave the world map; turned back on, a new list arrives in one letter. |
-| Hunters among tavern guests | How often a guest at the colony's tavern is a hunter, against the mod's chance, which rises as the Masquerade weakens. At 0% none come this way. |
+| Hunters among tavern guests | The chance that a guest at the colony's tavern is a hunter, from a strong Masquerade to a broken one. The mod's chances run from 5% to 40%. At 0% none come this way. |
 | **Events** | |
 | Sect politics | Archons, Sabbat packs and Anarch gangs sent against the colony, infiltrators, thralls of outside Kindred, Anarch unrest, Assamite contracts, Setite corruption and Tremere hit teams. |
 | Kindred attacks | Rogue bands, elder raids, and the angry dead coming back to haunt the colony. |
