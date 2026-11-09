@@ -126,6 +126,18 @@ dice more with Auspex 2. Two leads reveal where the quarry is. A botch warns it,
 comes three days sooner. A runaway childe can be captured, or right-clicked and talked round with
 Charisma + Social, then handed over at the court.
 
+The nearest court you know and stand well with also sends requests through the storyteller, like
+any vanilla quest:
+
+- **Host a conclave.** Three or four of its Kindred meet at your colony from after dark until an
+  hour before dawn. The Sabbat or hunters come for them halfway through. Keep them all alive.
+- **Shelter a refugee.** One vampire for one night, with its enemies close behind.
+- **Lend a ghoul.** The court names one of your ghouls and borrows it for five days.
+- **Bring goods.** Blood vials, blood wine, gold or medicine, by caravan to the court's town.
+
+Each pays silver and a few vials of blood, with 10 goodwill and 10 court standing. One let lapse
+costs half that.
+
 ### Coteries
 
 A Camarilla or Anarch court is split into coteries: the Prince's own, made of the Prince and the

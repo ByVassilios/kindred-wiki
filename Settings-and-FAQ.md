@@ -150,6 +150,7 @@ With dev mode on, the debug actions menu has a "The Rim by Night: Kindred" categ
 colonist into a Kindred with rolled defaults, and **Open making menu** lets you choose instead.
 The full list:
 
+- Offer a mission...
 - A sect hears of your hunters
 - Send the Scourge
 - Offer a thin-blood hunt
