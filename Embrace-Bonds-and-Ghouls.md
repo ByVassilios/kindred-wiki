@@ -61,7 +61,12 @@ Give a mortal or an animal a point of vitae (right-click, **Give vitae**) and it
 | Retainer | 1 month | 3 points of vitae, 50% of the stats, Disciplines 15% cheaper |
 | Old retainer | 4 months | 4 points of vitae, 70% of the stats, Disciplines 30% cheaper, one dot past the cap |
 
-- It has its own Ghoul tab.
+- It has its own Ghoul tab. Its habits there say when it spends vitae on wounds: never, only on
+  serious ones (downed, bleeding hard or badly hurt; the default) or always. Another habit has a
+  colony vampire top it up whenever it runs out of vitae, not only before withdrawal.
+- A ghoul with a dot of a sorcery path learns rituals as a vampire does, paid from its vitae. See
+  [Blood Sorcery](Blood-Sorcery#rituals).
+- Ghouls can deal with the courts on their own. See [Sects and Courts](Sects-and-Courts#missions).
 - Ghouls fed mostly by one clan pick up a lesser form of that clan's weakness.
 - Most ghouls end up blood bound to their domitor.
 

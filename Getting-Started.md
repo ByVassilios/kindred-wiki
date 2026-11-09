@@ -24,6 +24,7 @@ There are three ways to get one.
 | **Anarch gang** | Three Kindred who walked out on their prince and kept walking, all the way to a new world, with two mortal friends who came along for the ride. Nobody here tells you what to do. |
 | **Independent clan crew** | Two Kindred of one of the Independent clans, sent out by their elders on clan business, with three mortals to do the work by day. The clan already has a haven on this world, and it is expecting you. |
 | **The stowaway** | The three of you wake to sirens and tearing metal and barely make the escape pods. One of you was never really asleep. They boarded the ship hidden in a cryptosleep casket, and the others are about to find out what they are. |
+| **Wandering revenant** | Your family has served the Kindred for longer than anyone remembers, and the blood in your veins is your own. You left them with a pack animal, a purse and whatever your blood can do, to sell it to whichever court pays best. Note: one revenant ghoul and no vampires. You pick the family when the game starts. The three nearest courts are known, and they hire ghouls for errands while your caravan travels near them, even with no home behind you. |
 
 Each colonist in these scenarios starts with one random weapon in hand, picked from the scenario's own list. Some scenarios add a steel helmet, a robe or both. Stowaway keeps Crashlanded's gear.
 

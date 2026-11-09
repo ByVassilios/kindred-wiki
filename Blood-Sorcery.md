@@ -358,6 +358,12 @@ Rituals are longer castings: minutes to hours of work, often with ingredients an
 - **Level.** A vampire can only learn rituals up to its sorcery rating.
 - **Casting.** Use the **Rituals** button on the vampire's gizmo bar. Rituals of level 3 and up
   need a **ritual circle** (Misc tab), or an **ossuary altar** for Necromancy. The roll is Intelligence + Occult against the ritual's level + 3.
+- **Ghouls.** A ghoul with a dot of a sorcery path gets a level 1 ritual and a dot of Occult, buys
+  Occult in its Ghoul tab and studies rituals like a vampire, from a vampire or a ghoul who knows
+  them. It pays blood costs from its vitae. A clan's own rites need a domitor of that clan, and a
+  ghoul never learns a ritual that needs Kindred blood: the Ferryman's Recall, Communicate with
+  Kindred Sire, the Gargoyle Rite, Light Within Shadow, Comforting Darkness and Claiming the Dark.
+  A Rafastio revenant casts Thaumaturgy rituals through its family's Path of Blood.
 
 ### Thaumaturgy rituals
 

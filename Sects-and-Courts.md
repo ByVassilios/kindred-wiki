@@ -119,6 +119,17 @@ rogue lair, bring a childe home, find a Golconda mentor, destroy a wight. They p
 standing and teachers, rarely silver, and experience for every colony vampire who saw it through.
 Assamites get contracts no one else can take.
 
+A caravan with no home behind it still gets work: a court offers missions to any colony caravan
+within 20 tiles that has a vampire or a ghoul in it, leaving out the ones that need a home (raids
+sent your way, prisoners to hold, a breach to keep quiet). Rewards that would come by drop pod go
+into the caravan instead.
+
+**Ghouls at court.** A caravan with only ghouls in it can visit a court and take its missions. The
+court hires a ghoul without receiving it, so it needs no rank and earns none, and it won't take an
+Assamite contract, the Golconda errand or a judgement. Its boon comes one size smaller (a trivial
+one stays trivial), and it earns experience like a vampire. Boons it wins can buy a ghoul a
+ritual, the first dot of a Discipline drunk from a court vampire, or a drink of vitae at the court.
+
 Three missions are **investigations**: silence a witness, find who is feeding in the domain, bring
 a runaway childe home. The quest names two to four settlements nearby. A caravan with a colony
 vampire picks **Investigate** at one, once a night: Perception + Investigation against 7, two
