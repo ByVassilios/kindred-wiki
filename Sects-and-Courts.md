@@ -124,6 +124,10 @@ within 20 tiles that has a vampire or a ghoul in it, leaving out the ones that n
 sent your way, prisoners to hold, a breach to keep quiet). Rewards that would come by drop pod go
 into the caravan instead.
 
+A court keeps up to three offers, each open for ten days, and goes on posting them while you're away.
+You see them only from a home on the ground or a caravan near the court. A court that has received one
+of your Kindred always has at least two, and a caravan arriving at any court finds at least two waiting.
+
 **Ghouls at court.** A caravan with only ghouls in it can visit a court and take its missions. The
 court hires a ghoul without receiving it, so it needs no rank and earns none, and it won't take an
 Assamite contract, the Golconda errand or a judgement. Its boon comes one size smaller (a trivial
