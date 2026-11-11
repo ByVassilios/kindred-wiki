@@ -182,7 +182,7 @@ attack someone.
 
 ## The Kindred main tab
 
-The **Kindred** button on the bottom bar. Six pages.
+The **Kindred** button on the bottom bar. Six pages. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off.
 
 | Page | What's on it |
 |---|---|
@@ -243,7 +243,7 @@ Some events ask you to decide.
 
 | Letter | Choices |
 |---|---|
-| Asks for the blood | Grant it, make them a ghoul instead, promise it for later, or refuse. A promise not kept within a year turns them against you |
+| Asks for the blood | Grant it, make them a ghoul instead, promise it for later, or refuse (right-clicking the letter away refuses). A promise not kept within a year turns them against you. Each pawn has one letter open at a time, and a dying wish comes at most once a day |
 | A sire's demand | Pay what the sire asks, or refuse. Refusing too often brings the sire in person |
 | The Pyramid's tithe | Tremere only: pay silver or blood, or refuse |
 | Inquiry | The Sheriff wants a vampire who caused too much breach: hand them over, lie for them, owe a boon, or refuse |
@@ -254,6 +254,10 @@ Some events ask you to decide.
 Some offers go to the Quests tab instead, where you accept them or let them run out: someone at the
 door (two days), a follower of a Path offering to teach (five days), an empty domain to claim (ten
 days) and survivors of a fallen home asking to join (two days).
+
+## Choice lists
+
+Most menus open a list beside the window you clicked in, or above the gizmo. A long list has filters down the left with a count beside each, and **Can pick only** hides what can't be had yet. Click a row to read about it on the right, then press **Choose**, double-click it, or press Enter. A greyed row says under it what's missing. A list with nothing to read takes the row on one click.
 
 ## The grimoire
 

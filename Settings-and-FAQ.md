@@ -43,6 +43,8 @@ Pyramid and the Prince's leave apply.
 | Sanguinus for any clan | A Discipline that only its clan can learn (Sanguinus, the Blood Brothers' shared flesh) can be taught to anyone. Its powers that work through a circle of brothers do nothing for a vampire without one. |
 | Gargoyle rite for any clan | Any vampire who knows rituals can learn the rite that makes a gargoyle. Off, it stays a Tremere secret. |
 | Ghouls learn guarded Disciplines | A ghoul can learn Protean, Thaumaturgy and a Discipline only one clan has from any domitor who knows it. Off, only from a domitor of that clan. |
+| Ghouls study lore | A ghoul reads lore books and treatises under Research work like a vampire: experience, treatises for the Disciplines it has, and rituals a ghoul can cast. Off, ghouls leave the books alone. |
+| Ghouls get a full character sheet | The Ghoul tab gains Character and Attributes pages: Virtues, Willpower and Attribute dots a ghoul buys with its experience, at a vampire's prices. They count in its rolls. Off, a ghoul keeps a mortal's Willpower and Attributes, plus whatever it has already bought. |
 | Caitiff learn their sire's Disciplines easily | A Caitiff learns only its sire's Disciplines at the in-clan price, and one with no known sire takes the three of a random clan. Off, a Caitiff counts every Discipline as its own. |
 | New powers start off the bar | A colony vampire's new powers stay off the command bar until you turn them on in the Kindred tab. Off, each new power gets its button at once. |
 | **Clans and sects** | |
@@ -55,12 +57,15 @@ Pyramid and the Prince's leave apply.
 | **Effects** | |
 | Bared fangs | Show fangs on a vampire's face when drafted, fighting, feeding or in frenzy. |
 | Move as a cloud | A drafted vampire on the move, or a hostile one closing in, travels as a faint cloud of its strongest Discipline, and faster. Off, vampires walk like anyone else. Needs fighting motion on. |
+| Powers camera shake | How hard big powers shake the camera: a lightning strike, a volcanic blast, the earth opening. At 0% the camera stays still. |
+| Powers sky flashes | Big powers flash the sky in their colour, and storms tint it while they build. Off, the sky keeps its own light. |
 | Pale skin | Show a vampire's skin drained to an ashen grey. It looks like any living person's again while it looks alive or wears the Mask of a Thousand Faces. Cappadocians are paler still. Only the look changes; hunters spot the pallor either way. |
 | How pale | How far a vampire's skin is drained toward ashen grey. |
 | **Interface** | |
 | **The world** | |
 | NPC Kindred | How often vampires from outside the colony turn up: in the dark at night, in cryptosleep caskets, in rogue bands. 0% turns them off. |
 | Extra courts in a new world | Every world gets one court of each sect and a haven for each Independent clan. This many more courts go to sects at random. Read when a world is made, or when the mod is added to a save. |
+| Court mission offers | The chance each hour that a court posts a new mission, until it has three open. The default of 5% comes to about one a day; 0% stops new ones. |
 | Sleepers in ancient dangers | The chance that one casket in a new map's ancient danger holds a Kindred instead of a soldier. Also scaled by the NPC Kindred setting. |
 | Background world | Courts changing by themselves while you play: coups, rival schemes, blood hunts and cities changing sect. Switched off, the courts stay as they are. |
 | Sire calls | A sire out in the world calling on its childe with demands. |
@@ -153,6 +158,7 @@ The full list:
 - Offer a mission...
 - A sect hears of your hunters
 - Send the Scourge
+- Find every trail mission's site
 - Offer a thin-blood hunt
 - Make vampire
 - Hunting trip letter
@@ -235,6 +241,7 @@ The full list:
 - Court: start a plot
 - Court: run the showdown
 - Court: offer a mission
+- Court: open a mission's site
 - Court: reroll coteries
 - Court: member here as prisoner
 - Court: member and a witness here
