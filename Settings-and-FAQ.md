@@ -189,6 +189,10 @@ The full list:
 - Earn a boon
 - Send a shelter guest
 - Send a sanctuary guest
+- Life boon: caught by the dawn
+- Life boon: staked for the sun
+- Life boon: under a blood hunt
+- Shelter guest: leave now (pays out)
 - Reset court favours
 - Fill court mission offers
 - Start Elysium everywhere

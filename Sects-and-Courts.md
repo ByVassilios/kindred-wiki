@@ -338,7 +338,7 @@ up to a bigger one.
 | Trivial | An errand (a vessel, a sealed casket), six blood vials, a low ritual cast for the court, a hungry guest sent home fed, a Nosferatu secret, three corpses for the Giovanni | Word of another court, a night's feeding for one vampire |
 | Minor | Standing guard at Elysium, scouting a rogue band, a day's shelter for a court's vampire, an occult item or lore text, a level 3 ritual, a Toreador masterwork, handing over a fugitive | Permission to Embrace |
 | Major | Hunting a diablerist, a contract, destroying a wight, releasing a captured vampire, an artifact or clan relic, a level 4 or 5 ritual, teaching a Discipline you have at 3 dots | A teacher, a scandal buried, witnesses silenced, a step up in rank, the hunters' files lost, an elder destroyed, the court's fighters, an artifact |
-| Life | Getting a court's vampire through a hunters' raid alive (sanctuary) | A blood hunt lifted, a pardon for diablerie |
+| Life | Getting a court's vampire through a hunters' raid alive (sanctuary), one of the three life boons below | A blood hunt lifted, a pardon for diablerie |
 
 Every boon in the ledger says why it is owed and at which court. Paying for a service, you pick
 which boon to spend. Any vampire can spend a boon the colony earned. Credit is harder: a trivial or
@@ -384,6 +384,24 @@ or nothing.
 When a court calls in what the colony owes, it asks for a task of the same size: a vessel, a
 scouting run, a diablerist destroyed, or a far stronger lair for a life boon. A refused debt is a
 scandal. A refused life boon brings a blood hunt.
+
+### Life boons
+
+Three rare events, about once a year each, come only to a colony with Kindred that knows a court:
+
+- **Caught by the dawn.** A court's vampire runs in an hour or two before sunrise, burned and
+  starving. Let it in and get it under a roof before the sun is up, or it burns in sight of the
+  colony. Housed through the day it owes a major boon; if hunters follow it (one time in four) and
+  you beat them off, a life boon. A bed or coffin in a room with no open roof also raises your
+  standing with its court by 3.
+- **Staked for the sun.** At night you find a court's vampire at the edge of the map with a stake
+  in its heart, tied out for the sun. Rescue it, pull the stake with the remove stake operation,
+  and when it leaves it owes a life boon. Whoever staked it learns who spoiled it: hunters or
+  werewolves raid within one or two seasons, and a rival court thinks 10 less of the colony.
+- **Under a blood hunt.** A Camarilla vampire hunted by its own court asks for one day's roof.
+  Taking it in costs 10 standing with that court and 8 with the Camarilla, and half the time the
+  court's blood hounds come that same night. Hide it through the day and send it on, and it owes a
+  life boon. Hand it to the hounds and it owes nothing.
 
 ### The anonymous benefactor
 

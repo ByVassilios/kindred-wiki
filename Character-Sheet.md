@@ -281,7 +281,7 @@ bought later. A Flaw that repeats the clan's weakness is never rolled.
 | **Uncommon Vitae Preference** | Its taste is rare even for a Ventrue. |
 | **Fangless** | Never grew fangs. |
 | **Ignorance** | Its sire left it knowing nothing. |
-| **Mage Blood** | Blood tied so closely to magic that it can learn no Discipline but Thaumaturgy. |
+| **Mage Blood** | Blood so tied to magic that it can learn no Discipline but blood sorcery: Thaumaturgy, Necromancy, Koldunic Sorcery or Abyss Mysticism. |
 | **Thaumaturgically Inept** | Magic won't work for it. It can never learn Thaumaturgy. |
 | **Bulimia** | Blood makes it sick, and it needs blood. |
 
