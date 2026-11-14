@@ -192,6 +192,13 @@ The full list:
 - Life boon: caught by the dawn
 - Life boon: staked for the sun
 - Life boon: under a blood hunt
+- Request: a scholar asks to read
+- Request: the Tremere want their share
+- Request: a vampire asks to be taught
+- Tremere raid for the books
+- Library: show points
+- Library: drop every lore text here
+- Library: finish the Pyramid's copies
 - Shelter guest: leave now (pays out)
 - Reset court favours
 - Fill court mission offers

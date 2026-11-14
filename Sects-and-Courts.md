@@ -403,6 +403,34 @@ Three rare events, about once a year each, come only to a colony with Kindred th
   court's blood hounds come that same night. Hide it through the day and send it on, and it owes a
   life boon. Hand it to the hounds and it owes nothing.
 
+### Requests from outside
+
+Kindred of the courts you know ask for what the colony has. At most one library visit and one
+mentoring stay a season, never both at once. A guest needs a bed or coffin in a room with no open
+roof, and feeds on the colony's blood.
+
+- **The library.** Lore books make the colony a draw: a rare text (sorcery, a Path, a hard read,
+  one that shows a crypt or teaches a Discipline) counts 3, any other lore book 1, your own
+  treatises 1 each up to 10, each title once. At 10 points it is a known library, at 30 a great
+  one, at 60 the largest outside Ceoris. A scholar of the Tremere, Giovanni, Tzimisce, Assamites,
+  Setites, Nosferatu or Toreador asks to read for 2 to 5 nights and owes a trivial, minor or major
+  boon by the tier. On the last night a scheming or tricky one may try to take a rare book (one
+  time in four, one in twenty for others, half that with a colonist in the room). Caught, it owes
+  a major boon and its court loses 10 standing; not caught, the book is gone.
+- **The Tremere want their share.** At a great library the Pyramid writes. With a Tremere of the
+  colony in good standing it orders copies of 2 to 4 rare books: any colonist on research work
+  copies them at a table, four hours a book, for a trivial boon or its worth; refusing is a refused
+  tithe. With no Tremere, a chantry of your sect asks to read for a minor boon. A colony outside the
+  Camarilla near a Camarilla chantry gets that offer once, and a refusal brings a Tremere raid in
+  points; each raider who gets away takes a rare book, up to three.
+- **Mentoring.** A colony vampire at its generation's cap in a Discipline (5 dots, or the most its
+  generation allows) can be asked to teach it: 3, 6 or 10 lessons for a trivial, minor or major
+  boon, one a night, the student staying twice that many nights. Right-click the student with the
+  teacher selected to give tonight's lesson. Fewer lessons pay less; none at all costs the court 5
+  standing. All of them done, the student leaves with a new dot. Teaching Thaumaturgy outside the
+  Tremere costs 15 Camarilla standing; Obfuscate, Dominate, Vicissitude or a sorcery taught
+  outside the teacher's clan costs it a point of its clan's regard.
+
 ### The anonymous benefactor
 
 Sometimes gifts arrive with no name on them: blood vials, then something rare, then a hint. Weeks
