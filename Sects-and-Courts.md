@@ -457,6 +457,52 @@ setting:
   season. They work as colonists, and your vampires keep them fed. All alive when they go home is
   a minor boon, some a trivial one.
 
+### Your clan
+
+Each vampire of the thirteen clans has a rank in its clan, shown on the Kindred tab's Character page
+under its name. The rank comes from what its Disciplines, paths and rituals would cost in
+Experience: a Discipline at N dots is worth 10 plus 5 for each dot past the first times the dot
+before it (x7 out of clan), a ritual twice its level.
+
+| Rank | Disciplines worth | Also needs |
+|---|---|---|
+| Unknown | less than 50 | |
+| Known | 50 | |
+| Respected | 100 | the 10th generation or lower |
+| A voice of the clan | 150 | the 8th generation or lower |
+
+Every rank also needs the clan's regard at 0 or more. Regard runs from -10 to 10: a request done
+raises it by 1 to 3, refused or left to run out costs 1, failed costs 2 to 4. At -5 the clan's
+vampires won't answer when the colony calls in their boons.
+
+Known vampires get one clan request a season at most. Done, the most senior vampire of the clan
+at a court you know owes a boon; with none known, the clan pays silver and a point more regard.
+
+| Clan | Rank | Request |
+|---|---|---|
+| Brujah | 1 | Back a cause with 300 to 600 silver (minor) |
+| Gangrel | 1 | Carry news to the farthest court you know, a court mission (minor) |
+| Tremere | 1 | Send three blood vials, or a treatise written at the colony (trivial) |
+| Tremere | 2 | A Regent inspects for two nights and wants a ritual circle and a research bench (minor) |
+| Tremere | 3 | Hunt a renegade, a court mission; a captured renegade pays a size more (major) |
+| Ventrue | 1 | Swear fealty: you owe the elder a trivial boon, it owes you a minor one |
+| Ventrue | 2 | Judge a dispute, a court mission (minor) |
+| Nosferatu | 1 | Trade secrets: tell on a court you know, learn of the nearest one you don't (trivial) |
+| Nosferatu | 2 | Shelter a brood of three for a season (major) |
+| Malkavian | 1 | No request: the calling's warnings come more often and are wrong less often |
+| Malkavian | 2 | Host a seer for three nights, who names any plant or enemy thrall among you (trivial) |
+| Lasombra | 1 | A patron's errand, a court mission (minor) |
+| Tzimisce | 2 | A voivode's guest wants to see fleshcraft: living furniture, flesh armour or a Vicissitude vampire (minor) |
+| Assamite | 1 | A contract, a court mission (minor) |
+| Assamite | 2 | A vizier studies the colony's books for five nights; it needs a library (minor) |
+| Followers of Set | 1 | Four mortal cultists worship two days at your finest indoor art (minor) |
+| Giovanni | 1 | Send a human corpse from storage (trivial) |
+| Giovanni | 2 | Keep a Giovanni and the family's ghost for a season (minor) |
+| Ravnos | 1 | Welcome a kumpania: a trade caravan and the clan's regard |
+| Toreador | 2 | Sponsor an artist, who joins for a season and must end it alive and in a good mood (minor) |
+
+Caitiff and the smaller bloodlines have no clan politics.
+
 ### The anonymous benefactor
 
 Sometimes gifts arrive with no name on them: blood vials, then something rare, then a hint. Weeks

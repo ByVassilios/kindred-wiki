@@ -200,6 +200,11 @@ The full list:
 - Library: drop every lore text here
 - Library: finish the Pyramid's copies
 - Request: a favour...
+- Request: from the clan...
+- Clan regard +3
+- Clan regard -3
+- Clan rank: raise to a voice of the clan
+- Sponsored artist: season over now
 - Kept ghouls: go home now
 - Shelter guest: leave now (pays out)
 - Reset court favours
