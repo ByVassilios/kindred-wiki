@@ -503,6 +503,45 @@ at a court you know owes a boon; with none known, the clan pays silver and a poi
 
 Caitiff and the smaller bloodlines have no clan politics.
 
+### Hosting a gathering
+
+A colony in good standing with its sect can host the sect's gatherings. The sect writes when a
+tier opens, and the sect section of the Kindred main tab has an "Ask to host a gathering" link
+for the highest tier open now (greyed with the reason when none is). Each tier is hosted once a
+year at most, and one gathering at a time.
+
+| Sect | Standing 40 | Standing 60 (a court title) | Standing 80 (a title, a host of the 8th generation or lower) |
+|---|---|---|---|
+| Camarilla | Primogen gathering, 2 nights | Conclave, 3 nights, an Archon's seat | The Inner Circle's envoys, 3 nights |
+| Sabbat | War party, 2 nights | Blood Bath, 3 nights, a Bishop's seat | Palla Grande, last days of fall, an Archbishop's seat |
+| Anarchs | Barons' summit, 2 nights | Movement rant, 3 nights, a Baron's seat; double rewards at 80 | none |
+
+A court title means an Officer, Primogen or Prince seat at any court. The preparation window lists
+what the colony needs before it can send word: the title, a hall impressive enough, a bed or
+coffin in a room with no open roof for every guest (rooms may be shared), blood for every guest
+and night (vials in storage, or vessels at three each, the vials used up when the guests come),
+and fighters on guard. It also lists what may go wrong: an enemy strike on one night (raid points
+x1, x1.5, x2 by tier, warned at dusk), a plot or feud among the guests, mortals who could see too
+much.
+
+The guests are real members of the sect's courts, and at tiers 3 and 4 two or three elders of
+the 5th to 7th generation; ghoul retainers come with them. Each night has its own scene on the
+map and usually a choice: back one Prince or broker their quarrel, testify at a trial, name a
+grievance, ask the envoys for one thing, send a fighter with the war party, back a duellist, give
+vitae to the tub, take up a challenge at the danse macabre, break a tied vote. Rolls use the
+host's Social, Melee or Artistic skill. A good showing adds to the standing gained; at the end
+each guest of rank owes the host a boon (trivial, minor or major by tier; the Sabbat pays in
+standing). A guest killed costs the standing the gathering would have paid.
+
+A seat won (Archon, Bishop, Archbishop, Baron) shows under the standing bars. Once a season its
+holder can call a band of the sect's fighters and sit in judgment on a case for standing, and
+each year the sect's courts send a tithe of silver.
+
+Clan events run the same way, with the clan's own vampires as guests: a Brujah rant (respected),
+a Gangrel convocation outdoors (respected), a Toreador salon scored on the colony's art (known), a
+Ventrue oath-taking (a voice of the clan) and a Lasombra court of judgment (respected). They pay
+the clan's regard and a boon from its elder.
+
 ### The anonymous benefactor
 
 Sometimes gifts arrive with no name on them: blood vials, then something rare, then a hint. Weeks

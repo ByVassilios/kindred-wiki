@@ -204,6 +204,9 @@ The full list:
 - Clan regard +3
 - Clan regard -3
 - Clan rank: raise to a voice of the clan
+- Gathering: prepare (any, rules skipped)...
+- Sect office: grant to
+- Sect office: ready now, tithe now
 - Sponsored artist: season over now
 - Kept ghouls: go home now
 - Shelter guest: leave now (pays out)
