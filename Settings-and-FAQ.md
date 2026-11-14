@@ -199,6 +199,8 @@ The full list:
 - Library: show points
 - Library: drop every lore text here
 - Library: finish the Pyramid's copies
+- Request: a favour...
+- Kept ghouls: go home now
 - Shelter guest: leave now (pays out)
 - Reset court favours
 - Fill court mission offers

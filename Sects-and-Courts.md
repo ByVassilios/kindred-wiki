@@ -431,6 +431,32 @@ roof, and feeds on the colony's blood.
   Tremere costs 15 Camarilla standing; Obfuscate, Dominate, Vicissitude or a sorcery taught
   outside the teacher's clan costs it a point of its clan's regard.
 
+### Favours
+
+Courts also ask the colony for smaller things, one letter every ten days or so, each with its own
+setting:
+
+- **Keep a sleeping elder.** An elder of the 8th generation or older sleeps a season of torpor in
+  the colony; carry it to a coffin and keep it safe for a major boon. Half the time its enemies
+  hear where it lies and come once.
+- **Feed from your herd.** A vampire who lost its herd feeds on the colony's vessels for 3 nights
+  (trivial boon) or 5 (minor). The colony needs a prisoner or four colonists.
+- **Foster a childe.** A new childe stays a season; any colony vampire right-clicks it to give a
+  lesson, once a night, three times. All three is a major boon from the sire, fewer a minor one,
+  none costs standing. One time in three the childe asks to stay as a colonist.
+- **A blood order.** A courier waits 5 days for 4 to 8 vials of ordinary or fine blood in storage:
+  a trivial or minor boon, and 3 standing lost if it leaves empty-handed.
+- **A masterwork.** A Ventrue wants a weapon and a Toreador a piece of art, of excellent quality or better, from storage within 10 days: trivial, minor or major by quality.
+- **Neutral ground.** Two vampires of different courts meet in the colony's best hall for a night.
+  If both leave unharmed, each owes a trivial boon.
+- **Make one whole.** A vampire missing a part asks a colonist with Medicine 8 (or Vicissitude 2)
+  to restore it: right-click it with the healer selected, for a minor boon.
+- **Lend a ghoul.** A court borrows a ghoul with a skill at 8 or more for a season; it is away the
+  whole time and walks back in for a minor boon.
+- **Take in ghouls.** A vampire going into torpor leaves one to three ghouls with the colony for a
+  season. They work as colonists, and your vampires keep them fed. All alive when they go home is
+  a minor boon, some a trivial one.
+
 ### The anonymous benefactor
 
 Sometimes gifts arrive with no name on them: blood vials, then something rare, then a hint. Weeks
