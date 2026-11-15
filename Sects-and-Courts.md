@@ -393,15 +393,16 @@ A court takes one favour a season (a gift, a ritual or teaching), through **Offe
 court window.
 
 A boon is owed by one vampire, not by its court. If it is destroyed the boon is gone; if it flees
-or moves, the boon goes with it. The ledger is a table of debtor, seat, where it is now and size,
-and a debtor nobody can find is greyed with a "?".
+or moves, the boon goes with it. The ledger lists each boon's size, debtor, seat, where it is now
+and why it is owed, and a debtor nobody can find shows a "?".
 
 - **Court help**, on the Boons page of the Kindred tab, lists what each court you know can do
   for you now, by who would do it: the Prince for leave to Embrace, a pardon, a lifted hunt or an
   artifact; the Seneschal for a step up or feeding rights; the Sheriff or a Hound for the hunters or
   fighters; the Harpy for a scandal; the Keeper for a lore text; a sorcerer for a ritual it knows;
-  an ancilla or elder with the dots for a Discipline (neonates don't teach). It has a tab for each
-  price, trivial to life. A boon owed by the one who does it is called in; otherwise you can hand
+  an ancilla or elder with the dots for a Discipline (neonates don't teach). A list down its left
+  side picks the price, trivial to life, and the kind of help. **Ask...** on a row lists every way
+  to pay for it. A boon owed by the one who does it is called in; otherwise you can hand
   over a boon someone else owes you, as long as it is the price or bigger. No change comes back:
   a major boon spent on a minor service is gone.
 - **Credit** is owed to the vampire who gave the service, and ends if that vampire is destroyed.
