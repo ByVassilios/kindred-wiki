@@ -155,6 +155,9 @@ With dev mode on, the debug actions menu has a "The Rim by Night: Kindred" categ
 colonist into a Kindred with rolled defaults, and **Open making menu** lets you choose instead.
 The full list:
 
+- Set standing with a sect
+- Tavern and club: send guests now
+- Club: rumour now
 - Offer a mission...
 - A sect hears of your hunters
 - Send the Scourge
@@ -200,6 +203,9 @@ The full list:
 - Library: drop every lore text here
 - Library: finish the Pyramid's copies
 - Request: a favour...
+- Request: market and visitors...
+- Market: shift the price...
+- Courts: give the colony a court captive
 - Request: from the clan...
 - Clan regard +3
 - Clan regard -3
@@ -262,6 +268,8 @@ The full list:
 - Court: start a plot
 - Court: run the showdown
 - Court: offer a mission
+- Court: offer a cross-mod mission
+- Court: finish the caern watch
 - Court: open a mission's site
 - Court: reroll coteries
 - Court: member here as prisoner

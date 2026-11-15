@@ -52,19 +52,32 @@ instead. While the world has fewer courts than it started with, Kindred from els
 one about once a year. With Garou loaded, werewolf septs raid courts near them, and with Imbued,
 hunter cells hunt them.
 
-**Visiting.** Send a caravan and pick **Visit the court at X**. It walks into the town as
-guests, and every vampire in it is presented on arrival. A caravan with no Kindred gets in too,
-but only as visitors to an ordinary town. A court vampire who sees a Garou of yours change shape
-or use a Gift there turns the whole city on you. While your
-Kindred are there, in the town or in a caravan on its tile, the court's window (from the Courts
-page of the Kindred tab) opens in person: Elysium, rumours, gifts, teaching and hand-overs.
+**Visiting.** Send a caravan to the court's town. Once it stands on the tile it gets two buttons
+beside vanilla's Trade: **Court** opens the court's window in person, and **Enter town** walks the
+caravan into the town as guests. Every vampire in it is presented on arrival. The first time your
+Kindred walk a known court's streets, a letter names the Prince, says where Elysium is and opens the
+court. A caravan with no Kindred gets in too, but only as visitors to an ordinary town. A court
+vampire who sees a Garou of yours change shape or use a Gift there turns the whole city on you.
+While your Kindred are there, in the town or in a caravan on its tile, the court's window (also on
+the Courts page of the Kindred tab, whose row says At court) opens in person: Elysium, rumours,
+gifts, teaching and hand-overs. The court's first letter tells you all this too.
 
-**A hostile town.** A town at war with you takes no guests, but a caravan with a Kindred can pick
-**Slip into the court at X**. It meets the court on the town's tile without walking in. The
+**A hostile town.** A town at war with you takes no guests, but a caravan with a Kindred gets
+**Sneak in** instead of Court. It meets the court on the town's tile without walking in. The
 town's guards catch it 40% of the time, 7% less for each dot of Obfuscate the best-hidden vampire
 in the caravan has (never below 5%). A caught caravan has to fight its way into the town.
 
-**Talking.** In a court's town you can talk to anyone of the court's faction. See
+**The court house.** Every court house keeps a guest crypt of three to five coffins that nobody in
+town sleeps in. While your Kindred walk the town they're yours, so a vampire caught by the dawn
+goes down into one instead of running home. None are lent by a sect that shuns you, or to a party
+with a blood-hunted vampire. The town's mortals go about their day: they eat, sleep in their own
+beds and walk the streets. After dusk most of the court's Kindred keep round the hall, and a few,
+different ones each night, are out in the town instead; at dawn they go back to their havens. A Camarilla Elysium is the grandest: columns down both walls, the Prince's
+chair on a silver dais, armchairs facing a gold runner, a salon with a long set table, and a
+sculpture garden in the courtyard.
+
+**Talking.** In a court's town you can talk to anyone of the court's faction. In any other friendly
+town, anyone will tell you the news and whether they've seen a missing colonist. See
 [Talking to people](#talking-to-people).
 
 **Attacking.** A court's city is streets and houses around the court's hall in the middle,
@@ -118,6 +131,15 @@ carry a sealed item, deliver a vessel, hunt a diablerist, guard Elysium, recover
 rogue lair, bring a childe home, find a Golconda mentor, destroy a wight. They pay in boons, rank,
 standing and teachers, rarely silver, and experience for every colony vampire who saw it through.
 Assamites get contracts no one else can take.
+
+With Werewolf or Hunter loaded, a court asks for help against the other kinds you know:
+
+- **Turn back a Garou pack** (with a sept you know). A pack from that sept comes to your colony at
+  night. Drive their leader off the map or down. If the leader dies, the sept's goodwill falls.
+- **Guard a sept's caern** (while that sept isn't at war with you). Keep a caravan with two fighters
+  in the sept's town for five days. The days only count while they're there. Then the attack comes,
+  and the best fighter's roll decides it: held is a major boon, and some fighters come back cut.
+- **Break the hunter cell** names a cell you know, and the warrant is served if the cell falls.
 
 A caravan with no home behind it still gets work: a court offers missions to any colony caravan
 within 20 tiles that has a vampire or a ghoul in it, leaving out the ones that need a home (raids
@@ -312,12 +334,31 @@ nothing.
 In a town, each person answers one question, then wants three days before the next (a setting).
 You can ask:
 
+- **Small talk.** The weather, the neighbours, whatever is on their mind; a vampire mostly gossips about the court. It costs nothing, always
+  gets an answer, and can go on all night.
 - **What's the news?** Word of the world's courts, septs and cells, or the court's own gossip.
 - **Where is...** Pick a place from what they could know of: another court you don't know yet
   (Kindred speaking to Kindred), or a torpor crypt (a court's own Kindred, and most of them
   don't know of one). The question only shows up when there's somewhere to ask about.
 - **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
 - **What troubles you?** The court has work: a new offer on its missions.
+
+A court's own vampires answer more, and a good roll (two successes or more) tells more:
+
+- **Who are you?** Their clan, generation and sire; a good roll adds their office and coterie.
+- **Who do you owe?** The boons between them and the colony; a good roll adds an old debt at court.
+- **What is the court planning?** The plot against the Prince and when it comes to a head; a good
+  roll adds its odds.
+- **Who is out of favour?** The weakest coterie out of power and its leader.
+- **Any scandals?** The Harpies' gossip. A good roll gets a real secret about one of the court,
+  which you can keep for a minor boon or report to the Prince.
+- **Where does one feed here?** How wary the herd is after your hunts; a good roll gets fresh
+  ground, and the town forgets your last hunt there.
+- **What else hunts the night?** The nearest sept, hunter cell or other home of a kind you've
+  already met, marked on the map.
+
+Half their answers end with a word in their clan's manner: a Brujah's rant, a Malkavian's riddle,
+a Nosferatu's price.
 
 A threat costs the town 3 goodwill whatever the roll. Using Dominate or Presence on one of the
 court's own in its town breaks Elysium if the court notices, which it does four times in ten. Your
@@ -399,15 +440,19 @@ Three rare events, about once a year each, come only to a colony with Kindred th
   and when it leaves it owes a life boon. Whoever staked it learns who spoiled it: hunters or
   werewolves raid within one or two seasons, and a rival court thinks 10 less of the colony.
 - **Under a blood hunt.** A Camarilla vampire hunted by its own court asks for one day's roof.
-  Taking it in costs 10 standing with that court and 8 with the Camarilla, and half the time the
-  court's blood hounds come that same night. Hide it through the day and send it on, and it owes a
-  life boon. Hand it to the hounds and it owes nothing.
+  Half the time the court's blood hounds come that same night. Taking it in costs no standing
+  unless the hounds find it or you turn them away. Hide it through the day and send it on, and it owes a
+  life boon. Hand it to the hounds, or take it prisoner and carry it to its court by caravan
+  (the Hand back button on the town), and it owes nothing, but the court owes a minor boon and
+  you gain 10 standing with the court and the Camarilla. Killing it gains 5. Anyone under blood
+  hunt is disowned by its faction when you take it prisoner, and hurting or taking it costs no
+  goodwill.
 
 ### Requests from outside
 
 Kindred of the courts you know ask for what the colony has. At most one library visit and one
-mentoring stay a season, never both at once. A guest needs a bed or coffin in a room with no open
-roof, and feeds on the colony's blood.
+mentoring stay a season, never both at once. A guest needs a coffin, or a bed in a room with no
+open roof, and feeds on the colony's blood.
 
 - **The library.** Lore books make the colony a draw: a rare text (sorcery, a Path, a hard read,
   one that shows a crypt or teaches a Discipline) counts 3, any other lore book 1, your own
@@ -441,7 +486,7 @@ setting:
   hear where it lies and come once.
 - **Feed from your herd.** A vampire who lost its herd feeds on the colony's vessels for 3 nights
   (trivial boon) or 5 (minor). The colony needs a prisoner or four colonists.
-- **Foster a childe.** A new childe stays a season; any colony vampire right-clicks it to give a
+- **Foster a childe.** A new childe stays up to a season, and goes home once all its lessons are given; any colony vampire right-clicks it to give a
   lesson, once a night, three times. All three is a major boon from the sire, fewer a minor one,
   none costs standing. One time in three the childe asks to stay as a colonist.
 - **A blood order.** A courier waits 5 days for 4 to 8 vials of ordinary or fine blood in storage:
@@ -456,6 +501,52 @@ setting:
 - **Take in ghouls.** A vampire going into torpor leaves one to three ghouls with the colony for a
   season. They work as colonists, and your vampires keep them fed. All alive when they go home is
   a minor boon, some a trivial one.
+
+More favours, in the same group:
+
+- **A vessel order.** A courier waits 5 days for a living vessel of one kind (men, women, the old,
+  soldiers, scholars, artists, tribals). Tick **Herd** on a prisoner or slave who fits and the
+  courier takes them, for a minor boon.
+- **A Giovanni buyer.** The family's courier waits for two to four human corpses in storage and pays
+  twice what they're worth. No Giovanni of your own needed.
+- **A warren wanted.** A Nosferatu wants a room dug under overhead mountain, and a dark bed, for a
+  season. While it stays, news from every court reaches you at once. A minor boon when it leaves.
+- **A lair wanted.** A Tzimisce shapes a lair in a dark room for a season. Anyone who looks in may
+  see too much. It owes a minor boon and leaves a fleshcrafted armchair behind, someone inside.
+
+### Trade
+
+The court window gets a **Trade** page, after Missions, when the blood price has moved, you hold one
+of the court's Kindred, or one of its couriers is waiting. Its tab counts the captives and orders.
+
+- **Blood market.** Vials, Kindred vitae and hemogen share one price. A hunter raid, a blood hunt,
+  the Scourge, a new breach level and a month with no sales push it up; selling vials to traders
+  brings it down. Each cause wears off over a season. Traders, your tavern and your club all use
+  it, and the page lists why it moved.
+- **Vessels.** A court city's traders buy and sell prisoners and slaves, as slavers do. The page
+  says what yours are worth.
+- **Captives.** A court's vampire you hold as a prisoner, or in torpor at home. **Ransom** sends it
+  home for silver by its generation and 10 goodwill, though the court now knows you held it.
+  **Sell to a rival...** pays half again more; the buyer takes it in, and its own court hears who
+  sold it a third of the time.
+- **Orders.** The couriers waiting at your colony and how many days they'll wait.
+
+### Visitors with their own business
+
+A few more requests, each with its own setting:
+
+- **Giovanni extortion.** With a tavern counter, a Giovanni wants 300 silver a season. Pay from
+  storage, or refuse: the restless dead come within days, and the Giovanni's Prince owes you a
+  minor boon for telling.
+- **Occultists.** Mortal cultists ask a vampire of yours who knows a ritual to work one. It costs 2
+  blood and pays 150 to 400 silver, now and then an artifact, and one of them may stay on, devoted.
+  Turned away, they may talk.
+- **A duel.** A court's Kindred challenges one of your vampires by name. It comes for a night and
+  they fight until one goes down: a win is 8 standing at its court, refusing costs 3.
+- **A chosen vessel.** A Kindred wants to drink once from one colonist, within the safe line, for a
+  minor boon. Refused, half the time it comes anyway and feeds when that colonist is asleep or
+  alone.
+- **Willing cattle.** One to three mortals who know what you are ask to join, devoted to the Kindred.
 
 ### Your clan
 
@@ -519,8 +610,7 @@ year at most, and one gathering at a time.
 A court title means an Officer, Primogen or Prince seat at any court. The preparation window lists
 what the colony needs before it can send word: the title, a hall impressive enough, a bed or
 coffin in a room with no open roof for every guest (rooms may be shared), blood for every guest
-and night (vials in storage, or vessels at three each, the vials used up when the guests come),
-and fighters on guard. It also lists what may go wrong: an enemy strike on one night (raid points
+and night (vials in storage, or vessels at three each, the vials used up when the guests come). It also lists what may go wrong: an enemy strike on one night (raid points
 x1, x1.5, x2 by tier, warned at dusk), a plot or feud among the guests, mortals who could see too
 much.
 
@@ -582,8 +672,8 @@ anyone may destroy it without penalty. Paying a life boon at a court lifts it.
 While the colony shelters a vampire under blood hunt, the nearest friendly Camarilla court sends
 its hounds by night, at most every six days. The letter gives three answers:
 
-- **Hand the vampire over.** The court owes you a minor boon, the hunt is lifted, and the vampire
-  is gone.
+- **Hand the vampire over.** The court owes you a minor boon, +10 standing with the court and the
+  Camarilla, the hunt is lifted, and the vampire is gone.
 - **Let them search.** Three of the court's Kindred walk round the home area for six hours. One
   who sees the hunted within 20 cells finds it: -10 standing with the court and the Camarilla, and
   the hounds attack. Obfuscate, a coffin or being away from the map keeps it out of sight.

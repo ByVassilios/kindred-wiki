@@ -12,7 +12,7 @@ colony, with or without vampires.
 3. Optionally, paint a **tavern area** from the zone tab. With an area painted, that is the
    tavern. Without one, the counter's room is the tavern, or the ground within 6 cells of it out
    in the open.
-4. Optionally, mark beds **For tavern guests** (a button on any humanlike bed, modded beds too).
+4. Optionally, mark beds **For guests** (any humanlike bed or coffin, modded beds too: with Ideology it is in the bed's For colonists / prisoners / slaves menu, without it a button of its own). Vampires staying with the colony, such as a fostered childe, sleep the day in these beds for free.
 
 There is no barkeep. Guests serve themselves and leave the silver on the counter, and haulers
 carry it off.
@@ -37,11 +37,13 @@ A guest who turns a ware down shows "Too dear" over its head.
 
 ## The guests
 
-Every one to three evenings, a group of two to six guests comes from a faction that isn't hostile,
-with one more for every 30 points of the tavern room's impressiveness. They arrive around dusk,
-buy a round, then sit at the tables, stand about talking or wander the tavern, buying another
+Every one to three evenings, two to six guests come from a faction that isn't hostile,
+with one more for every 30 points of the tavern room's impressiveness. They come one or two at a
+time through the evening, buy a round, then sit at the tables, stand about talking or wander the tavern, buying another
 round now and then. Drinks, drugs and meals are used on the spot. Anything else goes home with
-them. They leave before dawn unless they rented a bed.
+them. Each pair goes home after three to ten hours, or after the night's sleep if it rented a bed. Once you have a vampire and know a friendly court,
+one or two of its Kindred mix with them. They buy only blood, feed on herd in the tavern and leave two
+hours before dawn.
 
 The **Open** toggle on the counter closes the tavern. Guests already inside finish their visit,
 and no new ones come.
@@ -68,6 +70,24 @@ guest beds stay its own and our guests use only beds marked here.
 
 Now and then a Society investigator comes in with the guests, more often the worse the breach
 score. See [The Masquerade and hunters](Masquerade-and-Hunters.md).
+
+## The Kindred club
+
+The tavern's night twin. Paint a **Kindred club** from the zone tab and put a tavern counter inside it.
+
+- Once you have a vampire and know a friendly court, two to five of the nearest such court's
+  Kindred come one or two at a time through the night and stay until two hours before dawn. A finer room brings them more often.
+- The club's shelves sell only blood: vials, Kindred vitae and hemogen, at the blood market's price
+  plus your markup.
+- **Herd.** Prisoners and slaves get a Herd toggle. Guests feed on herd standing in the club and
+  leave silver on the counter, more for a healthy vessel and a finer room. Nobody is fed on past
+  the safe line.
+- **Rumours.** Now and then the guests' talk becomes a letter with something real in it: a sept
+  (with Werewolf) or hunter cell (with Hunter) you didn't know, a raid that will come in so many
+  days, or a plot at a court you know. A finer club talks more, and it never tells you the same
+  thing twice.
+- Mortal tavern guests never step into the club, and a second counter outside it runs an ordinary
+  tavern.
 
 [← Contents](README.md)
 

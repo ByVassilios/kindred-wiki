@@ -182,7 +182,7 @@ attack someone.
 
 ## The Kindred main tab
 
-The **Kindred** button on the bottom bar. Six pages. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off.
+The **Kindred** button on the bottom bar. Six pages. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off.
 
 | Page | What's on it |
 |---|---|
