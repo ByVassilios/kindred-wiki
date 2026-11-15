@@ -164,7 +164,8 @@ for Kindred blood. It fades with time away from it.
 
 ### Hunting trips
 
-A caravan with a Kindred can pick **Hunt** at any settlement that isn't hostile, once a night.
+A caravan with a Kindred can pick **Hunt** at any settlement that isn't hostile, once a night. A
+known court's town has no Hunt button: its herd belongs to the court's Kindred.
 Choose **careful** (less blood, low risk) or **greedy** (fills the pool, real risk). The roll uses
 Wits and Streetwise, plus the vampire's best of Obfuscate, Presence, Dominate and Animalism.
 
@@ -175,8 +176,8 @@ Wits and Streetwise, plus the vampire's best of Obfuscate, Presence, Dominate an
 | Failed | One of: a witness, a dead vessel (a sin), or lost goodwill |
 | Botched | Two of those, and a hunter comes looking later |
 
-Hunting the same settlement again in a season gets harder. Hunting in a court's city without rank
-there is poaching. On empty land a caravan can hunt animals safely for a little blood.
+Hunting the same settlement again in a season gets harder. Hunting in the city of a court you
+haven't met yet is poaching. On empty land a caravan can hunt animals safely for a little blood.
 
 Now and then a hunt ends in a letter with a choice instead: a local vampire who claims the herd, a
 hunter who noticed, a mortal who wants to come along, a stranger with news. See

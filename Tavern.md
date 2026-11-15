@@ -37,13 +37,51 @@ A guest who turns a ware down shows "Too dear" over its head.
 
 ## The guests
 
-Every one to three evenings, two to six guests come from a faction that isn't hostile,
-with one more for every 30 points of the tavern room's impressiveness. They come one or two at a
-time through the evening, buy a round, then sit at the tables, stand about talking or wander the tavern, buying another
-round now and then. Drinks, drugs and meals are used on the spot. Anything else goes home with
-them. Each pair goes home after three to ten hours, or after the night's sleep if it rented a bed. Once you have a vampire and know a friendly court,
-one or two of its Kindred mix with them. They buy only blood, feed on herd in the tavern and leave two
-hours before dawn.
+Most evenings (every 0.7 to 1.5 days) four to ten guests come from the factions that aren't
+hostile, with one more for every 15 points of the tavern room's impressiveness. One night in five
+is a busy night with twice the crowd, up to 20. They come one to three at a time through the
+evening, each party from its own faction, so the room fills with a mix. They buy a round, then sit
+at the tables, stand about talking or wander the tavern, buying another round now and then. They
+toast each other, boast and tell stories of the road, which shows over their heads and in the
+social log. Drinks, drugs and meals are used on the spot. Anything else goes home with them. Each
+party goes home after three to ten hours, or after the night's sleep if it rented a bed. Once you
+have a vampire and know a friendly court, one or two of its Kindred mix with them. They buy only
+blood, feed on herd in the tavern and leave two hours before dawn.
+
+Friendly visitors and a trade caravan's guards already on the map drop in after dark too, one or
+two at a time. The trader and its pack animals stay put.
+
+### Regulars
+
+A guest who bought something or rented a bed, and left without finding a price too dear, getting
+into a fight or running off, becomes one of the tavern's **regulars**. The tavern keeps six, and the
+oldest makes room for a new one. Regulars come back now and then with friends from their faction,
+and a message tells you who is back.
+
+### What happens on a night
+
+Up to two of these happen on a night, about three hours apart while guests are inside:
+
+- **A brawl.** A drunk guest picks a fist fight with another. Neither comes back as a regular.
+- **A traveller's tale.** Once a night at most, a guest tells of a trade caravan on its way, of
+  raiders asking the road to the colony (both arrive in one to four days), or of a stash out in
+  the wilds, which is offered as a quest.
+- **Passed out.** A drunk falls asleep in a free guest bed or on the floor, and leaves 10 to 40
+  silver for the trouble on waking.
+- **A round for the room.** A guest buys for everyone. For the next hour every guest inside buys
+  one more drink whatever the price.
+- **Dice with the house.** A guest bets 20 to 60 silver. Half the time the stake lands on the
+  counter, half the time the guest takes it from the silver lying in the tavern.
+- **A drifter.** Rarely, a guest tired of its own people asks to stay. Take it in and it joins the
+  colony.
+
+Some things come on their own:
+
+- **A minstrel.** About one night in three, a party brings a minstrel. It plays an instrument
+  standing in the tavern (Royalty or Ideology) or sings. While it plays, the other guests stay
+  past their time and buy another round twice as often.
+- **Dine and dash.** Now and then a guest, twice as often a drunk one, takes a ware without paying
+  and runs for the road. Arrest it to get the ware back, though its faction won't like it.
 
 The **Open** toggle on the counter closes the tavern. Guests already inside finish their visit,
 and no new ones come.

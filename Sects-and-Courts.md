@@ -62,10 +62,16 @@ While your Kindred are there, in the town or in a caravan on its tile, the court
 the Courts page of the Kindred tab, whose row says At court) opens in person: Elysium, rumours,
 gifts, teaching and hand-overs. The court's first letter tells you all this too.
 
-**A hostile town.** A town at war with you takes no guests, but a caravan with a Kindred gets
-**Sneak in** instead of Court. It meets the court on the town's tile without walking in. The
-town's guards catch it 40% of the time, 7% less for each dot of Obfuscate the best-hidden vampire
-in the caravan has (never below 5%). A caught caravan has to fight its way into the town.
+**A hostile town.** A town at war with you takes no guests, but any caravan standing on it gets
+**Sneak in** beside vanilla's Attack, at night only. No vampire is needed, and neither a blood hunt
+nor a shunned sect keeps you out. The caravan walks into the town unseen: the town's people and guns
+can't go for anyone they haven't found. Every few seconds, a townsman with a clear view of one of
+yours (12 cells in light, 6 in the dark) notices something 12% of the time, 2% less for each dot of
+Obfuscate (never below 1.5%). From Obfuscate 3, Cloak the Gathering, the best-hidden vampire's dots
+cover the whole party. Once something is noticed, the town searches round that spot for about an
+hour and looks twice as hard. A searcher who comes within 3 cells may find who is there, half the
+time, 7% less for each dot. Whoever is found can be seen and fought. Attacking anyone gives the
+attacker away. In a court's town, once inside, press At court beside the court on the Courts page.
 
 **The court house.** Every court house keeps a guest crypt of three to five coffins that nobody in
 town sleeps in. While your Kindred walk the town they're yours, so a vampire caught by the dawn
@@ -377,9 +383,9 @@ up to a bigger one.
 | Size | Earned by | Buys at court |
 |---|---|---|
 | Trivial | An errand (a vessel, a sealed casket), six blood vials, a low ritual cast for the court, a hungry guest sent home fed, a Nosferatu secret, three corpses for the Giovanni | Word of another court, a night's feeding for one vampire |
-| Minor | Standing guard at Elysium, scouting a rogue band, a day's shelter for a court's vampire, an occult item or lore text, a level 3 ritual, a Toreador masterwork, handing over a fugitive | Permission to Embrace |
-| Major | Hunting a diablerist, a contract, destroying a wight, releasing a captured vampire, an artifact or clan relic, a level 4 or 5 ritual, teaching a Discipline you have at 3 dots | A teacher, a scandal buried, witnesses silenced, a step up in rank, the hunters' files lost, an elder destroyed, the court's fighters, an artifact |
-| Life | Getting a court's vampire through a hunters' raid alive (sanctuary), one of the three life boons below | A blood hunt lifted, a pardon for diablerie |
+| Minor | Standing guard at Elysium, scouting a rogue band, a day's shelter for a court's vampire, an occult item or lore text, a level 3 ritual, a Toreador masterwork, handing over a fugitive, teaching a Discipline you have at 3 or 4 dots | Permission to Embrace, where an elder lies in torpor, the Embrace for a ghoul, where an enemy hides, the way to a Golconda mentor |
+| Major | Hunting a diablerist, a contract, destroying a wight, releasing a captured vampire, an artifact or clan relic, a level 4 or 5 ritual, teaching a Discipline you have at 5 dots | Where an artifact is kept, a teacher, a scandal buried, witnesses silenced, a step up in rank, the hunters' files lost, an elder destroyed, the court's fighters, an artifact |
+| Life | Getting a court's vampire through a hunters' raid alive (sanctuary), destroying one of the Red List, one of the three life boons below | A blood hunt lifted, a pardon for diablerie |
 
 Every boon in the ledger says why it is owed and at which court. Paying for a service, you pick
 which boon to spend. Any vampire can spend a boon the colony earned. Credit is harder: a trivial or
@@ -388,6 +394,23 @@ Officer, and no court gives credit while the colony owes a boon anywhere.
 
 The Prince's artifact is picked from the collection that court actually keeps, so a court with
 none can't sell one.
+
+Some of what a court sells is just what it knows. For a minor boon it tells you where an elder
+lies in torpor, and the crypt shows on the world map; every crypt keeps an artifact or a clan
+relic. Other minor and major boons buy more. You can
+ask where a named artifact is kept: another court or a mortal town, which then shows on the map.
+You can ask where an enemy hides: a debtor who fled turns up at a court you know, so you can call
+its boon in, and if no debtor is missing, a Camarilla court shows you where one of the Red List is
+right now. Or a vampire of high Humanity who hasn't heard of Golconda can be told of it, which puts
+the mentor's errand on that court's missions. Where an artifact is kept costs a major boon, since
+there is only one of each.
+
+A ghoul can ask a court's vampire for the Embrace. Each vampire who could be its sire has a row
+under Court help (not a Blood Brother, a thin-blood or one in torpor). The minor boon only buys a
+hearing. The vampire sets the ghoul a hard errand from the court's missions, worth a major boon,
+and when it's done, comes to your colony by night once the ghoul is home and Embraces it. The
+childe has its sire's clan and sect, one generation below it, and keeps what it learned as a ghoul.
+A ghoul's boons survive the Embrace.
 
 A court takes one favour a season (a gift, a ritual or teaching), through **Offer a favour** in the
 court window.
@@ -401,7 +424,7 @@ and why it is owed, and a debtor nobody can find shows a "?".
   artifact; the Seneschal for a step up or feeding rights; the Sheriff or a Hound for the hunters or
   fighters; the Harpy for a scandal; the Keeper for a lore text; a sorcerer for a ritual it knows;
   an ancilla or elder with the dots for a Discipline (neonates don't teach). A list down its left
-  side picks the price, trivial to life, and the kind of help. **Ask...** on a row lists every way
+  side picks the price, trivial to life, and the services fold by category. **Ask...** on a row lists every way
   to pay for it. A boon owed by the one who does it is called in; otherwise you can hand
   over a boon someone else owes you, as long as it is the price or bigger. No change comes back:
   a major boon spent on a minor service is gone.
@@ -418,7 +441,7 @@ and why it is owed, and a debtor nobody can find shows a "?".
 
 New ways to earn one: carry a downed friendly vampire to safety (minor) or wake one from torpor
 with colony blood (major), keep quiet about a visitor you saw break the Masquerade (or report it
-to its Prince for 5 standing), or buy a trivial favour from a member with 5 blood vials or 200
+to its Prince for 5 standing), or buy a trivial favour from a member with 6 blood vials or 200
 silver from a caravan, once a season per court. A boon offered this way comes as a letter where
 you pick the boon, standing at its court (3, 6, 10 or 15 by size), silver (50, 150, 400 or 1000),
 or nothing.
@@ -487,9 +510,9 @@ setting:
   hear where it lies and come once.
 - **Feed from your herd.** A vampire who lost its herd feeds on the colony's vessels for 3 nights
   (trivial boon) or 5 (minor). The colony needs a prisoner or four colonists.
-- **Foster a childe.** A new childe stays up to a season, and goes home once all its lessons are given; any colony vampire right-clicks it to give a
-  lesson, once a night, three times. All three is a major boon from the sire, fewer a minor one,
-  none costs standing. One time in three the childe asks to stay as a colonist.
+- **Foster a childe.** A new childe stays a whole season and brings a vial of blood for each night, so it costs
+  the colony a dark bed and little else. Any colony vampire right-clicks it to give a lesson, once a night. 4 lessons is a
+  trivial boon from the sire, 8 a minor one and 12 a major one; none costs standing. One time in three the childe asks to stay as a colonist.
 - **A blood order.** A courier waits 5 days for 4 to 8 vials of ordinary or fine blood in storage:
   a trivial or minor boon, and 3 standing lost if it leaves empty-handed.
 - **A masterwork.** A Ventrue wants a weapon and a Toreador a piece of art, of excellent quality or better, from storage within 10 days: trivial, minor or major by quality.
@@ -706,7 +729,7 @@ anyone else gets no letters, sees no marks and hears no rumours, and meets an An
   with it, or use a power on any of them, and they all attack. One that has fought the colony before
   comes to stalk, waiting in the dark for someone alone.
 - **The bounty**, when the colony had a hand in its Final Death: +15 standing with the Camarilla, a
-  major boon and +10 standing from the nearest Camarilla court, 3 experience for the vampire who did
+  life boon and +10 standing from the nearest Camarilla court, 3 experience for the vampire who did
   it, and a line in the chronicle. One that gets away stays on the list and comes back healed.
 
 The setting "The Red List" on the World page turns it off. Turned back on, a fresh list comes in

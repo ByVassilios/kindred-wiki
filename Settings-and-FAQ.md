@@ -140,6 +140,14 @@ projectiles hit in CE's units, and the hunters' guns are CE guns that need no am
 Courts deal only with homes on the ground. A colony that is all in orbit gets no offers, envoys
 or court services until it lands.
 
+**Can I get into a hostile town without attacking it?**
+
+Yes. A caravan standing on any hostile town gets **Sneak in** beside Attack, at night only, whoever
+is in it. The caravan walks onto the town's map unseen, and the town's people and guns can't go for
+anyone they haven't found. A townsman with a clear view may notice something move, less often in
+the dark, and the town then searches round that spot. A searcher who comes close may find who is
+there. Attacking anyone gives the attacker away.
+
 **Will a town I visit again have the same people?**
 
 Yes. Every town the colony walks into keeps its people between visits, unless they died or left. A friendly town
@@ -157,6 +165,11 @@ The full list:
 
 - Set standing with a sect
 - Tavern and club: send guests now
+- Tavern: busy night now
+- Tavern: a regular comes back now
+- Tavern: a minstrel comes now
+- Tavern: visitors drop in now
+- Tavern: a happening now...
 - Club: rumour now
 - Offer a mission...
 - A sect hears of your hunters

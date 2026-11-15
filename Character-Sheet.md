@@ -102,7 +102,7 @@ bought later. A Flaw that repeats the clan's weakness is never rolled.
 | **Time Sense** | Always knows the hour, to the minute. |
 | **Useful Knowledge** | Knows something worth knowing, and learns faster for it. |
 | **Code of Honor** | A personal code that holds up under pressure. |
-| **Eidetic Memory** | Remembers everything it sees and hears. |
+| **Eidetic Memory** | Remembers everything it sees and hears. Learns a fifth faster and forgets skills at half the speed. |
 | **Precocious** | Learns fast. |
 | **Natural Leader** | People follow it. |
 | **Harmless** | Nobody thinks it worth worrying about. |

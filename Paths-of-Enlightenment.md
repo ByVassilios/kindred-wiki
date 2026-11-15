@@ -13,8 +13,10 @@ frenzy, and lets the vampire ride it with some control (see
 [riding the wave](Humanity-and-Frenzy.md#paths-of-enlightenment)).
 
 To take up a Path a vampire has to fall to Humanity 3 or lower first. A follower of a suitable
-Path may then come to the colony at night and offer to teach; after a season of study comes the
-test.
+Path may then come to the colony at night and offer to teach. A Path primer does the same job,
+and there is no button for it: the vampire reads the primer through like any lore book (see
+[lore texts](Relics-and-Lore.md#lore-texts)), and finishing it starts the study. Either way,
+after a season of study comes the test.
 
 In the tables, "8" means a vampire at 8 or higher feels that sin. One that has fallen to 7 or
 lower no longer does.
