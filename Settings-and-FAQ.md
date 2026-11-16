@@ -266,6 +266,11 @@ The full list:
 - Vitae craving +1 stage
 - Give vitae from selected
 - Ghoul: skip 14 days
+- Animal ghoul: make familiar of nearest vampire
+- Animal ghoul: blood rage now
+- Courts: kennel beast now
+- Scouting bird: tame and train
+- Scouting bird: back from the world now
 - Make revenant
 - Make revenant of family...
 - Give ritual...

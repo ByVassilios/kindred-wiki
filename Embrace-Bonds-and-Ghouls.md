@@ -70,6 +70,38 @@ Give a mortal or an animal a point of vitae (right-click, **Give vitae**) and it
 - Ghouls fed mostly by one clan pick up a lesser form of that clan's weakness.
 - Most ghouls end up blood bound to their domitor.
 
+### Animal ghouls
+
+An animal ghoul has a few extras on its Ghoul tab and gizmo bar.
+
+- **Command**, while its domitor is on the map and awake: it takes right-click orders like a
+  drafted colonist (go here, attack that) and holds its ground between them.
+- **Habits**, all on at first: stalking (closing on prey from more than 5 cells it slips out of
+  sight, and its first strike hits harder), guarding (it goes for any enemy within 8 cells of its
+  domitor), retreat when hurt (below 30% health it runs), and blood rage (below half health, 15
+  seconds of speed, harder bites and less pain, once an hour).
+- **Trained for**: hunting (stalks, and bites land more often), guarding (watches 12 cells) or, for
+  a bird that flies, scouting. A Gangrel kennel beast comes with one; any animal ghoul can change it.
+- **Familiar**: an animal ghoul fully blood bound to its domitor is its familiar. The domitor's
+  Kindred tab shows what it's doing and how it feels, and the domitor knows when it's hurt,
+  wherever it is. **Borrow blood** costs the domitor a blood point and lends the familiar one of
+  its Disciplines until dawn: Potence, Celerity and Fortitude at the domitor's dots, others at the
+  familiar's rank plus one. Disciplines taken by diablerie count; sorcery doesn't. The lent
+  Discipline can't be raised until dawn.
+- A colony Tzimisce's **Bonecraft** works on any animal too, ghoul or not.
+
+### Scouting birds
+
+Any tame bird that can fly (Odyssey's, or a mod's) can be taught **Scouting** on the Animals tab,
+ghoul or not. A trained bird has three orders:
+
+- **Scout a spot**: it flies to a cell and stays, clearing the fog it can see round it.
+- **Shadow someone**: it keeps near a pawn wherever they go on the map.
+- **Fly out over the land**: a world tile up to 10 tiles away. It's gone an hour a tile each way
+  and two hours there, then comes back with a letter on what it saw.
+
+**Call back** ends an order. A hungry bird gives up and won't fly out.
+
 ### Revenants
 
 Families bred on vampire blood for so long that the ghouling is born into them. A revenant makes

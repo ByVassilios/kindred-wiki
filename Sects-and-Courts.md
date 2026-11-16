@@ -428,6 +428,16 @@ and why it is owed, and a debtor nobody can find shows a "?".
   to pay for it. A boon owed by the one who does it is called in; otherwise you can hand
   over a boon someone else owes you, as long as it is the price or bigger. No change comes back:
   a major boon spent on a minor service is gone.
+- **Fleshcraft and kennels**: a Tzimisce at the court reshapes a colonist (beautified, hardened
+  flesh, bone spurs or reinforced bones, minor), regrows every lost part and smooths every scar
+  (major), makes a human ghoul a szlachta (minor), or gives any colony animal, modded ones too, bone
+  plates, war jaws, keen senses or the war beast's frame (minor). A Gangrel sells a kennel beast
+  (minor): a husky, labrador, wolf, warg, cat, lynx, cougar, panther or grizzly, and with Odyssey a
+  crow, vulture or macaw, fully trained and full of vitae but bound to nobody. You pick what it was
+  trained for: hunting, guarding or, for a bird, scouting (see
+  [Embrace, bonds and ghouls](Embrace-Bonds-and-Ghouls#animal-ghouls)). The craftsman comes to the
+  colony by night, walks to the one it came for and does the work there. If it has to leave with
+  the work undone, and nobody here hurt it, its court owes you the price back.
 - **Credit** is owed to the vampire who gave the service, and ends if that vampire is destroyed.
 - **Call it in** from the Kindred tab once you know where the debtor is. You pick one thing up to
   the boon's size: blood, a vessel, a word at its court, an introduction to another court, finding
