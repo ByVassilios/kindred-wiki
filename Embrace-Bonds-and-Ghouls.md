@@ -66,7 +66,9 @@ Give a mortal or an animal a point of vitae (right-click, **Give vitae**) and it
   colony vampire top it up whenever it runs out of vitae, not only before withdrawal.
 - A ghoul with a dot of a sorcery path learns rituals as a vampire does, paid from its vitae. See
   [Blood Sorcery](Blood-Sorcery#rituals).
-- Ghouls can deal with the courts on their own. See [Sects and Courts](Sects-and-Courts#missions).
+- Ghouls can deal with the courts on their own, a colony with only ghouls left too: they see the
+  courts marked on the world map and open a court from a caravan in its town. See
+  [Sects and Courts](Sects-and-Courts#missions).
 - Ghouls fed mostly by one clan pick up a lesser form of that clan's weakness.
 - Most ghouls end up blood bound to their domitor.
 
@@ -80,6 +82,7 @@ An animal ghoul has a few extras on its Ghoul tab and gizmo bar.
   sight, and its first strike hits harder), guarding (it goes for any enemy within 8 cells of its
   domitor), retreat when hurt (below 30% health it runs), and blood rage (below half health, 15
   seconds of speed, harder bites and less pain, once an hour).
+- **Kennel masters**: Animalism makes taming and training easier, more so at 3 and 5 dots.
 - **Trained for**: hunting (stalks, and bites land more often), guarding (watches 12 cells) or, for
   a bird that flies, scouting. A Gangrel kennel beast comes with one; any animal ghoul can change it.
 - **Familiar**: an animal ghoul fully blood bound to its domitor is its familiar. The domitor's
@@ -105,8 +108,14 @@ ghoul or not. A trained bird has three orders:
 ### Revenants
 
 Families bred on vampire blood for so long that the ghouling is born into them. A revenant makes
-its own vitae, needs no domitor, and knows its family's Disciplines. They sometimes ask to join
-the colony.
+its own vitae, needs no domitor, and knows its family's Disciplines. Now and then a family offers
+the colony one of its young, in a letter you accept or refuse:
+
+- Through a friendly court you know: its member owes you a minor boon (or standing, silver or
+  nothing, as you pick) for taking the revenant in.
+- Through a Sabbat pack you know, at war with you or not: the Sabbat and that pack think 8 better
+  of you. A Camarilla colony loses 4 Camarilla standing for it.
+- With no court known, the family asks on its own.
 
 | Family | Disciplines | What they are |
 |---|---|---|

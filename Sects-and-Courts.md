@@ -530,6 +530,13 @@ setting:
   If both leave unharmed, each owes a trivial boon.
 - **Make one whole.** A vampire missing a part asks a colonist with Medicine 8 (or Vicissitude 2)
   to restore it: right-click it with the healer selected, for a minor boon.
+- **A fleshcraft client.** A vampire wants one of the shapes Fleshcraft makes (beauty, hardened
+  flesh, bone spurs, reinforced bones) from a colony vampire with Vicissitude 2. Right-click it with
+  the fleshcrafter selected. It offers a minor boon, or standing, silver or nothing as you choose. A
+  Sabbat pack at peace with you can send one too; it pays silver, the price of a major boon.
+- **A kennel order.** A colony vampire who is Gangrel or knows Animalism can be asked for a beast
+  of one of the kennels' kinds, taught guard, within 7 days. The first one at home goes with the
+  courier for a minor boon. One order in three wants a ghoul too, for a major boon.
 - **Lend a ghoul.** A court borrows a ghoul with a skill at 8 or more for a season; it is away the
   whole time and walks back in for a minor boon.
 - **Take in ghouls.** A vampire going into torpor leaves one to three ghouls with the colony for a

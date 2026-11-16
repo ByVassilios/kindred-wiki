@@ -58,7 +58,7 @@ Setting: **Kindred visitors**.
 | Occult trader | A caravan with unidentified relics, lore texts, stakes, holy symbols and blood vials. Only colonies with Kindred see it |
 | Ghoul dealers | The black market: blood vials, blood wine, vials of Kindred vitae, and vessels hooked on the Kiss |
 | Anonymous benefactor | Unsigned gifts arrive by drop pod. Later the sender names a price |
-| Revenant joins | A ghoul by birth, from one of the revenant families, asks to join |
+| A revenant offered | A revenant family offers one of its young through a court or a Sabbat pack you know, for a boon or Sabbat standing |
 
 ## Always on, with their own settings
 
