@@ -46,6 +46,7 @@ ritual, Path, item and relic, each tab and menu, the events, and the settings.
 | Page | What's in it |
 |---|---|
 | [Sects and courts](Sects-and-Courts.md) | Camarilla, Sabbat, Anarchs, Independents, courts, rank, boons, missions, domains |
+| [The sworn court](The-Sworn-Court.md) | Pledging to one court, its members by name, seats and duties, the council, enemies inside, war |
 | [The Masquerade and hunters](Masquerade-and-Hunters.md) | Witnesses, the breach score, hunters, True Faith, enemy Kindred |
 | [Events](Events.md) | Everything that can happen to a Kindred colony, and the setting that controls it |
 | [Relics and lore](Relics-and-Lore.md) | Artifacts, clan relics, lore texts, torpor crypts, traders |

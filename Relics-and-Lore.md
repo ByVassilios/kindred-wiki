@@ -113,6 +113,9 @@ tab lists every lore book on the colony's maps and what that vampire has made of
 |  | **Sargon Fragment** | A charred scroll in a lead case, said to be the work of the founder of the Cappadocians and to hint at a rite for becoming something more than Kindred. It is written in old Chaldean and makes no sense to anyone short of mastery in blood sorcery or Necromancy. A vampire who can work through it learns a Necromancy ritual and much about the occult. Many who have read it were never quite right after. |
 |  | **Tablet of Destiny** | Clay tablets of laws that legend ties to the First City. Very hard to read, and worth it: a vampire who masters them gains a great deal of experience and can take up the Path of Caine with no mentor, once it has fallen far enough from Humanity. |
 |  | **Koldun's book of the land** | A koldun's book, part prayer and part instruction, on drawing power out of earth, wind, water and fire. A Tzimisce who reads it through can learn the Ways without a teacher. To anyone else it is strange poetry. |
+|  | **Saulot's travelogue** | A traveller's journal said to be copied from Saulot's own, from his years in the East. Between the roads and the cities are notes on healing and on the third eye's two paths, the Warrior's and the Healer's. A Salubri, or anyone who has learned their arts, can learn from it. |
+|  | **Book of Lasombra poetry** | Verses by a Lasombra of the old Spanish courts, about the dark that answers when called. Under the poems is a working guide to it. A reader who already commands the Abyss learns more of Obtenebration. |
+|  | **Ravnos Chronicle** | A Ravnos family's history, every page a story and half of them lies. Read closely, the lies are lessons in Chimerstry, for a reader who already has it. |
 
 ## Craftable items
 
