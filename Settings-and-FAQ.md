@@ -55,7 +55,6 @@ Pyramid and the Prince's leave apply.
 | How much a breach counts | How much each sighting adds to the colony's Masquerade breach score. |
 | How fast breaches fade | How quickly the world forgets what it saw. Higher numbers bring the breach score down sooner. |
 | **Effects** | |
-| Bared fangs | Show fangs on a vampire's face when drafted, fighting, feeding or in frenzy. |
 | Move as a cloud | A drafted vampire on the move, or a hostile one closing in, travels as a faint cloud of its strongest Discipline, and faster. Off, vampires walk like anyone else. Needs fighting motion on. |
 | Powers camera shake | How hard big powers shake the camera: a lightning strike, a volcanic blast, the earth opening. At 0% the camera stays still. |
 | Powers sky flashes | Big powers flash the sky in their colour, and storms tint it while they build. Off, the sky keeps its own light. |
