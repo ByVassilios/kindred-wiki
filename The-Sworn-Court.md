@@ -20,7 +20,7 @@ Leaving costs 20 Standing. Loyal members drop to -5 regard, and the boons the co
 
 ## People
 
-The People page lists every named member: seat, clan and regard, with a filter for friends, rivals and enemies.
+The People page lists every named member: seat, coterie (clan for those in none) and regard, with a filter for friends, rivals and enemies.
 Click a member to see their personality, means, goal, friends and dislikes. You only see a member's personality
 and means once you've **met** them: talked to them in a town, finished a mission they gave, or read them with Aura
 Perception.
