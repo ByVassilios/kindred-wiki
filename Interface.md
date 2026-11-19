@@ -286,8 +286,11 @@ open, and its X closes it. It holds every clan, Discipline, power, ritual, merit
 | **Kindred in torpor** | These Kindred lie in the deathlike sleep of torpor.  Most wake on their own after some days, sooner with high Humanity. One that starved into torpor stays down until it holds enough blood: carry it blood vials or give it vitae. Keep them under a roof and away from enemies. |
 | **Kindred outside near dawn** | The sun will be up within two hours, and these vampires are under open sky. Get them under a roof before it rises, or they will burn. |
 | **Kindred starving** | These Kindred are nearly out of vitae. When the next night's blood comes due they fall into torpor if they can't pay it, and before then the sight of a vessel may hand them over to the Beast in a hunger frenzy.  Feed them, or give them blood vials. |
-| **Masquerade: …** | Too many people have seen what your Kindred are, and the Masquerade is cracking. Traders stay away at night, hunters take an interest, and it gets worse from here.  Keep feeding and powers out of sight of outsiders, and deal with the witnesses who got away. |
 | **Outsiders present** | Mortals from outside the colony are here, and they don't know what your Kindred are.  Anything they see could break the Masquerade: feeding, obvious powers, frenzy, a wound that closes too fast. Keep it out of their sight until they leave. |
+
+The Masquerade alert (**Masquerade: …**) shows from Suspected on, red from Exposed. It is Core's
+cover alert now, which also lists the Veil, a cell's exposure or a mage's Disbelief when those
+mods are loaded.
 
 ## Mod settings
 
