@@ -163,13 +163,8 @@ With dev mode on, the debug actions menu has a "The Rim by Night: Kindred" categ
 colonist into a Kindred with rolled defaults, and **Open making menu** lets you choose instead.
 The full list:
 
+- Add a string in the nearest town
 - Set standing with a sect
-- Tavern and club: send guests now
-- Tavern: busy night now
-- Tavern: a regular comes back now
-- Tavern: a minstrel comes now
-- Tavern: visitors drop in now
-- Tavern: a happening now...
 - Club: rumour now
 - Offer a mission...
 - A sect hears of your hunters
