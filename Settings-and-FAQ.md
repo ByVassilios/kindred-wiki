@@ -30,6 +30,7 @@ Pyramid and the Prince's leave apply.
 | Vampires sleep by day | Off, a vampire keeps a mortal's hours: it sleeps at night, works by day, and is never drowsy or hard to draft in daylight. Its schedule resets to a mortal's when you change this. The sun still burns unless that is off too. |
 | The sun burns vampires | Off, sunlight does a vampire no harm and never sends it into Rötschreck, and it walks out under the sky like anyone. |
 | Humanity | Off, sins never cost Humanity or a Path's rating, and every vampire counts as at Humanity 7: no dice cap by day, no inhuman looks, no beast dreams, no fall to the Beast at 0. |
+| Mercy wins Humanity back | Once a week, a vampire on Humanity who captured a downed enemy or recruited a prisoner rolls Conscience against its Humanity plus one. On a success it wins back a dot. Not in V20, where only experience buys Humanity back. |
 | Frenzy and Rötschreck | Off, the Beast never takes over. Vampires and ghouls don't frenzy or flee in fear, and fire nearby doesn't drive them back. A power used on purpose can still send someone into a frenzy. |
 | Hunger frenzy lasts until fed | A vampire in a hunger frenzy only comes back to itself once it has fed enough or its time runs out. Off, it may pass early, like any other frenzy. |
 | Clan weaknesses | Off, no clan or bloodline has a weakness, and ghouls take no taint from their domitor's clan. Turning it back on brings them back. |
@@ -175,6 +176,7 @@ The full list:
 - Send the Scourge
 - Find every trail mission's site
 - Offer a thin-blood hunt
+- Starve vampire
 - Make vampire
 - Hunting trip letter
 - Sire demand letter
@@ -250,6 +252,7 @@ The full list:
 - Take the Path test now
 - Golconda: ready for the Suspire
 - Commit a sin (degeneration roll)
+- Show mercy (atonement roll)
 - Frenzy test (difficulty 6)
 - Rötschreck test (difficulty 8)
 - Add random derangement

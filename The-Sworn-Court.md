@@ -20,9 +20,10 @@ Leaving costs 20 Standing. Loyal members drop to -5 regard, and the boons the co
 
 ## People
 
-The People page lists every named member: seat, clan, personality, means and regard, with a filter for friends,
-rivals and enemies. You only see a member's personality and means once you've **met** them: talked to them in a
-town, finished a mission they gave, or read them with Aura Perception.
+The People page lists every named member: seat, clan and regard, with a filter for friends, rivals and enemies.
+Click a member to see their personality, means, goal, friends and dislikes. You only see a member's personality
+and means once you've **met** them: talked to them in a town, finished a mission they gave, or read them with Aura
+Perception.
 
 | Regard event | Change |
 |---|---|
@@ -90,14 +91,18 @@ What a member owes you, or you owe them, is a boon in the ledger on the Boons pa
 ## Seats
 
 Under **Your seats** on the Courts page, a colony vampire can take a seat. Officers pick Hound, Sheriff, Harpy,
-Keeper or Seneschal. The Primogen seat needs Primogen rank. A seat held by a member makes that member your rival.
+Keeper or Seneschal. A vampire becomes an officer by finishing a hunt for the Prince while established at the
+court with no scandal. The Primogen seat needs Primogen rank: visit the court with the vampire and use Claim the
+clan's seat, which needs the court's standing at 40 and no older blood of the same clan at court. Only vampires are
+offered the seats. A seat held by a member makes that member your rival, and the seat's duty for the season
+arrives as soon as you take it.
 
 | Seat | Duty each season |
 |---|---|
 | Hound | one hunt for thin-bloods and Caitiff made without leave |
 | Sheriff | one mission against trouble |
-| Harpy | attend every Elysium |
-| Keeper | host one Elysium |
+| Harpy | attend the court's Elysium in person (a season with none asks nothing) |
+| Keeper | host one Elysium at home, or finish the hosting mission the seat brings |
 | Seneschal | judge one petition (a letter; Wits + Etiquette hints at the right answer) |
 | Primogen | vote in the council |
 
@@ -130,6 +135,8 @@ at 50.
 
 Victory pays silver and one of their relics, and their court falls. Defeat makes your court fall. If three or more
 members survive, a letter offers to found it anew.
+
+The skirmishes come a few weeks apart. A war mission you let lapse is fought without you: the court's members against the enemy's, by their strength, and members can die in it. Hover over the stages, the score and the holdings on the War page for what each one needs.
 
 ## Settings
 

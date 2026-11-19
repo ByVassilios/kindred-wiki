@@ -95,8 +95,8 @@ An animal ghoul has a few extras on its Ghoul tab and gizmo bar.
 
 ### Scouting birds
 
-Any tame bird that can fly (Odyssey's, or a mod's) can be taught **Scouting** on the Animals tab,
-ghoul or not. A trained bird has three orders:
+Any tame bird that can really fly (Odyssey's, a duck, a goose, or a mod's) can be taught **Scouting** on the Animals tab,
+not a chicken or a quail, which only flutter. Ghoul or not, a trained bird has three orders:
 
 - **Scout a spot**: it flies to a cell and stays, clearing the fog it can see round it.
 - **Shadow someone**: it keeps near a pawn wherever they go on the map.

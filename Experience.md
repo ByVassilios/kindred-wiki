@@ -34,7 +34,7 @@ button says how many nights the next dot is at that rate.
 
 Each colony vampire works toward one goal at a time. At its first dusk, a letter offers three
 it could take, drawn from its clan, its Path and its age, and at least one from the clan or Path
-where one fits. The Character page shows the goal and how far along it is. Only what happens
+where one fits. The Character page and the Quests tab show the goal and how far along it is. Only what happens
 after it is taken counts. A met ambition pays at the next dusk, and a new letter comes the night
 after. There is no deadline and no failure. Drop one, or turn all three down, and another letter
 comes in five days.

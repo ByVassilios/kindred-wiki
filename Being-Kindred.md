@@ -155,7 +155,6 @@ where it lies, for certain. It takes a moment in torpor and longer while the vam
 
 ## In a fight
 
-- **Fangs** show when a vampire is drafted, fighting, feeding or in frenzy.
 - **Moving as a cloud.** A vampire with three or more dots in a Discipline moves in a faint cloud
   of that Discipline's colour when drafted or charging, faster than it walks.
 - **Physical Disciplines show.** Celerity dashes, Potence knocks foes back, and a dodge is a
