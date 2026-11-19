@@ -93,10 +93,37 @@ An animal ghoul has a few extras on its Ghoul tab and gizmo bar.
   Discipline can't be raised until dawn.
 - A colony Tzimisce's **Bonecraft** works on any animal too, ghoul or not.
 
+### Trained beasts
+
+Tame animals can learn more than guard and attack. The extra roles show on the vanilla Training tab, are taught by a
+handler over several lessons, and fade the same way when nobody keeps them up. Each needs **guard** (obedience) first.
+
+| Role | Who can learn it | What it does |
+|---|---|---|
+| Guard post | body size 0.4 or more | Holds a spot you pick with its **Guard post** button (or right-click, **Guard this spot**), and goes for any enemy within 8 cells of it |
+| Watch | any | Raises the alarm when it sees an enemy, day or night, and wakes everyone asleep. Once an hour |
+| Sniff out | an animal with a nose | Barks at anyone within 12 cells who hides what they are. A pawn hidden by a power shows for an hour; a guest or prisoner in disguise is known for good |
+| Track | after sniff out | Follows a trail you pick with its **Track** button: a fled prisoner, quarry marked for hunting, an enemy unseen. It stays close and sniffs them out |
+| Scouting | a bird that really flies | Circles a spot, shadows someone, or flies out over the land and comes back with what it saw |
+| Messenger | a flier, or body size 0.3 or more | Tends one of your town contacts, or asks an allied town for a trade caravan on the comms console's terms (15 goodwill, once every four days) |
+| Hunt | a predator | Once a day brings back one or two small animals from round here, about half of them still alive |
+| Fight beside | after attack | Defends its master without an order, and fights better at their side for an hour |
+| Spirit scout | a familiar only | Looks across to the spirit side for three hours, once a day, and comes back with what waits there |
+
+Selected, a trained animal shows a line to its guard post or to the one it's tracking.
+
+**The kennel** (Misc tab) takes up to six of your animals: they learn half as fast again and forget at half the rate.
+Name a **kennel master** on it, and that colonist trains the kennel's animals before any other handling work.
+
+An animal ghoul learns twice as fast and forgets at half the rate. A Gangrel kennel beast's role is learned on the
+Training tab too. **Feral Whispers** on one of your own animals can tell it a role it was never taught, and it does it
+for six hours as if trained. A messenger tending a ghoul or a bond carries a vial of Kindred vitae, and an addict's drug
+for a Setite string; a Dominated mortal still needs the vampire in person.
+
 ### Scouting birds
 
-Any tame bird that can really fly (Odyssey's, a duck, a goose, or a mod's) can be taught **Scouting** on the Animals tab,
-not a chicken or a quail, which only flutter. Ghoul or not, a trained bird has three orders:
+Any tame bird that can really fly (Odyssey's, a duck, a goose, or a mod's) can learn **Scouting** once it knows guard,
+not a chicken or a quail, which only flutter. A bird that learned it before keeps it. A trained bird has three orders:
 
 - **Scout a spot**: it flies to a cell and stays, clearing the fog it can see round it.
 - **Shadow someone**: it keeps near a pawn wherever they go on the map.

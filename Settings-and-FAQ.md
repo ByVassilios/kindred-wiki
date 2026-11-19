@@ -266,8 +266,6 @@ The full list:
 - Animal ghoul: make familiar of nearest vampire
 - Animal ghoul: blood rage now
 - Courts: kennel beast now
-- Scouting bird: tame and train
-- Scouting bird: back from the world now
 - Make revenant
 - Make revenant of family...
 - Give ritual...
