@@ -70,9 +70,10 @@ Pyramid and the Prince's leave apply.
 | Background world | Courts changing by themselves while you play: coups, rival schemes, blood hunts and cities changing sect. Switched off, the courts stay as they are. |
 | Sire calls | A sire out in the world calling on its childe with demands. |
 | Wights come back | A vampire lost to the Beast who escapes the map returns now and then as a night threat. |
-| The Red List | Five Anathema the Camarilla wants destroyed roam the world map, each with a bounty. They roam either way, but only a colony in the Camarilla is told of them, sees them on the map or is paid for one. Turned off, they leave the world map; turned back on, a new list arrives in one letter. |
+| The Red List | A handful of Anathema the Camarilla wants destroyed roam the world map, each with a bounty. They roam either way, but only a colony in the Camarilla is told of them, sees them on the map or is paid for one. Turned off, they leave the world map; turned back on, a new list arrives in one letter. |
 | Scourges | Camarilla courts seat a Scourge, who comes after colony vampires of the 14th generation and higher, and a colony with its own domain can name one. Off, nobody is sent and the office is gone from the domain page. |
 | Hunters among tavern guests | The chance that a guest at the colony's tavern is a hunter, from a strong Masquerade to a broken one. The mod's chances run from 5% to 40%. At 0% none come this way. |
+| Blood market | Vials, Kindred vitae and hemogen share one price that moves: hunter raids, blood hunts, the Scourge and a breach push it up, and selling a lot brings it down. Off, they keep their plain market value. |
 | **Events** | |
 | Sect politics | Archons, Sabbat packs and Anarch gangs sent against the colony, infiltrators, thralls of outside Kindred, Anarch unrest, Assamite contracts, Setite corruption and Tremere hit teams. |
 | Kindred attacks | Rogue bands, elder raids, and the angry dead coming back to haunt the colony. |
@@ -274,6 +275,7 @@ The full list:
 - Give every Combination Power
 - Diablerie by selected
 - Ask for the Embrace
+- Harpies hear of an unsanctioned childe
 - Dam blood
 - Block blood healing
 - Drink Garou blood
