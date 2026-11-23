@@ -1,0 +1,222 @@
+# Embrace, bonds and ghouls
+
+Every big step here can't be undone. The game asks you to confirm each one the first time.
+
+## The Embrace
+
+Right-click a mortal with a vampire selected and choose **Embrace**. The target must be an adult
+humanlike who is downed, restrained, willing, or freshly dead.
+
+1. The sire drains the mortal to death and gains the blood.
+2. The sire spends a point to pass on the curse.
+3. A few hours later the childe rises: one generation weaker than its sire, of the sire's clan
+   (or line), and hungry.
+
+- The childe starts one step into a [blood bond](#blood-bonds) with its sire.
+- Mortals who loved the new vampire react: grief for some, envy or approval for others.
+- Under Camarilla law an Embrace needs permission. An unsanctioned childe is a problem at court.
+- Some lines can't Embrace at all, and thin-bloods rarely manage it.
+
+### Asking for the Embrace
+
+A devoted mortal or a ghoul may ask to be ghouled or Embraced, after a Kiss, a rescue, a bad
+illness or the first signs of old age. A devoted pawn bleeding out asks on the spot. A letter
+gives you four answers: grant it, make them a ghoul instead, promise it for later, or refuse.
+
+## Blood bonds
+
+Drinking a vampire's blood on three different nights binds the drinker to it.
+
+| Step | Effect |
+|---|---|
+| 1 | Likes the regnant more. The regnant's mental powers work better on them |
+| 2 | Likes them a lot more and won't start fights with them |
+| 3 | **Full bond.** Can't attack the regnant without fighting the bond, won't leave or betray, is happiest near them. Only one full bond at a time |
+
+- A drink counts once a night.
+- Bonds fade slowly without new drinks. A full bond fades only after a long separation.
+- Bonding someone unwilling is a sin. Tremere bond one step faster.
+- The Sabbat's Vaulderie breaks bonds and replaces them with the Vinculum (see
+  [Sects and courts](Sects-and-Courts.md#the-sabbat)).
+
+## Ghouls
+
+Give a mortal or an animal a point of vitae (right-click, **Give vitae**) and it becomes a ghoul.
+
+- A ghoul stays mortal: it eats, sleeps and walks in the sun, so it can work by day.
+- It stops ageing while fed, moves faster, fights off disease better and heals from the vitae.
+- It needs another drink every fifteen days or so. After that comes a week of withdrawal, and
+  then the years it skipped catch up with it.
+- It can learn Disciplines slowly, up to a cap set by its domitor's generation: one dot for the
+  8th to 13th, two for the 7th, three for the 6th, four for the 5th and five for the 4th.
+- It has the blood buff, paid from its own small vitae reserve.
+- Its Attributes count for something: each dot above 2 gives part of what a vampire's dot gives.
+  Older blood gives more, so an old retainer of a 4th-generation domitor hits harder than a
+  10th-generation vampire.
+- It rises in rank with time served, counted in 15-day months from the day it was ghouled:
+
+| Rank | After | What it gets |
+|---|---|---|
+| Ghoul | | 2 points of vitae, 30% of a vampire's Attribute stats |
+| Retainer | 1 month | 3 points of vitae, 50% of the stats, Disciplines 15% cheaper |
+| Old retainer | 4 months | 4 points of vitae, 70% of the stats, Disciplines 30% cheaper, one dot past the cap |
+
+- It has its own Ghoul tab. Its habits there say when it spends vitae on wounds: never, only on
+  serious ones (downed, bleeding hard or badly hurt; the default) or always. Another habit has a
+  colony vampire top it up whenever it runs out of vitae, not only before withdrawal.
+- A ghoul with a dot of a sorcery path learns rituals as a vampire does, paid from its vitae. See
+  [Blood Sorcery](Blood-Sorcery#rituals).
+- Ghouls can deal with the courts on their own, a colony with only ghouls left too: they see the
+  courts marked on the world map and open a court from a caravan in its town. See
+  [Sects and Courts](Sects-and-Courts#missions).
+- Ghouls fed mostly by one clan pick up a lesser form of that clan's weakness.
+- Most ghouls end up blood bound to their domitor.
+
+### Animal ghouls
+
+An animal ghoul has a few extras on its Ghoul tab and gizmo bar.
+
+- **Command**, while its domitor is on the map and awake: it takes right-click orders like a
+  drafted colonist (go here, attack that) and holds its ground between them.
+- **Habits**, all on at first: stalking (closing on prey from more than 5 cells it slips out of
+  sight, and its first strike hits harder), guarding (it goes for any enemy within 8 cells of its
+  domitor), retreat when hurt (below 30% health it runs), and blood rage (below half health, 15
+  seconds of speed, harder bites and less pain, once an hour).
+- **Kennel masters**: Animalism makes taming and training easier, more so at 3 and 5 dots.
+- **Trained for**: hunting (stalks, and bites land more often), guarding (watches 12 cells) or, for
+  a bird that flies, scouting. A Gangrel kennel beast comes with one; any animal ghoul can change it.
+- **Familiar**: an animal ghoul fully blood bound to its domitor is its familiar. The domitor's
+  Kindred tab shows what it's doing and how it feels, and the domitor knows when it's hurt,
+  wherever it is. **Borrow blood** costs the domitor a blood point and lends the familiar one of
+  its Disciplines until dawn: Potence, Celerity and Fortitude at the domitor's dots, others at the
+  familiar's rank plus one. Disciplines taken by diablerie count; sorcery doesn't. The lent
+  Discipline can't be raised until dawn.
+- A colony Tzimisce's **Bonecraft** works on any animal too, ghoul or not.
+
+### Trained beasts
+
+Tame animals can learn more than guard and attack. The extra roles show on the vanilla Training tab, are taught by a
+handler over several lessons, and fade the same way when nobody keeps them up. Each needs **guard** (obedience) first.
+
+| Role | Who can learn it | What it does |
+|---|---|---|
+| Guard post | body size 0.4 or more | Holds a spot you pick with its **Guard post** button (or right-click, **Guard this spot**), and goes for any enemy within 8 cells of it |
+| Watch | any | Raises the alarm when it sees an enemy, day or night, and wakes everyone asleep. Once an hour |
+| Sniff out | an animal with a nose | Barks at anyone within 12 cells who hides what they are. A pawn hidden by a power shows for an hour; a guest or prisoner in disguise is known for good |
+| Track | after sniff out | Follows a trail you pick with its **Track** button: a fled prisoner, quarry marked for hunting, an enemy unseen. It stays close and sniffs them out |
+| Scouting | a bird that really flies | Circles a spot, shadows someone, or flies out over the land and comes back with what it saw |
+| Messenger | a flier, or body size 0.3 or more | Tends one of your town contacts, or asks an allied town for a trade caravan on the comms console's terms (15 goodwill, once every four days) |
+| Hunt | a predator | Once a day brings back one or two small animals from round here, about half of them still alive |
+| Fight beside | after attack | Defends its master without an order, and fights better at their side for an hour |
+| Spirit scout | a familiar only | Looks across to the spirit side for three hours, once a day, and comes back with what waits there |
+
+Selected, a trained animal shows a line to its guard post or to the one it's tracking.
+
+**The kennel** (Misc tab) takes up to six of your animals: they learn half as fast again and forget at half the rate.
+Name a **kennel master** on it, and that colonist trains the kennel's animals before any other handling work.
+
+An animal ghoul learns twice as fast and forgets at half the rate. A Gangrel kennel beast's role is learned on the
+Training tab too. **Feral Whispers** on one of your own animals can tell it a role it was never taught, and it does it
+for six hours as if trained. A messenger tending a ghoul or a bond carries a vial of Kindred vitae, and an addict's drug
+for a Setite string; a Dominated mortal still needs the vampire in person.
+
+### Scouting birds
+
+Any tame bird that can really fly (Odyssey's, a duck, a goose, or a mod's) can learn **Scouting** once it knows guard,
+not a chicken or a quail, which only flutter. A bird that learned it before keeps it. A trained bird has three orders:
+
+- **Scout a spot**: it flies to a cell and stays, clearing the fog it can see round it.
+- **Shadow someone**: it keeps near a pawn wherever they go on the map.
+- **Fly out over the land**: a world tile up to 10 tiles away. It's gone an hour a tile each way
+  and two hours there, then comes back with a letter on what it saw.
+
+**Call back** ends an order. A hungry bird gives up and won't fly out.
+
+### Revenants
+
+Families bred on vampire blood for so long that the ghouling is born into them. A revenant makes
+its own vitae, needs no domitor, and knows its family's Disciplines. Now and then a family offers
+the colony one of its young, in a letter you accept or refuse:
+
+- Through a friendly court you know: its member owes you a minor boon (or standing, silver or
+  nothing, as you pick) for taking the revenant in.
+- Through a Sabbat pack you know, at war with you or not: the Sabbat and that pack think 8 better
+  of you. A Camarilla colony loses 4 Camarilla standing for it.
+- With no court known, the family asks on its own.
+
+| Family | Disciplines | What they are |
+|---|---|---|
+| **Bratovitch** | Animalism, Fortitude, Vicissitude | Rural kennel-keepers who breed hounds and worse, and track for Sabbat packs. They lose their tempers fast and badly. |
+| **Ducheski** | Auspex, Dominate, Path of Blood | A dwindling line that left the Tzimisce for the Tremere. Gifted with machines, and too inbred to be easy company. |
+| **Grimaldi** | Celerity, Dominate, Fortitude | Wealthy go-betweens for the Sabbat in mortal society. Every adult Grimaldi is blood bound to the sect's bishops. |
+| **Obertus** | Auspex, Obfuscate, Vicissitude | Reclusive scholars of the strange, bred for intellect. Most of them can't rest until everything is just so. |
+| **Oprichniki** | Animalism, Obfuscate, Vicissitude | Descended from a tsar's butchers, now henchmen to the Russian Tzimisce. The dead of an old massacre follow every one of them. |
+| **Zantosa** | Auspex, Presence, Vicissitude | Faded aristocrats who live for the next sensation. Whatever pleases a Zantosa once, it wants again. |
+| **D'Habi** | Daimoinon, Obfuscate, Presence | Warrior-priests of a Baali lord who betrayed him, then spent centuries as the slaves of what was left of his line. Their spirits never recovered, and they give way to a strong will. |
+| **Enrathi** | Dominate, Obfuscate, Potence | Slavers and kidnappers for anyone who pays, Kindred and mortal alike. Nothing they do bothers them, and it shows. |
+| **Kairouan Brotherhood** | Auspex, Celerity, Obfuscate | The Assamites' only revenants, spies and scholars bred by the sorcerers from captured Tzimisce stock. The breeding left their bodies slow to mend. |
+| **Rafastio** | Animalism, Auspex, Path of Blood | A proud matriarchal line of witches who sell their magic to whoever suits them. Their Disciplines fade with the moon, and the Embrace has never taken on one of them. |
+| **Rossellini** | Dominate, Fortitude, Sepulchre Path | Necromancers kept as vassals by the Giovanni, who call them little brothers. They see death and decay in everything, and sit badly in company. |
+| **Servants of Anushin-Rawan** | Auspex, Obfuscate, Presence | Polished attendants raised on a Ventrue elder's island, and mistaken by most Kindred for ghouls. Generations of breeding have made them pliable to Ventrue commands. |
+
+## Diablerie
+
+Diablerie is drinking another vampire's soul, the worst crime among Kindred.
+
+1. The victim must be helpless: in torpor, staked, downed or restrained.
+2. Right-click it and choose **Diablerie**. The diablerist drains its blood, then rolls Strength
+   to tear out what's left. It takes time and can be interrupted, which leaves the victim in
+   torpor and furious.
+3. The victim meets Final Death and leaves ash.
+
+**Rewards.** If the victim's generation was lower, the diablerist's drops by one (by two if the
+gap was three or more). Experience, a chance at a dot in one of the victim's Disciplines, and a
+huge rush.
+
+**Costs.**
+
+- A point of Humanity at once, then a sin roll at the lowest level.
+- The rush is addictive. A failed Self-Control roll leaves the diablerist craving more.
+- Black veins in the aura for years. Anyone with Aura Perception sees them, and the Camarilla
+  calls a blood hunt on a known diablerist. The Harpies of a Camarilla court notice the stain half
+  the time at each visit, and a Camarilla guest with Auspex 2 or more may read it on a colonist
+  within 12 cells: a scandal, 25 off both standings and a blood hunt. Sabbat and Anarch courts
+  never report it.
+- If the victim's will was stronger, part of it may stay inside: a derangement, or worse.
+- Assamites can't do it.
+
+A low-generation vampire in your colony is a prize. Enemy Kindred will try to carry off a torpid
+elder.
+
+## Lineage
+
+Every vampire has a family tree, open from the Kindred tab. It runs one generation per box from
+Caine, through the clan's founder, down to the vampire, with its broodmates beside it and its childer
+below. Ancestors nobody knows yet stay as grey "unknown" boxes. Trees outlive their members.
+
+### The sire calls
+
+A vampire whose sire is out in the world will hear from it now and then. A sire can be proud,
+possessive, indifferent, hunted or long gone. Calls are letters, sometimes a night visit: a
+demand (a task, a vessel, vitae, the childe's return for a season) or a gift (teaching, a boon, an
+item, an introduction at court). A hunted sire may turn up at your door.
+
+## Sleepers
+
+Now and then a casket in a vanilla ancient danger holds a Kindred instead of a soldier: old,
+strong, and often from a bloodline that's gone from the world. Opening it wakes them confused.
+Most still have some blood in them; the rest wake starving and go into a hunger frenzy first. You
+can talk to them once they're calm, and what happens next depends on a roll and on what you say.
+Some join, some teach and leave, some leave owing you a boon, and some decide your colony belongs
+to them. Every wound your colonists give one counts against you: a sleeper you beat badly won't
+join, teach or owe you anything, and is far more likely to turn on you.
+
+[← Contents](README.md)
+
+---
+
+<img src="img/dark-pack-logo.png" width="160" alt="Dark Pack logo">
+
+This is not official World of Darkness material. Portions of the materials are the copyrights
+and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For
+more information please visit worldofdarkness.com.
