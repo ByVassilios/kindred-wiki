@@ -1,5 +1,7 @@
 # The Rim by Night: Kindred
 
+> **This wiki has moved** to [The Rim by Night wiki](https://byvassilios.github.io/rim-by-night-wiki/kindred/), one site for every mod in the series. This copy is no longer updated.
+
 The Rim by Night: Kindred brings Vampire: The Masquerade, 20th Anniversary Edition, to RimWorld.
 Your colonists can be Embraced, drink blood, burn in the sun, sleep through the day and fight
 to keep what's left of their humanity. Around them is a hidden world of clans, sects, courts and
